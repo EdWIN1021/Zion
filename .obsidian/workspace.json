@@ -11,14 +11,10 @@
             "id": "c164da4582a1d78a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/AController/AController.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AController"
+              "title": "New tab"
             }
           }
         ]
@@ -181,16 +177,19 @@
   },
   "active": "9dd896b8f4787a10",
   "lastOpenFiles": [
+    "Sound Attenuation.md",
+    "Weapon Trail.md",
+    "Patrolling.md",
+    "Damage System.md",
+    "Macro",
+    "Struct",
+    "Class",
     "Class/AController/AController.md",
     "Class/AAIController/AAIController.md",
     "Class/AActor/AActor.md",
     "Class/AActor/Property/NetUpdateFrequency.md",
     "Class/UObject/UObject.md",
     "Class/AController/Function/GetPawn.md",
-    "Damage System.md",
-    "Patrolling.md",
-    "Sound Attenuation.md",
-    "Weapon Trail.md",
     "Reference.md",
     "Class/AAIController/Function/MoveTo.md",
     "Class/AAIController/Function/MoveToActor.md",
@@ -204,10 +203,7 @@
     "Class/AAIController/Function",
     "Class/AAIController",
     "Class/AActor.md",
-    "Class/AActor/Property",
-    "Class/AActor/Function",
     "Function/AController.md",
-    "Function/UObject",
     "q.md",
     "create a link.md"
   ]
