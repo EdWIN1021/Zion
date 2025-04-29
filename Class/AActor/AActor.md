@@ -1,0 +1,21 @@
+---
+Category: Class
+Hierarchy:
+  - "[[UObject]]"
+  - "[[AActor|AActor]]"
+---
+```dataview
+TABLE 
+WITHOUT ID file.link as "Function", 
+Category, 
+Return
+FROM "Class/AActor/Function"
+```
+
+```dataview
+TABLE 
+WITHOUT ID file.link as "Property", 
+Type
+FROM "Class/AActor/Property"
+```
+
