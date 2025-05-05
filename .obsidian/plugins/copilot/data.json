@@ -97,6 +97,22 @@
       ],
       "stream": true,
       "enableCors": true
+    },
+    {
+      "name": "deepseek-r1:8b",
+      "provider": "ollama",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://localhost:11434/",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning",
+        "vision",
+        "websearch"
+      ],
+      "stream": true,
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
@@ -141,6 +157,21 @@
     {
       "name": "deepseek-r1:14b",
       "provider": "ollama",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "http://localhost:11434/",
+      "apiKey": "",
+      "isEmbeddingModel": true,
+      "capabilities": [
+        "reasoning",
+        "vision",
+        "websearch"
+      ],
+      "enableCors": true
+    },
+    {
+      "name": "deepseek-r1:8b",
+      "provider": "openai",
       "enabled": true,
       "isBuiltIn": false,
       "baseUrl": "http://localhost:11434/",

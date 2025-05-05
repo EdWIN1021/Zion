@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6a51841b2f08232b",
+        "id": "7a0eeba4123fe744",
         "type": "tabs",
         "children": [
           {
-            "id": "c164da4582a1d78a",
+            "id": "ad8f6f780dc30066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/AController/AController.md",
+                "file": "Gameplay Ability Implementation/Gameplay Ability Implementation.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "AController"
+              "title": "Gameplay Ability Implementation"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Vitual",
+                "query": "Uproper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "d339742f718534d1",
@@ -166,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 659.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,36 +180,43 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9dd896b8f4787a10",
+  "active": "ad8f6f780dc30066",
   "lastOpenFiles": [
-    "Class/AController/AController.md",
-    "Class/AAIController/AAIController.md",
-    "Class/AActor/AActor.md",
-    "Class/AActor/Property/NetUpdateFrequency.md",
-    "Class/UObject/UObject.md",
-    "Class/AController/Function/GetPawn.md",
+    "Gameplay Ability System/Gameplay Ability System.md",
+    "Gameplay Ability Implementation/Gameplay Ability Implementation.md",
+    "Custom Enhanced Input Component/Custom Enhanced Input Component.md",
+    "GameplayCues/GameplayCues.md",
+    "GameplayCues",
+    "GameplayEffect/GameplayEffect.md",
+    "GameplayEffect",
+    "GameplayTags/GameplayTags.md",
+    "Motion Warpping/Motion Warpping.md",
+    "AttributeSet/AttributeSet.md",
+    "AttributeSet",
+    "Gameplay Ability Implementation",
+    "Gameplay Ability System",
+    "Struct/FActorTickFunction/FActorTickFunction.md",
+    "Struct/FActorTickFunction/Property/bCanEverTick.md",
+    "Struct/FActorTickFunction/Property/bStartWithTickEnabled.md",
     "Damage System.md",
-    "Patrolling.md",
-    "Sound Attenuation.md",
-    "Weapon Trail.md",
-    "Reference.md",
+    "Hit React System.md",
+    "Destructible Meshes.md",
+    "Navigation PathFinding System.md",
+    "Input Settings.md",
+    "UFUNCTION.md",
+    "Custom Enhanced Input Component",
+    "Class/UInputMappingContext/UInputMappingContext.md",
+    "Class/UGameplayStatics/UGameplayStatics.md",
+    "Class/UObject/UObject.md",
+    "Class/UPrimitiveComponent/UPrimitiveComponent.md",
+    "Class/AActor/AActor.md",
+    "Class/UInputMappingContext",
+    "Class/UDataAsset/UDataAsset.md",
+    "Class/UNiagaraSystem/UNiagaraSystem.md",
+    "Class/UDataAsset",
+    "Class/AAIController/AAIController.md",
     "Class/AAIController/Function/MoveTo.md",
-    "Class/AAIController/Function/MoveToActor.md",
-    "Class/AAIController/Function/MoveToLocation.md",
-    "Class/AActor/Function/ActorHasTag.md",
-    "Class/UObject",
-    "Class/AController/Property",
-    "Class/AController/Function",
-    "Class/AController",
-    "Class/AAIController/Property",
-    "Class/AAIController/Function",
-    "Class/AAIController",
-    "Class/AActor.md",
-    "Class/AActor/Property",
-    "Class/AActor/Function",
-    "Function/AController.md",
-    "Function/UObject",
-    "q.md",
-    "create a link.md"
+    "GameplayTags",
+    "Class/UCharacterMovementComponent/Property"
   ]
 }
