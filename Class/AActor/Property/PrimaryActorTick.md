@@ -1,4 +1,0 @@
----
-Type: "[[FActorTickFunction]]"
-tags:
----
