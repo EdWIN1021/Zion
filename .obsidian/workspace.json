@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a5b363ffed3510",
+        "id": "e4b8702a7aa5fa2c",
         "type": "tabs",
         "children": [
           {
-            "id": "24a951c1d1fcec57",
+            "id": "254bec3e135ac435",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Reference/UObject/GetWorld.md",
-                "mode": "source",
-                "source": false
+                "path": "Reference/AAIController"
               },
               "icon": "lucide-file",
-              "title": "GetWorld"
+              "title": "AAIController"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "2f79c2a9693d12bf",
+            "id": "cce784a94add3cf8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 364.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -176,32 +174,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24a951c1d1fcec57",
+  "active": "254bec3e135ac435",
   "lastOpenFiles": [
-    "Reference/Reference.md",
-    "Reference/UObject/GetWorld.md",
-    "Reference/UObject/UObject.md",
+    "Reference/AAIController/AAIController.md",
+    "Reference/AAIController/GetBlackboardComponent.md",
+    "Reference/AController/AController.md",
     "Reference/AActor/AActor.md",
+    "Reference/AActor/InputComponent.md",
+    "Reference/Reference.md",
+    "Reference/UObject/UObject.md",
+    "Reference/AActor/ActorHasTag.md",
+    "Reference/UObject/CreateDefaultSubObject.md",
+    "Reference/AController",
+    "Reference/AActor/Untitled.md",
+    "Reference/AActor/NetUpdateFrequency.md",
+    "Reference/AAIController",
+    "Reference/Untitled.md",
+    "Damage System.md",
+    "Tags",
+    "Reference/UObject/GetLifetimeReplicatedProps.md",
+    "Reference/UObject/GetWorld.md",
+    "UFUNCTION.md",
+    "_Reference/Class/AAIController/AAIController.md",
+    "Vault.md",
+    "2025-05-20.md",
+    "Untitled.md",
+    "Reference/{}.md",
+    "_Reference/Class/UObject/UObject.md",
     "Class/UObject/Untitled.md",
     "_Reference/Class/AActor/AActor.md",
     "Reference/AActor",
     "Class/Untitled.md",
     "Motion Warpping/Motion Warpping.md",
-    "Animation Blueprint Template/Animation Blueprint Template.md",
-    "Class/AActor.md",
     "Reference/UObject",
-    "Class/UObject.md",
-    "Vault.md",
-    "Reference",
-    "Gameplay Ability Implementation/Gameplay Ability Implementation.md",
-    "Untitled.md",
-    "Gameplay Ability System/Gameplay Ability System.md",
-    "Destructible Meshes.md",
-    "Custom Enhanced Input Component/Custom Enhanced Input Component.md",
-    "Damage System.md",
-    "AttributeSet/AttributeSet.md",
-    "GameplayTags/GameplayTags.md",
-    "Tags",
-    "GameplayEffect/GameplayEffect.md"
+    "Reference"
   ]
 }

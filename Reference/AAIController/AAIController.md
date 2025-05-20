@@ -1,4 +1,3 @@
 ---
 Category: Class
-Hierarchy: []
 ---

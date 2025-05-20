@@ -1,4 +1,10 @@
 {
-  "cssTheme": "Minimal",
-  "theme": "obsidian"
+  "cssTheme": "",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "baseFontSizeAction": false,
+  "textFontFamily": "Avenir",
+  "interfaceFontFamily": "Avenir",
+  "monospaceFontFamily": "Avenir"
 }
