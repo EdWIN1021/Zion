@@ -16,7 +16,7 @@ tags:
 - Navigate to:
     
     ```
-    Edit → Project Settings → Navigation Mesh → Runtime
+  Edit → Project Settings → Navigation Mesh → Runtime
     ```
     
 - Set **Runtime Generation** to: `Dynamic`
@@ -27,12 +27,13 @@ tags:
 - Navigate to:
     
     ```
-    Edit → Project Settings → Navigation Mesh → Generation → Nav Mesh Resolution Params → Default
+  Edit → Project Settings → Navigation Mesh → Generation → Nav Mesh Resolution Params → Default
     ```
     
 - Adjust the following parameters:
     - **CellSize**
         - **Explanation:** This is the size of each cell in the navigation mesh. A smaller value increases precision but may reduce performance, while a larger value improves performance at the cost of some precision.
+				
     - **CellHeight**
         - **Explanation:** This determines the vertical resolution of the navigation mesh, affecting how accurately the system handles height changes (e.g., stairs or slopes).
 

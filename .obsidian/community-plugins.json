@@ -1,5 +1,7 @@
 [
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "make-md"
+  "make-md",
+  "highlightr-plugin",
+  "code-styler"
 ]

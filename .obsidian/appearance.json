@@ -1,10 +1,10 @@
 {
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
   "baseFontSizeAction": false,
   "textFontFamily": "Avenir",
-  "interfaceFontFamily": "Avenir",
-  "monospaceFontFamily": "Avenir"
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": ""
 }
