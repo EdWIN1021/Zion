@@ -1,10 +1,14 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Things",
   "theme": "obsidian",
   "showViewHeader": true,
   "showRibbon": true,
   "baseFontSizeAction": false,
   "textFontFamily": "Avenir",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "styles"
+  ]
 }
