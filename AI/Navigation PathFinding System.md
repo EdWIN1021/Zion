@@ -2,6 +2,11 @@
 tags:
   - AI
 ---
+Pathfinding is essential for efficient navigation in game development and refers to the processing of determining the optimal path while simulating the movement from one point to another.
+
+A Navigation mesh, which is a data structure that represents the walkable surface of a level.
+
+
 ### 1. Show Navigation
 
 - **Command:** `show navigation`

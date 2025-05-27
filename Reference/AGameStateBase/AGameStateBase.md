@@ -1,0 +1,1 @@
+- A game state is responsible for storing and handing data pertinent to all players in a game.

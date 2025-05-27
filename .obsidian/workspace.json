@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "83e9841bfbeb5094",
+        "id": "577856fe191a50b9",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf01fd699596678",
+            "id": "05d7dc196ce7b172",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Temp.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "Reference/AAIController"
               },
               "icon": "lucide-file",
-              "title": "Temp"
+              "title": "AAIController"
             }
           }
         ]
@@ -54,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bool",
+                "query": "gamemo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +73,7 @@
             }
           },
           {
-            "id": "9db34bdef4efdf1c",
+            "id": "fad6401abcc554eb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -179,44 +176,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4bf01fd699596678",
+  "active": "05d7dc196ce7b172",
   "lastOpenFiles": [
-    "Reference/AActor/AddActorWorldOffset.md",
-    "Temp.md",
-    "Reference/AActor/ActorHasTag.md",
-    "Reference/AActor/Tags.md",
-    "Reference/AActor/InputComponent.md",
-    "Reference/AActor/FinishSpawning.md",
-    "Reference/AActor/PrimaryActorTick.md",
-    "Reference/AActor/AActor.md",
-    "Reference/AActor/FindComponentByClass.md",
-    "Reference/AActor/Destroyed.md",
-    "Reference/AActor/Destroy.md",
-    "Reference/AActor/AddActorWorldRotation.md",
-    "Reference/Reference.md",
-    "Reference/FActorTickFunction/FActorTickFunction.md",
+    "Reference/AAIController/AAIController.md",
     "Reference/UInputComponent/UInputComponent.md",
-    "Reference/UInputComponent",
-    "Reference/AActor/NetUpdateFrequency.md",
-    "Reference/UBTService/UBTService.md",
-    "Reference/BTDecorator_BlueprintBase/BTDecorator_BlueprintBase.md",
-    "Reference/FActorTickFunction",
-    "Reference/APawn/GetLastMovementInputVector.md",
+    "Reference/APlayerController/APlayerController.md",
+    "Reference/APlayerController",
+    "Reference/ACharacter/ACharacter.md",
+    "Reference/Untitled.canvas",
+    "Reference/ACharacter",
     "Reference/APawn/APawn.md",
-    "Reference/APawn",
-    "Input Action.md",
-    "Motion Warpping.md",
-    "Damage System.md",
-    "InputAction/InputAction.md",
-    "Input Settings.md",
-    "InputAction",
+    "Reference/APlayerState/APlayerState.md",
+    "Reference/APlayerState",
+    "Reference/AGameStateBase/AGameStateBase.md",
+    "Reference/AGameMode/AGameMode.md",
+    "Reference/AGameStateBase",
+    "Reference/UGameInstance/UGameInstance.md",
+    "Reference/AGameMode",
+    "Reference/UGameInstance",
+    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
+    "Reference/UAbilitySystemBlueprintLibrary/UAbilitySystemBlueprintLibrary.md",
+    "Reference/UPrimitiveComponent",
+    "Reference/USceneComponent/USceneComponent.md",
+    "Reference/UActorComponent/UActorComponent.md",
+    "Reference/USceneComponent",
+    "Reference/Untitled.md",
+    "Reference/Reference.md",
+    "Reference/AActor/Tags.md",
+    "Reference/AActor/AActor.md",
+    "Reference/UObject/CreateDefaultSubObject.md",
+    "Reference/UObject/GetWorld.md",
+    "Reference/UObject/UObject.md",
     "AI/AI.md",
-    "Reference/UAbilitySystemBlueprintLibrary",
-    "Reference/UAbilitySystemComponent",
-    "Reference/BTDecorator_BlueprintBase",
-    "Reference/UKismetAnimationLibrary",
-    "Reference/屏幕截图 2025-05-20 134231.png",
-    "Reference/EnvQueryContext_BlueprintBase",
-    "Reference/UBTService"
+    "AI/Navigation PathFinding System.md",
+    "Reference/FActorTickFunction/FActorTickFunction.md",
+    "Reference/UBTService/UBTService.md",
+    "Reference/UAbilitySystemBlueprintLibrary/SendGameplayEventToActor.md",
+    "Reference/UAbilitySystemComponent/UAbilitySystemComponent.md",
+    "Reference/UActorComponent",
+    "Reference/UInputComponent",
+    "Reference/屏幕截图 2025-05-20 134231.png"
   ]
 }
