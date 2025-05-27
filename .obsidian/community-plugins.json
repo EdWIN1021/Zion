@@ -3,5 +3,6 @@
   "make-md",
   "highlightr-plugin",
   "code-styler",
-  "obsidian-git"
+  "obsidian-git",
+  "copilot"
 ]

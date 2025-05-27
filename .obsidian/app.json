@@ -1,6 +1,6 @@
 {
   "livePreview": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "tabSize": 2,
   "readableLineLength": false,

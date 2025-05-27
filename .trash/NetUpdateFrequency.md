@@ -7,7 +7,8 @@ Category: Property
 
 
 ```cpp title:header
-UPROPERTY(Category=Replication, EditDefaultsOnly, BlueprintReadWrite) float NetUpdateFrequency;
+UPROPERTY(Category=Replication, EditDefaultsOnly, BlueprintReadWrite) 
+float NetUpdateFrequency;
 ```
 
 ```cpp title:cpp

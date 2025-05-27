@@ -13,19 +13,29 @@ To utilize the Motion Warping features, you first need to enable the plugin with
 2. **Locate and Enable**:
     - Scroll through the list of plugins until you find "Motion Warping."
     - Check the box next to it to enable the plugin.
+		
 
 ### 2. Adding the Motion Wrapping Component
 
 Once the plugin is enabled, you can add the Motion Wrapping Component to your character in Blueprints:
 
 1. **Open Your Character Blueprint**:
-    
     - Double-click on your character's blueprint in the Content Browser to open it for editing.
+		
 2. **Add the Component**:
-    
     - Right-click within the Blueprint graph and select `Add Component`.
     - From the available options, search for or select "Motion Wrapping Component" and add it to your character.
 
+```cpp title:Build.cpp
+PublicDependencyModuleNames.AddRange(new string[] { "MotionWarping" });
+```
+
+```cpp title:Header
+UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category="MotionWarping")  
+UMotionWarpingComponent* WarpingComponent;
+```
+
+	
 ### 3. Configuring Animation Montage with Notify States
 
 To trigger motion warping during animations, you'll need to set up a notify state in your animation montage:
@@ -44,6 +54,7 @@ To trigger motion warping during animations, you'll need to set up a notify stat
     - Set `Warp Target Name` to your target (e.g., "CombatTarget").
     - Enable `Warp Translation` and set `Ignore ZAxis` to true if you want to ignore vertical movement.
     - Check `Wrap Rotation` and set `Rotation Type` to `Facing` to ensure the character faces the target during warping.
+		
 
 ### 4. Testing and Fine-Tuning
 
@@ -60,6 +71,7 @@ After setting up, it's crucial to test your configuration:
     
     - Modify `Warp Translation` and `Ignore ZAxis` to see their effects on movement.
     - Test different `Rotation Types` to find the most natural facing direction for your character.
+		
 
 ### 5. Integrating with Existing Animations
 
@@ -71,6 +83,7 @@ Consider how motion warping interacts with your existing animations:
 2. **Adjust Parameters Dynamically**:
     
     - If necessary, write custom code to update target positions or modify warp parameters during runtime based on game logic.
+		
 
 ### Conclusion
 
