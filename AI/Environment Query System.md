@@ -1,3 +1,5 @@
+- The Environment Query System collects data from the environment, enabling AIs to inquire about the data using various tests.
+- Queries can be called from a *behavior tree* and used to make decisions on how to proceed based on the results of the executed tests.
 
 ```
 Artificial Intelligence -> Enviroment Query

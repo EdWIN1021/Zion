@@ -67,7 +67,9 @@
     "//Reference/Reference/APlayerState",
     "//Reference/Reference/ACharacter",
     "//Reference/Reference/APlayerController",
-    "//Reference/Reference/AAIController"
+    "//Reference/Reference/UGameplayStatics",
+    "//Reference/Reference/UBlackboardComponent",
+    "//Reference/Reference/UProjectileMovementComponent"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

@@ -106,3 +106,8 @@ UFUNCTION(NetMulticast, Reliable)
 UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, meta = (TitleProperty = "InputTag"))  
 TArray<FWarriorInputActionConfig> NativeInputActions;
 ```
+
+
+```cpp
+UFUNCTION(BlueprintPure, Category="Warrior|FunctionLibrary", meta=(CompactNodeTitle = "Get Value At Lebvel"))
+```
