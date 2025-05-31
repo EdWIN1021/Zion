@@ -6,7 +6,7 @@
   "baseFontSizeAction": false,
   "textFontFamily": "Avenir",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "Cascadia Mono",
   "baseFontSize": 16,
   "enabledCssSnippets": [
     "styles"

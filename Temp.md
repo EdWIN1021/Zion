@@ -14,3 +14,9 @@ GetSocktTransform
 DestoryActor
 
 GetActorForwardVector
+
+OnComponentHitEvent
+
+QuiteGame
+
+Property Access

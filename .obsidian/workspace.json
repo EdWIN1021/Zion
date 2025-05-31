@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "577856fe191a50b9",
+        "id": "756f1a3bd175324e",
         "type": "tabs",
         "children": [
           {
-            "id": "52435a79e7646143",
+            "id": "fe146ceb64757cc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UFUNCTION.md",
-                "mode": "preview",
+                "file": "Reference/UKismetMathLibrary/DegAcos.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "UFUNCTION"
+              "title": "DegAcos"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gamemo",
+                "query": "UKismetMathLibrary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "8e5bd4d1318e0a81",
+            "id": "3547e957e598b1e5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -179,45 +179,45 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "52435a79e7646143",
+  "active": "fe146ceb64757cc7",
   "lastOpenFiles": [
+    "Reference/UKismetMathLibrary/UKismetMathLibrary.md",
+    "Reference/UKismetMathLibrary/DegAcos.md",
+    "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
+    "Reference/UKismetMathLibrary",
+    "Reference/AGameMode/AGameMode.md",
+    "Reference/Reference.md",
+    "Reference/UBTService/UBTService.md",
+    "Reference/UGameplayAbility/ActivateAbilityFromEvent.md",
+    "Reference/UGameplayAbility/UGameplayAbility.md",
+    "Reference/UAbilitySystemBlueprintLibrary/SendGameplayEventToActor.md",
+    "Reference/UAbilitySystemBlueprintLibrary/UAbilitySystemBlueprintLibrary.md",
+    "Reference/UObject/UObject.md",
+    "Temp.md",
+    "Reference/UGameplayAbility",
+    "Reference/UCapsuleComponent/UCapsuleComponent.md",
+    "Reference/UCapsuleComponent/HiddenInGame.md",
+    "Reference/UCapsuleComponent",
+    "Input Action.md",
     "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
+    "Reference/AActor/AActor.md",
+    "UFUNCTION.md",
     "Reference/UProjectileMovementComponent/InitialSpeed.md",
     "Untitled.md",
     "Reference/UKismetAnimationLibrary/CalculateDirection.md",
-    "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
     "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
-    "Temp.md",
     "Reference/UProjectileMovementComponent",
     "AI/Environment Query System.md",
     "AI/Navigation PathFinding System.md",
     "AI/AI Perception System.md",
     "AI/Smart Object.md",
-    "AI/Mass Entity.md",
-    "Reference/UBlackboardComponent/UBlackboardComponent.md",
     "Reference/UBlackboardComponent",
-    "Reference/UGameplayStatics/UGameplayStatics.md",
     "Reference/UGameplayStatics",
-    "Reference/AAIController/AAIController.md",
-    "Reference/UInputComponent/UInputComponent.md",
-    "Reference/APlayerController/APlayerController.md",
     "Reference/APlayerController",
-    "Reference/ACharacter/ACharacter.md",
     "Reference/Untitled.canvas",
     "Reference/ACharacter",
-    "Reference/APawn/APawn.md",
-    "Reference/APlayerState/APlayerState.md",
     "Reference/APlayerState",
-    "Reference/AGameStateBase/AGameStateBase.md",
-    "Reference/AGameMode/AGameMode.md",
     "Reference/AGameStateBase",
-    "Reference/UGameInstance/UGameInstance.md",
-    "Reference/AGameMode",
-    "Reference/UGameInstance",
-    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
-    "Reference/UAbilitySystemBlueprintLibrary/UAbilitySystemBlueprintLibrary.md",
-    "Reference/UPrimitiveComponent",
-    "Reference/USceneComponent/USceneComponent.md",
     "Reference/屏幕截图 2025-05-20 134231.png"
   ]
 }

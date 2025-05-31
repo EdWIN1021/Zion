@@ -55,7 +55,6 @@
     "//Reference/Reference/FActorTickFunction",
     "//Reference/Reference/BTDecorator_BlueprintBase",
     "//Reference/Reference/EnvQueryContext_BlueprintBase",
-    "//AI",
     "//Reference",
     "//Reference/Reference/UInputComponent",
     "//Reference/Reference/UActorComponent",
@@ -68,8 +67,7 @@
     "//Reference/Reference/ACharacter",
     "//Reference/Reference/APlayerController",
     "//Reference/Reference/UGameplayStatics",
-    "//Reference/Reference/UBlackboardComponent",
-    "//Reference/Reference/UProjectileMovementComponent"
+    "//Reference/Reference/UBlackboardComponent"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
