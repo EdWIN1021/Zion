@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "756f1a3bd175324e",
+        "id": "8b097b0e89248681",
         "type": "tabs",
         "children": [
           {
-            "id": "fe146ceb64757cc7",
+            "id": "c50ee7e2ae776d77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Reference/UKismetMathLibrary/DegAcos.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "Reference/UObject"
               },
               "icon": "lucide-file",
-              "title": "DegAcos"
+              "title": "UObject"
             }
           }
         ]
@@ -76,7 +73,7 @@
             }
           },
           {
-            "id": "3547e957e598b1e5",
+            "id": "95b9559b674d6176",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -159,65 +156,75 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "272cdcbe57b0a287",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 530.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fe146ceb64757cc7",
+  "active": "95b9559b674d6176",
   "lastOpenFiles": [
+    "Reference/UObject/UObject.md",
+    "Reference/Reference.md",
+    "AttributeSet/AttributeSet.md",
+    "Weapon Trail.md",
+    "Sound Attenuation.md",
+    "Root Motion.md",
+    "Animation/Animation Controller.md",
+    "Animation/Animator.md",
+    "Timer.md",
+    "Player.md",
+    "UFUNCTION.md",
+    "Temp.md",
+    "Reference/USceneComponent/USceneComponent.md",
+    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
+    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
+    "Reference/UProjectileMovementComponent/InitialSpeed.md",
+    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
+    "Reference/UObject/GetWorld.md",
+    "Reference/UObject/GetLifetimeReplicatedProps.md",
     "Reference/UKismetMathLibrary/UKismetMathLibrary.md",
     "Reference/UKismetMathLibrary/DegAcos.md",
+    "Reference/UObject/CreateDefaultSubObject.md",
     "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
-    "Reference/UKismetMathLibrary",
-    "Reference/AGameMode/AGameMode.md",
-    "Reference/Reference.md",
-    "Reference/UBTService/UBTService.md",
-    "Reference/UGameplayAbility/ActivateAbilityFromEvent.md",
-    "Reference/UGameplayAbility/UGameplayAbility.md",
-    "Reference/UAbilitySystemBlueprintLibrary/SendGameplayEventToActor.md",
-    "Reference/UAbilitySystemBlueprintLibrary/UAbilitySystemBlueprintLibrary.md",
-    "Reference/UObject/UObject.md",
-    "Temp.md",
-    "Reference/UGameplayAbility",
-    "Reference/UCapsuleComponent/UCapsuleComponent.md",
-    "Reference/UCapsuleComponent/HiddenInGame.md",
-    "Reference/UCapsuleComponent",
-    "Input Action.md",
-    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
-    "Reference/AActor/AActor.md",
-    "UFUNCTION.md",
-    "Reference/UProjectileMovementComponent/InitialSpeed.md",
-    "Untitled.md",
+    "Reference/UInputComponent/UInputComponent.md",
     "Reference/UKismetAnimationLibrary/CalculateDirection.md",
-    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
+    "Reference/UGameplayStatics/UGameplayStatics.md",
+    "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
-    "AI/Environment Query System.md",
-    "AI/Navigation PathFinding System.md",
-    "AI/AI Perception System.md",
-    "AI/Smart Object.md",
-    "Reference/UBlackboardComponent",
+    "Reference/UPrimitiveComponent",
+    "Reference/UKismetMathLibrary",
+    "Reference/UObject",
+    "Reference/UKismetAnimationLibrary",
+    "Reference/UInputComponent",
     "Reference/UGameplayStatics",
-    "Reference/APlayerController",
+    "Reference/UGameplayAbility",
+    "Reference/UGameInstance",
     "Reference/Untitled.canvas",
-    "Reference/ACharacter",
-    "Reference/APlayerState",
-    "Reference/AGameStateBase",
     "Reference/屏幕截图 2025-05-20 134231.png"
   ]
 }
