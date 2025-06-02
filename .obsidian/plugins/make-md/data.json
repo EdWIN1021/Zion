@@ -41,7 +41,6 @@
     "/",
     "//Animation",
     "//AttributeSet",
-    "//Reference",
     "//Reference/Reference/UKismetMathLibrary",
     "//Reference/Reference/UGameplayCueNotify_Actor"
   ],
