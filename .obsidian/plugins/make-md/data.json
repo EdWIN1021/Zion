@@ -41,7 +41,9 @@
     "/",
     "//Animation",
     "//AttributeSet",
-    "//Reference/Reference/UObject"
+    "//Reference",
+    "//Reference/Reference/UKismetMathLibrary",
+    "//Reference/Reference/UGameplayCueNotify_Actor"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

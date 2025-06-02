@@ -11,15 +11,31 @@
             "id": "c50ee7e2ae776d77",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Reference/UObject"
+                "file": "Reference/UAbilitySystemComponent/ClearAbility.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "UObject"
+              "title": "ClearAbility"
+            }
+          },
+          {
+            "id": "c5c70746a8b9608d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Reference/UGameplayCueNotify_Actor"
+              },
+              "icon": "lucide-file",
+              "title": "UGameplayCueNotify_Actor"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UKismetMathLibrary",
+                "query": "UGameplayA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +89,7 @@
             }
           },
           {
-            "id": "95b9559b674d6176",
+            "id": "55b6db7202e8b038",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 454.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -172,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,44 +202,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "95b9559b674d6176",
+  "active": "c5c70746a8b9608d",
   "lastOpenFiles": [
-    "Reference/UObject/UObject.md",
-    "Reference/Reference.md",
-    "AttributeSet/AttributeSet.md",
-    "Weapon Trail.md",
-    "Sound Attenuation.md",
-    "Root Motion.md",
-    "Animation/Animation Controller.md",
-    "Animation/Animator.md",
-    "Timer.md",
-    "Player.md",
-    "UFUNCTION.md",
-    "Temp.md",
-    "Reference/USceneComponent/USceneComponent.md",
-    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
-    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
-    "Reference/UProjectileMovementComponent/InitialSpeed.md",
-    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
-    "Reference/UObject/GetWorld.md",
-    "Reference/UObject/GetLifetimeReplicatedProps.md",
+    "Reference/UGameplayCueNotify_Actor/UGameplayCueNotify_Actor.md",
     "Reference/UKismetMathLibrary/UKismetMathLibrary.md",
+    "Reference/UGameplayCueNotify_Static/UGameplayCueNotify_Static.md",
+    "Reference/UGameplayCueNotify_Static",
+    "Reference/Reference.md",
+    "Temp.md",
+    "Reference/UGameplayCueNotify_Actor",
+    "Reference/UAbilitySystemComponent/ClearAbility.md",
+    "Reference/UAbilitySystemComponent/GetActivatableGameplayAbilitySpecsByAllMatchingTags.md",
+    "Reference/UAbilitySystemComponent/UAbilitySystemComponent.md",
+    "Reference/UGameplayAbility/UGameplayAbility.md",
+    "Hit React System.md",
+    "Reference/USceneComponent/USceneComponent.md",
+    "Reference/UProjectileMovementComponent/InitialSpeed.md",
+    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
+    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
     "Reference/UKismetMathLibrary/DegAcos.md",
-    "Reference/UObject/CreateDefaultSubObject.md",
-    "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
-    "Reference/UInputComponent/UInputComponent.md",
+    "Reference/UPrimitiveComponent/UPrimitiveComponent.md",
     "Reference/UKismetAnimationLibrary/CalculateDirection.md",
+    "Reference/UObject/UObject.md",
+    "Reference/UObject/GetWorld.md",
+    "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
+    "Reference/UObject/GetLifetimeReplicatedProps.md",
+    "Reference/UObject/CreateDefaultSubObject.md",
+    "Reference/UInputComponent/UInputComponent.md",
     "Reference/UGameplayStatics/UGameplayStatics.md",
+    "Reference/UCapsuleComponent/HiddenInGame.md",
+    "Reference/UGameplayAbility/ActivateAbilityFromEvent.md",
     "Reference/USceneComponent",
+    "Reference/UKismetMathLibrary",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",
-    "Reference/UKismetMathLibrary",
     "Reference/UObject",
     "Reference/UKismetAnimationLibrary",
     "Reference/UInputComponent",
     "Reference/UGameplayStatics",
-    "Reference/UGameplayAbility",
-    "Reference/UGameInstance",
     "Reference/Untitled.canvas",
     "Reference/屏幕截图 2025-05-20 134231.png"
   ]

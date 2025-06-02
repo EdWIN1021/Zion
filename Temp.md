@@ -20,3 +20,17 @@ OnComponentHitEvent
 QuiteGame
 
 Property Access
+
+GetCurrentAcceleration
+
+SizeSquared2D
+
+CancelAbilityHandle
+
+Add GameplayCueWithParams To Owner
+
+HasMatchingGameplayTag
+
+--- 
+
+SwitchOnGameplayTag

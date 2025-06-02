@@ -21,7 +21,6 @@ const FVector ImpactLowered(ImpactPoint.X, ImpactPoint.Y, GetActorLocation().Z);
 - **Explanation**: Creates a new vector with X and Y from `ImpactPoint` and Z from actor's current location.
 
 ---
-
 ## 2. Computing Direction Vector
 
 ```cpp
@@ -63,6 +62,24 @@ Theta = FMath::RadiansToDegrees(Theta);
 ---
 
 ## 5. Determining Left vs. Right with Cross Product
+
+```
+      Y+ (右侧)
+          ▲
+          │
+          │  攻击者位置 (0,1)
+          │    CrossResult.Z = +1
+          │
+          │
+受害者 ◄──┼───► X+ (前向)
+(0,0)     │
+          │
+          │  攻击者位置 (0,-1)
+          │    CrossResult.Z = -1
+          │
+          ▼
+         Y- (左侧)
+```
 
 ```cpp
 const FVector CrossProduct = FVector::CrossProduct(Forward, ToHit);
