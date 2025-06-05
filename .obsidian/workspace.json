@@ -11,12 +11,15 @@
             "id": "c50ee7e2ae776d77",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Reference/UObject"
+                "file": "Temp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "UObject"
+              "title": "Temp"
             }
           }
         ]
@@ -73,7 +76,7 @@
             }
           },
           {
-            "id": "95b9559b674d6176",
+            "id": "1155407d8502975b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -172,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 530.5
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +189,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "95b9559b674d6176",
+  "active": "c50ee7e2ae776d77",
   "lastOpenFiles": [
     "Reference/UObject/UObject.md",
+    "Tags",
     "Reference/Reference.md",
     "AttributeSet/AttributeSet.md",
     "Weapon Trail.md",
@@ -213,7 +217,6 @@
     "Reference/UKismetAnimationLibrary/UKismetAnimationLibrary.md",
     "Reference/UInputComponent/UInputComponent.md",
     "Reference/UKismetAnimationLibrary/CalculateDirection.md",
-    "Reference/UGameplayStatics/UGameplayStatics.md",
     "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",
@@ -223,7 +226,6 @@
     "Reference/UInputComponent",
     "Reference/UGameplayStatics",
     "Reference/UGameplayAbility",
-    "Reference/UGameInstance",
     "Reference/Untitled.canvas",
     "Reference/屏幕截图 2025-05-20 134231.png"
   ]

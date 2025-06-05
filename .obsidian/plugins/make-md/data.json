@@ -41,7 +41,7 @@
     "/",
     "//Animation",
     "//AttributeSet",
-    "//Reference/Reference/UObject"
+    "//Reference"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
