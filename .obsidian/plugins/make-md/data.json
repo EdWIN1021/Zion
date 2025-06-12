@@ -41,7 +41,8 @@
     "/",
     "//Animation",
     "//AttributeSet",
-    "//Reference"
+    "//Gameplay Ability Implementation",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
