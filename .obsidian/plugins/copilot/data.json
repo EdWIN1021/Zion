@@ -225,7 +225,7 @@
       "showInContextMenu": false
     }
   ],
-  "lastDismissedVersion": null,
+  "lastDismissedVersion": "2.9.0",
   "passMarkdownImages": true,
   "enableCustomPromptTemplating": true
 }
