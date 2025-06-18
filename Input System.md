@@ -84,3 +84,17 @@ if(moveInput.x == 0){
 	// character is not moving
 }
 ```
+
+
+---
+### Horizontal Movement
+
+```csharp
+private float moveX;
+
+private void Movement()  
+{  
+    moveX = Input.GetAxis("Horizontal");  
+}
+
+```

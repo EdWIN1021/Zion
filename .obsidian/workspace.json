@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "49426663c0e908ee",
+        "id": "06fb3f269b257a8b",
         "type": "tabs",
         "children": [
           {
-            "id": "2a12041ab0fb01b2",
+            "id": "4d21d1998e308a51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input System.md",
+                "file": "Movement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Input System"
+              "title": "Movement"
+            }
+          },
+          {
+            "id": "ccb2209444fb0308",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animation/Animator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Animator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,23 +88,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "f435a7eb4bcd7585",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 279.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -174,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,22 +191,30 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2a12041ab0fb01b2",
+  "active": "ccb2209444fb0308",
   "lastOpenFiles": [
-    "2D/2D.md",
-    "Gizmos/Gizmos.md",
-    "2D/Sprite Editor.md",
-    "2D/Rigidbody 2D.md",
-    "Player.md",
-    "Animation/Animator.md",
     "Animation/Animation Controller.md",
+    "Animation/Animator.md",
     "Animation/Animation.md",
+    "Access Component.md",
+    "Player.md",
+    "Input System.md",
     "Ground Detection.md",
     "Capsule Collider 2D.md",
+    "Gizmos/Gizmos.md",
+    "Movement.md",
+    "Sprite Renderer.md",
+    "Vault.md",
+    "2D/2D.md",
+    "2D/Rigidbody 2D.md",
+    "2D/Sprite Editor.md",
     "Gizmos/DrawLine.md",
+    "Gizmos",
+    "Animation",
+    "2D/Box Collider 2D.md",
+    "2D",
     "GLFW.md",
     "GLEW.md",
-    "Vault.md",
     "Temp.md",
     "Reference/UObject/UObject.md",
     "Tags",
@@ -211,20 +223,12 @@
     "Weapon Trail.md",
     "Sound Attenuation.md",
     "Root Motion.md",
-    "Timer.md",
-    "UFUNCTION.md",
-    "Reference/USceneComponent/USceneComponent.md",
-    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
-    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
     "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",
     "Reference/UKismetMathLibrary",
     "Reference/UObject",
     "Reference/UKismetAnimationLibrary",
-    "Reference/UInputComponent",
-    "Reference/UGameplayStatics",
-    "Reference/UGameplayAbility",
     "Reference/Untitled.canvas",
     "Reference/屏幕截图 2025-05-20 134231.png"
   ]

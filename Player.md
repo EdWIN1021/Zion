@@ -1,7 +1,6 @@
 
-## 2D
----
-### Sprite Renderer
+##  2D
+### [[Sprite Renderer]]
 
 ### [[Animator]]
 
