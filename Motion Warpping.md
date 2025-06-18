@@ -38,7 +38,6 @@ UMotionWarpingComponent* WarpingComponent;
 	
 ### 3. Configuring Animation Montage with Notify States
 
-To trigger motion warping during animations, you'll need to set up a notify state in your animation montage:
 
 1. **Open Your Animation Montage**:
     

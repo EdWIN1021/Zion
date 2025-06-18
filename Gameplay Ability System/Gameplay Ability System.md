@@ -1,6 +1,13 @@
 
 The Gameplay Ability System is a core component of Unreal Engine for managing abilities and attributes in character-driven games. Below is a concise guide to setting up and using the ability system.
 
+## Debug
+
+```
+showdebug abilities
+```
+
+
 ## Dependencies
 
 Add these public dependencies to your project's `.Build.cs` file:
@@ -9,9 +16,10 @@ Add these public dependencies to your project's `.Build.cs` file:
 PublicDependencyModuleNames.AddRange(new string[] { "GameplayAbilities", "GameplayTags", "GameplayTasks" });
 ```
 
+
 ## Key Components
 
-### 1. **Ability System Component**
+### Ability System Component
 
 Create a custom `UAbilitySystemComponent` class that inherits from `UAbilitySystemComponent`.
 
@@ -24,7 +32,7 @@ class WARRIOR_API UWarriorAbilitySystemComponent : public UAbilitySystemComponen
 };
 ```
 
-### 2. **Attribute Set**
+### Attribute Set
 
 Create a custom attribute set class that inherits from `UAttributeSet`.
 
@@ -36,6 +44,7 @@ class WARRIOR_API UWarriorAttributeSet : public UAttributeSet
     // Define your attributes here
 };
 ```
+
 
 ## Character Setup
 
@@ -59,6 +68,7 @@ AWarriorBaseCharacter::AWarriorBaseCharacter()
 }
 ```
 
+
 ## Possession Event
 
 Override the `PossessedBy` function to initialize the ability system:
@@ -75,6 +85,7 @@ void AWarriorBaseCharacter::PossessedBy(AController* NewController)
 }
 ```
 
+
 ## Implementing the Ability System Interface
 
 Make your character class implement `IAbilitySystemInterface`:
@@ -85,6 +96,7 @@ class WARRIOR_API AWarriorBaseCharacter : public ACharacter, public IAbilitySyst
     // Your other code here
 };
 ```
+
 
 ## Accessing the Ability System Component
 

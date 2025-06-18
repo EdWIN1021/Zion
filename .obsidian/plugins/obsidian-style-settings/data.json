@@ -1,5 +1,8 @@
 {
   "minimal-advanced@@cursor": "default",
   "things-style@@mobile-black-background": false,
-  "things-style@@h2-underline": false
+  "things-style@@h2-underline": false,
+  "things-style@@h4-color": "#A6DA95",
+  "things-style@@h3-color": "#EED49F",
+  "things-style@@h2-color": "#8AADF4"
 }
