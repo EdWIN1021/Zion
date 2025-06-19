@@ -1,3 +1,4 @@
+
 ```cpp
 [SerializeField] private float groundCheckDistance;  
 [SerializeField] private LayerMask whatIsGround;  
@@ -11,4 +12,7 @@ private void HandleCollisionDetection()
 }
 ```
 
-**Assign Ground Layer in Unity Editor**
+
+### Assign Ground Layer in Unity Editor
+
+![[Screenshot 2025-06-19 150720.png]]

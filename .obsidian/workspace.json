@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d21d1998e308a51",
+            "id": "3381561fc5c607ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movement.md",
-                "mode": "source",
+                "file": "Parallax Background.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Movement"
+              "title": "Parallax Background"
             }
           },
           {
-            "id": "ccb2209444fb0308",
+            "id": "7c8670c89a5f6b69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animation/Animator.md",
-                "mode": "source",
+                "file": "Parallax Background.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Animator"
+              "title": "Parallax Background"
             }
           }
         ],
@@ -191,19 +191,26 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ccb2209444fb0308",
+  "active": "7c8670c89a5f6b69",
   "lastOpenFiles": [
-    "Animation/Animation Controller.md",
-    "Animation/Animator.md",
-    "Animation/Animation.md",
-    "Access Component.md",
-    "Player.md",
+    "Screenshot 2025-06-19 153825 1.png",
+    "Screenshot 2025-06-19 153825.png",
+    "Sprite Renderer.md",
+    "Retrieve the Main Camera.md",
+    "Parallax Background.md",
+    "Movement.md",
     "Input System.md",
     "Ground Detection.md",
     "Capsule Collider 2D.md",
+    "Player.md",
+    "-Assets-/Screenshot 2025-06-19 150720.png",
+    "-Assets-",
+    "Struct.md",
+    "Access Component.md",
+    "Animation/Animation.md",
+    "Animation/Animator.md",
+    "Animation/Animation Controller.md",
     "Gizmos/Gizmos.md",
-    "Movement.md",
-    "Sprite Renderer.md",
     "Vault.md",
     "2D/2D.md",
     "2D/Rigidbody 2D.md",
@@ -219,16 +226,11 @@
     "Reference/UObject/UObject.md",
     "Tags",
     "Reference/Reference.md",
-    "AttributeSet/AttributeSet.md",
-    "Weapon Trail.md",
-    "Sound Attenuation.md",
-    "Root Motion.md",
     "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",
     "Reference/UKismetMathLibrary",
     "Reference/UObject",
-    "Reference/UKismetAnimationLibrary",
     "Reference/Untitled.canvas",
     "Reference/屏幕截图 2025-05-20 134231.png"
   ]
