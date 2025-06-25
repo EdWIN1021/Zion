@@ -23,13 +23,6 @@ To trigger the weapon trail effect during animation, follow these steps:
 
 ## Assign the Niagara System and Socket
 
-To complete the weapon trail setup:
+- **Niagara System** asset (e.g., `WeaponTrail_Niagara`).
+- Configure the **Socket Name**
 
-1. **Set the Niagara Template**:
-    
-    - In the notify's **Details**, find the **Template** property.
-    - Set this to your desired **Niagara System** asset (e.g., `WeaponTrail_Niagara`).
-2. **Configure the Socket Name**:
-    
-    - Under **Socket Name**, type the exact name of the socket you'll create in Section 2.
-    - Ensure the socket name matches exactly with the one defined in your character or weapon mesh.
