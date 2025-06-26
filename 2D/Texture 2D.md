@@ -13,6 +13,9 @@
 #### Compression: 
 - None
 
+---
+
+## Sprite Editor
 ### Slice
 
 - Type: Grid By Cell Size

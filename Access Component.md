@@ -23,3 +23,12 @@ private void Awake()
 }
 
 ```
+
+
+### GetComponentInParent
+```cpp
+private void Awake()  
+{  
+    entity = GetComponentInParent<Entity>();  
+}
+```
