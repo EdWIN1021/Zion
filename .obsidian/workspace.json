@@ -43,32 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AbilityTask.md",
+                "file": "InputSystem/Chorded Action.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AbilityTask"
-            }
-          },
-          {
-            "id": "cea68960e5ace671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GameplayCues/GameplayCues.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "GameplayCues"
+              "title": "Chorded Action"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GameplayAbility",
+                "query": "GameplayEffec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 304.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -159,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameplayCues/GameplayCues.md",
+                "file": "InputSystem/Chorded Action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GameplayCues"
+              "title": "Outgoing links from Chorded Action"
             }
           },
           {
@@ -223,10 +208,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea68960e5ace671",
+  "active": "8a8c0f7d91a4d7d1",
   "lastOpenFiles": [
-    "Send Gameplay Event To Owner.md",
+    "Screenshot 2025-06-27 195529.png",
+    "GameplayTags/GameplayTags.md",
+    "InputSystem/Chorded Action.md",
+    "GameplayEffect/GameplayEffect.md",
+    "InputSystem",
+    "AbilityTask.md",
     "Reference/UGameplayAbility/UGameplayAbility.md",
+    "Untitled.md",
+    "Reference/UGameplayAbility/ActivateAbilityFromEvent.md",
+    "Reference/UAbilitySystemComponent/GetOwnerActor.md",
+    "Reference/UAbilitySystemComponent/GetAvatarActor.md",
+    "Reference/UAbilitySystemComponent/GetActivatableGameplayAbilitySpecsByAllMatchingTags.md",
+    "Reference/UAbilitySystemComponent/UAbilitySystemComponent.md",
+    "Gameplay Ability System/AttributeSet.md",
+    "Reference/UAbilitySystemComponent.md",
+    "Reference/UAbilitySystemComponentUntitled",
+    "Gameplay Ability System/Setup.md",
+    "GameplayCues/GameplayCues.md",
+    "Send Gameplay Event To Owner.md",
     "AI/Decorator (BTDecorator_BlueprintBase).md",
     "AI/Smart Object.md",
     "AI/Patrolling.md",
@@ -236,25 +238,10 @@
     "AI/AI Perception System.md",
     "Motion Warpping.md",
     "TSoftClassPtr.md",
-    "AbilityTask.md",
-    "Widget Component.md",
-    "Weapon Trail.md",
-    "Toggle Weapon Collision.md",
-    "Hit React System.md",
-    "Input Action.md",
-    "Handle Property Changes in Editor.md",
-    "AsyncLoad.md",
-    "UFUNCTION.md",
-    "Temp.md",
-    "Timer.md",
-    "TArray.md",
-    "Sound Attenuation.md",
-    "Overlap Event.md",
     "-Assets-/Screenshot 2025-06-24 210156.png",
     "-Assets-/Screenshot 2025-06-24 210608.png",
     "-Assets-/Screenshot 2025-06-24 142404.png",
     "-Assets-/Screenshot 2025-06-24 164000.png",
-    "Reference/UAbilitySystemBlueprintLibrary/SendGameplayEventToActor.md",
     "-Assets-/Screenshot 2025-06-24 205824.png",
     "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
@@ -264,8 +251,6 @@
     "Reference/UKismetMathLibrary",
     "Reference/UInputComponent",
     "Reference/UGameplayStatics",
-    "Reference/UGameplayAbility",
-    "Reference/UGameInstance",
     "-Assets-/Screenshot 2025-06-18 203036.png",
     "-Assets-/Screenshot 2025-06-18 202621.png",
     "Screenshot 2025-06-19 153825 1.png",
