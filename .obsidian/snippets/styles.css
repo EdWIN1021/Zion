@@ -6,8 +6,8 @@
 }
 
 
-/*
-.cm-hmd-codeblock.cm-variable {
-    color: red;
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-*/
