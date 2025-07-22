@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "06fb3f269b257a8b",
+        "id": "f28e3a56f9535d74",
         "type": "tabs",
         "children": [
           {
-            "id": "0a217b4b6546503c",
+            "id": "8704884c9ac35f2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics 2D.md",
+                "file": "Gizmos/DrawWireSphere.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Physics 2D"
+              "title": "DrawWireSphere"
             }
           }
         ]
@@ -31,22 +31,10 @@
     "type": "split",
     "children": [
       {
-        "id": "fccd44e440ada242",
+        "id": "b3ee2811d135b8fc",
         "type": "tabs",
+        "dimension": 18.832391713747647,
         "children": [
-          {
-            "id": "b7d7b430a8371fe4",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": true
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "b695828163473881",
             "type": "leaf",
@@ -63,6 +51,26 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          }
+        ]
+      },
+      {
+        "id": "fccd44e440ada242",
+        "type": "tabs",
+        "dimension": 81.16760828625236,
+        "children": [
+          {
+            "id": "b7d7b430a8371fe4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           },
           {
             "id": "f6cf7f287c35becb",
@@ -78,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 385.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -94,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Component/Rigidbody 2D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Rigidbody 2D"
             }
           },
           {
@@ -112,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics 2D.md",
+                "file": "Component/Rigidbody 2D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Physics 2D"
+              "title": "Outgoing links from Rigidbody 2D"
             }
           },
           {
@@ -141,16 +150,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Gizmos/DrawWireSphere.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of DrawWireSphere"
+            }
+          },
+          {
+            "id": "272cdcbe57b0a287",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -166,53 +186,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a217b4b6546503c",
+  "active": "8704884c9ac35f2a",
   "lastOpenFiles": [
-    "Retrieve the Main Camera.md",
-    "-Assets-/Screenshot 2025-06-26 180646.png",
-    "Physics 2D.md",
-    "Gizmos/color.md",
     "Gizmos/DrawLine.md",
-    "Access Component.md",
-    "Gizmos/Gizmos.md",
-    "-Assets-/Screenshot 2025-06-26 131122.png",
-    "-Assets-/Screenshot 2025-06-26 132217.png",
-    "-Assets-/Screenshot 2025-06-26 132307.png",
-    "-Assets-/Screenshot 2025-06-26 135335.png",
-    "-Assets-/Screenshot 2025-06-26 135357.png",
-    "Animation/Blend Tree.md",
-    "Animation/Animation.md",
-    "Animation/Animator.md",
-    "Animation/Animation Controller.md",
-    "Attribute.md",
-    "Animation/Animation Event.md",
-    "-Assets-/Pasted image 20250626132125.png",
-    "Movement.md",
-    "Parallax Background.md",
-    "Input System.md",
-    "Ground Detection.md",
-    "Cinemachine.md",
-    "Character (2D).md",
+    "Gizmos/color.md",
     "Component/Sprite Renderer.md",
     "Component/Rigidbody 2D.md",
-    "Component/Composite Collider 2D.md",
+    "Animation/Animation.md",
+    "Screenshot 2025-06-29 200532.png",
+    "Animation/Animation Clip.md",
+    "Animation/Blend Tree.md",
+    "Animation/Animator.md",
+    "Animation/Animation Event.md",
+    "Animation/Animation Controller.md",
+    "Untitled.canvas",
+    "Input System.md",
     "Component/Capsule Collider 2D.md",
     "Component/Box Collider 2D.md",
-    "-Assets-/Screenshot 2025-06-26 102003.png",
-    "-Assets-/Screenshot 2025-06-26 101416.png",
+    "Component/Composite Collider 2D.md",
+    "Attribute.md",
     "Struct.md",
+    "Coroutine.md",
+    "Material.md",
+    "Character (2D).md",
+    "Gizmos/DrawWireSphere.md",
+    "Collider Detection/Ground Detection.md",
+    "Collider Detection/Detect enemies within range.md",
     "2D/Texture 2D.md",
+    "Cinemachine.md",
+    "Movement.md",
+    "Collider Detection",
+    "Gizmos",
     "Component",
+    "-Assets-/Screenshot 2025-06-26 180646.png",
+    "-Assets-/Screenshot 2025-06-26 135357.png",
+    "-Assets-/Screenshot 2025-06-26 135335.png",
+    "-Assets-/Screenshot 2025-06-26 132307.png",
+    "-Assets-/Screenshot 2025-06-26 132217.png",
+    "-Assets-/Screenshot 2025-06-26 131122.png",
+    "-Assets-/Screenshot 2025-06-26 102003.png",
+    "-Assets-/Screenshot 2025-06-19 153825.png",
     "-Assets-/Screenshot 2025-06-19 153825 1.png",
-    "2D",
+    "InputSystem",
+    "Reference/UAbilitySystemComponentUntitled",
     "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",
     "Reference/UObject",
     "Reference/UKismetAnimationLibrary",
-    "Reference/UKismetMathLibrary",
-    "Reference/UInputComponent",
-    "Reference/UGameplayStatics",
     "Reference/Untitled.canvas"
   ]
 }

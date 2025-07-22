@@ -7,7 +7,20 @@
 - This is a _shared physics material_ that overrides individual collider materials for simplicity 
 - Physical Material 2D
 
+#### Simulated
+
+控制刚体是否被物理系统模拟
+
+```cpp
+rigidbody.simulated = false;
+```
+
 #### Gravity Scale
+
+```cpp
+rb.gravityScale = 12;
+```
+
 
 #### Linear Damping
 - **Linear Damping** (also called **Drag**) is a property of the `Rigidbody2D` component that **slows down linear movement** (translation) over time. It simulates resistance like air/fluid friction or drag forces, preventing objects from moving indefinitely.
@@ -23,3 +36,8 @@
 #### Freeze Rotation Z
 
 
+#### Linear Velocity
+
+```cpp
+rb.linearVelocity = new Vector2(rb.linearVelocity.x, 15);
+```

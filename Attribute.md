@@ -16,3 +16,12 @@ public float moveSpeed = 1.4f;
 [Range(0, 2)]  // 其值只能在 0 到 2 之间调整
 public float moveAnimSpeedMultiplier = 1;
 ```
+
+
+
+### Space
+用来在 **Inspector 面板中添加垂直间距**，让变量之间看起来更整洁、分组更清晰
+
+```cpp
+[Space]
+```
