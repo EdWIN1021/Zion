@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3fae40ab8137b3d",
+        "id": "f4b0ef053036045b",
         "type": "tabs",
         "children": [
           {
-            "id": "de39c9b662eb8eb7",
+            "id": "6346f6d820311219",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "may and might.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "may and might"
             }
           }
         ]
@@ -82,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 387.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -146,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "may and might.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of may and might"
             }
           },
           {
@@ -169,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de39c9b662eb8eb7",
+  "active": "6346f6d820311219",
   "lastOpenFiles": [
+    "Grammar.canvas",
+    "may and might.md",
+    "Untitled.md",
     "Access Component.md",
     "Gizmos/DrawWireSphere.md",
     "Gizmos/DrawLine.md",
@@ -196,7 +204,6 @@
     "Animation/Animator.md",
     "Animation/Animation Event.md",
     "Animation/Animation Controller.md",
-    "Untitled.canvas",
     "Input System.md",
     "Component/Capsule Collider 2D.md",
     "Component/Box Collider 2D.md",
@@ -208,9 +215,6 @@
     "Character (2D).md",
     "Collider Detection/Ground Detection.md",
     "Collider Detection/Detect enemies within range.md",
-    "2D/Texture 2D.md",
-    "Cinemachine.md",
-    "Movement.md",
     "Collider Detection",
     "Gizmos",
     "Component",
