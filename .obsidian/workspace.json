@@ -20,8 +20,68 @@
               "icon": "lucide-file",
               "title": "may and might"
             }
+          },
+          {
+            "id": "d966d18fb723bcc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I'd better....md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "I'd better..."
+            }
+          },
+          {
+            "id": "962187d7df64dbe7",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Grammar.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Grammar"
+            }
+          },
+          {
+            "id": "17cd4d321776e1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phrasal verb.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "phrasal verb"
+            }
+          },
+          {
+            "id": "895586085d4c0c3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Present Continuous.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Present Continuous"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "may and might.md",
+                "file": "Present Continuous.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of may and might"
+              "title": "Outline of Present Continuous"
             }
           },
           {
@@ -186,11 +246,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6346f6d820311219",
+  "active": "895586085d4c0c3e",
   "lastOpenFiles": [
+    "phrasal verb.md",
+    "Present Continuous.md",
     "Grammar.canvas",
+    "I'd better....md",
     "may and might.md",
-    "Untitled.md",
+    "prefer and would rather.md",
+    "It's time....md",
     "Access Component.md",
     "Gizmos/DrawWireSphere.md",
     "Gizmos/DrawLine.md",
@@ -212,9 +276,6 @@
     "Struct.md",
     "Coroutine.md",
     "Material.md",
-    "Character (2D).md",
-    "Collider Detection/Ground Detection.md",
-    "Collider Detection/Detect enemies within range.md",
     "Collider Detection",
     "Gizmos",
     "Component",
