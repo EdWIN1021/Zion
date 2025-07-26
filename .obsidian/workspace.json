@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Input System.md",
+                "file": "Prefab.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Input System"
+              "title": "Prefab"
             }
           }
         ],
@@ -76,7 +76,7 @@
       {
         "id": "b3ee2811d135b8fc",
         "type": "tabs",
-        "dimension": 39.773798303487276,
+        "dimension": 21.840242669362993,
         "children": [
           {
             "id": "b695828163473881",
@@ -100,7 +100,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 60.226201696512724,
+        "dimension": 78.159757330637,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Input System.md",
+                "file": "Prefab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Input System"
+              "title": "Outline of Prefab"
             }
           },
           {
@@ -231,11 +231,11 @@
   },
   "active": "071648fbde230707",
   "lastOpenFiles": [
+    "Input System.md",
     "Character (2D).md",
     "Access Component.md",
-    "Input System.md",
     "Attribute.md",
-    "Untitled.md",
+    "Prefab.md",
     "Struct.md",
     "Retrieve the Main Camera.md",
     "Physics 2D.md",
