@@ -25,3 +25,15 @@ public float moveAnimSpeedMultiplier = 1;
 ```cpp
 [Space]
 ```
+
+
+### ContextMenu
+用于将一个方法添加到 Unity 编辑器中组件的右键上下文菜单中
+
+```cpp
+[ContextMenu("Stun Enemy")]
+public void HandleCounter()  
+{  
+	stateMachine.ChangeState(stunnedState);  
+}
+```

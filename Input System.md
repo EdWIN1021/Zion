@@ -87,6 +87,8 @@ if(moveInput.x == 0){
 
 
 ---
+
+## OLD
 ### Horizontal Movement
 
 ```csharp
@@ -97,4 +99,12 @@ private void Movement()
     moveX = Input.GetAxis("Horizontal");  
 }
 
+```
+
+
+### GetKeyDown
+```cpp
+if (Input.GetKeyDown(KeyCode.F))  
+{  
+}
 ```

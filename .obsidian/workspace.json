@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f28e3a56f9535d74",
+        "id": "f4b0ef053036045b",
         "type": "tabs",
         "children": [
           {
-            "id": "8704884c9ac35f2a",
+            "id": "6346f6d820311219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gizmos/DrawWireSphere.md",
+                "file": "may and might.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "DrawWireSphere"
+              "title": "may and might"
+            }
+          },
+          {
+            "id": "d966d18fb723bcc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "I'd better....md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "I'd better..."
+            }
+          },
+          {
+            "id": "962187d7df64dbe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2D/Texture 2D.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Texture 2D"
+            }
+          },
+          {
+            "id": "071648fbde230707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Input System.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Input System"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -33,7 +76,7 @@
       {
         "id": "b3ee2811d135b8fc",
         "type": "tabs",
-        "dimension": 18.832391713747647,
+        "dimension": 39.773798303487276,
         "children": [
           {
             "id": "b695828163473881",
@@ -57,7 +100,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 81.16760828625236,
+        "dimension": 60.226201696512724,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -86,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 385.5
+    "width": 412.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -150,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gizmos/DrawWireSphere.md",
+                "file": "Input System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DrawWireSphere"
+              "title": "Outline of Input System"
             }
           },
           {
@@ -174,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,38 +229,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8704884c9ac35f2a",
+  "active": "071648fbde230707",
   "lastOpenFiles": [
-    "Gizmos/DrawLine.md",
-    "Gizmos/color.md",
-    "Component/Sprite Renderer.md",
-    "Component/Rigidbody 2D.md",
-    "Animation/Animation.md",
-    "Screenshot 2025-06-29 200532.png",
-    "Animation/Animation Clip.md",
-    "Animation/Blend Tree.md",
-    "Animation/Animator.md",
-    "Animation/Animation Event.md",
-    "Animation/Animation Controller.md",
-    "Untitled.canvas",
-    "Input System.md",
-    "Component/Capsule Collider 2D.md",
-    "Component/Box Collider 2D.md",
-    "Component/Composite Collider 2D.md",
-    "Attribute.md",
-    "Struct.md",
-    "Coroutine.md",
-    "Material.md",
     "Character (2D).md",
-    "Gizmos/DrawWireSphere.md",
-    "Collider Detection/Ground Detection.md",
-    "Collider Detection/Detect enemies within range.md",
-    "2D/Texture 2D.md",
-    "Cinemachine.md",
+    "Access Component.md",
+    "Input System.md",
+    "Attribute.md",
+    "Untitled.md",
+    "Struct.md",
+    "Retrieve the Main Camera.md",
+    "Physics 2D.md",
+    "Parallax Background.md",
     "Movement.md",
-    "Collider Detection",
-    "Gizmos",
-    "Component",
+    "Material.md",
+    "Coroutine.md",
+    "Cinemachine.md",
+    "Collider Detection/Detect enemies within range.md",
+    "Collider Detection/Ground Detection.md",
+    "-Assets-/Screenshot 2025-06-29 200532.png",
+    "Untitled.canvas",
+    "2D/Texture 2D.md",
+    "Animation/Animation Controller.md",
+    "Animation/Animation.md",
+    "phrasal verb.md",
+    "Present Continuous.md",
+    "2D",
     "-Assets-/Screenshot 2025-06-26 180646.png",
     "-Assets-/Screenshot 2025-06-26 135357.png",
     "-Assets-/Screenshot 2025-06-26 135335.png",
@@ -227,13 +263,22 @@
     "-Assets-/Screenshot 2025-06-26 102003.png",
     "-Assets-/Screenshot 2025-06-19 153825.png",
     "-Assets-/Screenshot 2025-06-19 153825 1.png",
+    "-Assets-",
+    "Grammar.canvas",
+    "I'd better....md",
+    "may and might.md",
+    "prefer and would rather.md",
+    "It's time....md",
+    "Gizmos/DrawWireSphere.md",
+    "Gizmos/DrawLine.md",
+    "Collider Detection",
+    "Gizmos",
+    "Component",
     "InputSystem",
     "Reference/UAbilitySystemComponentUntitled",
     "Reference/USceneComponent",
     "Reference/UProjectileMovementComponent",
     "Reference/UPrimitiveComponent",
-    "Reference/UObject",
-    "Reference/UKismetAnimationLibrary",
     "Reference/Untitled.canvas"
   ]
 }
