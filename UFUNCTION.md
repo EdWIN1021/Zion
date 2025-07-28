@@ -22,6 +22,7 @@
 
 ### **BlueprintImplementableEvent**
 
+- **这个 C++ 函数可以在 Blueprint（蓝图）中被“实现”**，但它在 C++ 代码中**不需要定义（实现）**
 - A **BlueprintImplementableEvent** in Unreal Engine is a type of function declared in C++ that allows Blueprints to provide their own implementation.
     - **Function Declaration**
         
