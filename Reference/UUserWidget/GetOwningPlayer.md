@@ -1,0 +1,1 @@
+- Gets the player controller associated with this UI cast to the template type.

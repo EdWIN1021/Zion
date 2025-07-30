@@ -8,97 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "280fec90ca65cfa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Trace Channel.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Custom Trace Channel"
-            }
-          },
-          {
-            "id": "ef2c55a90625900c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TObjectPtr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "TObjectPtr"
-            }
-          },
-          {
-            "id": "2397c4faad78dba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reference/UObject/CreateDefaultSubObject.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "CreateDefaultSubObject"
-            }
-          },
-          {
-            "id": "6016db6155b653bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WBP/WBP.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "WBP"
-            }
-          },
-          {
-            "id": "2b6fbdec66190533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UMaterialInterface.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "UMaterialInterface"
-            }
-          },
-          {
             "id": "0d70f96ae6decbfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference/APawn/GetLastMovementInputVector.md",
+                "file": "UStaticMeshComponent/UStaticMeshComponent.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GetLastMovementInputVector"
+              "title": "UStaticMeshComponent"
+            }
+          },
+          {
+            "id": "35c0b44d57f20096",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/UUserWidget/UUserWidget.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "UUserWidget"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,33 +48,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b3ee2811d135b8fc",
-        "type": "tabs",
-        "dimension": 22.4469160768453,
-        "children": [
-          {
-            "id": "b695828163473881",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "UUserWidget",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          }
-        ]
-      },
-      {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 77.5530839231547,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -157,6 +72,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "b695828163473881",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "UUser",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -227,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/APawn/GetLastMovementInputVector.md",
+                "file": "Reference/UUserWidget/UUserWidget.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GetLastMovementInputVector"
+              "title": "Outline of UUserWidget"
             }
           },
           {
@@ -263,50 +195,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d70f96ae6decbfe",
+  "active": "35c0b44d57f20096",
   "lastOpenFiles": [
-    "Reference/APawn/APawn.md",
-    "Reference/AGameMode/AGameMode.md",
-    "Reference/AController/AController.md",
+    "Reference/UCanvasPanel/AddChild.md",
+    "Reference/FIntPoint",
+    "Reference/UCanvasPanel/UCanvasPanel.md",
+    "Reference/UUserWidget/NativeOnInitialized.md",
+    "Reference/UCanvasPanel",
+    "Reference/UUserWidget/GetOwningPlayer.md",
+    "Reference/UUserWidget/UUserWidget.md",
+    "UImage/UImage.md",
+    "UWidgetSwitcher/SetActiveWidget.md",
+    "UImage",
+    "UWidgetSwitcher/UWidgetSwitcher.md",
+    "AbilityTask.md",
+    "UButton/UButton.md",
+    "UButton/SetIsEnabled.md",
+    "UButton",
+    "UWidgetSwitcher.md",
+    "UWidgetSwitcher",
+    "UENUM.md",
+    "UStaticMeshComponent/UStaticMeshComponent.md",
+    "UENUMUntitled",
+    "Reference/UUserWidget/Function",
+    "Reference/Untitled.md",
+    "Reference/UUserWidget",
+    "Reference/Reference.md",
+    "Reference/AActor/AActor.md",
+    "Reference/UObject/UObject.md",
+    "Gameplay Ability Implementation/Gameplay Ability Implementation.md",
+    "Reference/UObject.md",
     "Reference/AActor/Destroyed.md",
-    "Reference/AActor/Destroy.md",
+    "Reference/AActor/ActorHasTag.md",
     "Reference/AActor/AddActorWorldOffset.md",
     "Reference/AActor/AddActorWorldRotation.md",
-    "Reference/AActor/AActor.md",
-    "Reference/AActor/PrimaryActorTick.md",
-    "Reference/AActor/FinishSpawning.md",
     "Reference/AActor/FindComponentByClass.md",
-    "Reference/AActor/ActorHasTag.md",
-    "Reference/UAbilitySystemComponent/GetActivatableGameplayAbilitySpecsByAllMatchingTags.md",
-    "Reference/UAbilitySystemComponent/GetAvatarActor.md",
-    "Reference/UAbilitySystemComponent/GetOwnerActor.md",
-    "Reference/UProjectileMovementComponent/UProjectileMovementComponent.md",
-    "Reference/UProjectileMovementComponent/IntialLifeSpan.md",
-    "Reference/UProjectileMovementComponent/InitialSpeed.md",
-    "Reference/USceneComponent/USceneComponent.md",
-    "Reference/Reference.md",
-    "Reference/UUserWidget.md",
-    "Custom Trace Channel.md",
-    "TArray.md",
-    "Using TSubclassOf to Dynamically Create and Manage HUD Widget Instances.md",
-    "UClass.md",
     "-Assets-/Screenshot 2025-06-18 202621.png",
     "-Assets-/Screenshot 2025-07-26 171303.png",
-    "UStaticMeshComponent/UStaticMeshComponent.md",
     "-Assets-/Screenshot 2025-07-26 171629.png",
     "UStaticMeshComponent",
     "Screenshot 2025-07-26 171158.png",
     "Screenshot 2025-07-26 170838.png",
     "-Assets-/Screenshot 2025-07-26 150515.png",
     "WBP",
-    "Reference/USceneComponent",
-    "Reference/UProjectileMovementComponent",
-    "Reference/UPrimitiveComponent",
-    "Reference/UObject",
-    "Reference/UKismetAnimationLibrary",
-    "Reference/UKismetMathLibrary",
-    "Reference/UGameplayStatics",
-    "Reference/UInputComponent",
     "-Assets-/Screenshot 2025-06-27 195529.png",
     "-Assets-/Screenshot 2025-06-24 210608.png",
     "-Assets-/Screenshot 2025-06-24 210156.png",
