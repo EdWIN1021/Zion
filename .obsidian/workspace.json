@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prefab.md",
+                "file": "Access Component.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prefab"
+              "title": "Access Component"
+            }
+          },
+          {
+            "id": "27374ab54493fe0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canvas.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Canvas"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -193,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prefab.md",
+                "file": "Canvas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Prefab"
+              "title": "Outline of Canvas"
             }
           },
           {
@@ -229,21 +243,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "071648fbde230707",
+  "active": "27374ab54493fe0c",
   "lastOpenFiles": [
-    "Input System.md",
-    "Character (2D).md",
-    "Access Component.md",
-    "Attribute.md",
-    "Prefab.md",
-    "Struct.md",
+    "Component/Composite Collider 2D.md",
+    "Component/Capsule Collider 2D.md",
+    "Component/Box Collider 2D.md",
+    "Canvas.md",
     "Retrieve the Main Camera.md",
+    "Prefab.md",
     "Physics 2D.md",
     "Parallax Background.md",
     "Movement.md",
-    "Material.md",
+    "Input System.md",
     "Coroutine.md",
+    "Material.md",
     "Cinemachine.md",
+    "Character (2D).md",
+    "Access Component.md",
+    "Attribute.md",
+    "Struct.md",
     "Collider Detection/Detect enemies within range.md",
     "Collider Detection/Ground Detection.md",
     "-Assets-/Screenshot 2025-06-29 200532.png",
@@ -267,10 +285,6 @@
     "Grammar.canvas",
     "I'd better....md",
     "may and might.md",
-    "prefer and would rather.md",
-    "It's time....md",
-    "Gizmos/DrawWireSphere.md",
-    "Gizmos/DrawLine.md",
     "Collider Detection",
     "Gizmos",
     "Component",
