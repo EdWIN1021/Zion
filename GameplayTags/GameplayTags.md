@@ -1,21 +1,22 @@
-GameplayTags in Unreal Engine are a powerful metadata system used to categorize and manage various aspects of your game, such as mechanics, features, and input actions. They allow you to tag different elements in your game (like actors, components, or events) with specific tags that can be queried or checked at runtime to influence gameplay behavior.
 
-Here's how you can effectively use GameplayTags in your C++ project:
 
-1. **Setting Up the Module:**
-    
-    - Open your project's `Build.cs` file.
-    - Add `"GameplayTags"` to the list of public dependencies:
+## Setting Up the Module
+```cpp
+		PublicDependencyModuleNames.AddRange(new string[] { "GameplayTags" });
+```
         
-        ```cpp
-        PublicDependencyModuleNames.AddRange(new string[] { "GameplayTags" });
-        ```
-        
-    - This includes the necessary GameplayTags functionality in your project.
-2. **Creating a Custom GameplayTag Class:**
-    
-    - Create a new C++ class named `WarriorGameplayTags` that will hold your custom tags.
-    - Include the `NativeGameplayTags.h` header file to access the necessary macros and functions.
+## Creating a Custom GameplayTag Class
+- Create a new C++ class named `WarriorGameplayTags` that will hold your custom tags.
+- Include the `NativeGameplayTags.h` header file to access the necessary macros and functions.
+
+```CPP
+#include "NativeGameplayTags.h"
+```
+
+ ## Declaring Tags in Header File
+
+---
+		
 3. **Declaring Tags in Header File:**
     
     - In the header file (`WarriorGameplayTags.h`), declare your gameplay tags using `UE_DECLARE_GAMEPLAY_TAG_EXTERN`. For example:

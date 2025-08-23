@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"95ba430600a9fef6","type":"text","text":"- Base Color: constant3Vector\n    \n- Metallic\n    \n- Specular\n    \n- Roughness: __constant ( reflective(0) ~ Rough(1) )__\n    \n- Anisotropy\n    \n- Emissive Color","x":300,"y":-1040,"width":600,"height":540,"color":"1"},
+		{"id":"de7a58478fb2d7a1","type":"text","text":"## Data Types\n- constant / 1 float (__Value__)\n- constant2Vector / 2 float (__RG__)\n- constant3Vector / 3 float (__RGB__)\n\t- Shortcut: 3 + RightMouseClick","x":-2140,"y":-1106,"width":420,"height":280,"color":"5"},
+		{"id":"83bf3b5e547b5b16","type":"text","text":"### Multiply","x":-2140,"y":-530,"width":238,"height":259,"color":"4"},
+		{"id":"d62d993e6c5dc9fa","type":"text","text":"### Lerp (LinearInterpolation) \n\n- Shortcut: l + RightMouseClick\n- Alpha (Noise Texture)\n\t- 当 `Alpha = 0` → 输出 **A**\n\t- 当 `Alpha = 1` → 输出 **B**\n\t- 当 `Alpha = 0.5` → 输出 **A 和 B 各一半**","x":-1220,"y":-1105,"width":420,"height":336,"color":"4"},
+		{"id":"0207df4082c5fd11","type":"text","text":"#### Texture Sample\n- UVs (TexCoord)\n\t- 控制 **纹理如何贴到模型上的坐标**\n\t-  **U** = 横向坐标 (纹理的 X)\n\t- **V** = 纵向坐标 (纹理的 Y)","x":-1210,"y":-509,"width":410,"height":280,"color":"#3c7daf"},
+		{"id":"83ed9d5ff2b29336","type":"text","text":"TexCoord","x":-1620,"y":-425,"width":250,"height":50,"color":"1"},
+		{"id":"b7e1046578572dd6","type":"text","text":"## Roughness\n- constant \n- reflective(0) ~ Rough(1)","x":-460,"y":-1050,"width":309,"height":227}
+	],
+	"edges":[
+		{"id":"c9695c52c54d011c","fromNode":"d62d993e6c5dc9fa","fromSide":"right","toNode":"b7e1046578572dd6","toSide":"left"},
+		{"id":"b7d754bc08f44e84","fromNode":"0207df4082c5fd11","fromSide":"top","toNode":"d62d993e6c5dc9fa","toSide":"bottom"},
+		{"id":"098c5e8e784a3777","fromNode":"83ed9d5ff2b29336","fromSide":"right","toNode":"0207df4082c5fd11","toSide":"left"}
+	]
+}

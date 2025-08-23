@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"7b2514ba6dadfe1f","type":"file","file":"ReceiveExecuteAI.md","x":300,"y":-100,"width":400,"height":230,"color":"1"},
+		{"id":"9ccaa09c203a0031","type":"file","file":"ReceiveAbortAI.md","x":300,"y":260,"width":411,"height":220,"color":"1"},
+		{"id":"31f278910d708ee9","type":"text","text":"Custom Task ([[UBTTask_BlueprintBase]])","x":-361,"y":117,"width":341,"height":63},
+		{"id":"c8971b960e4f63df","type":"file","file":"FinishAbortBe.md","x":1060,"y":260,"width":380,"height":233,"color":"5"},
+		{"id":"d6dc8b6b199c5425","type":"file","file":"FinishExecute.md","x":1060,"y":-100,"width":380,"height":220,"color":"5"},
+		{"id":"053307fdfb5f1bff","type":"text","text":"Task ","x":-840,"y":-100,"width":240,"height":110},
+		{"id":"816ee2bb5348c1e8","type":"text","text":"Notify Observer","x":-130,"y":-950,"width":250,"height":60},
+		{"id":"7f2d5b0fcf839bda","type":"text","text":"On Result Change： __只有当条件从 True ↔ False 发生变化时才通知__","x":480,"y":-1100,"width":635,"height":74},
+		{"id":"78f2e77da984284a","type":"text","text":"On Value Change","x":500,"y":-840,"width":375,"height":73},
+		{"id":"afa873c23a0b3eb4","type":"text","text":"Decorator (if)\n- __Left High Priority -> Right Low Priority__\n- Sequence, Selector, Task","x":-840,"y":-1000,"width":405,"height":160},
+		{"id":"0c70369bfa21278f","type":"file","file":"UBTTask_MoveTo.md","x":-361,"y":-460,"width":381,"height":280},
+		{"id":"f8a2f106504bad7b","type":"text","text":"Ptrolling ([[UBTTask_BlueprintBase]])","x":-240,"y":600,"width":350,"height":180},
+		{"id":"64d063331c1b5bf7","type":"text","text":"Attack ([[UBTTask_BlueprintBase]])","x":-240,"y":1160,"width":350,"height":220},
+		{"id":"ac33e892286a7d31","x":-1680,"y":810,"width":427,"height":400,"type":"file","file":"UAIPerceptionComponent.md"},
+		{"id":"86ec775d9d9222d0","x":506,"y":595,"width":280,"height":191,"type":"text","text":"Target Point?"},
+		{"id":"48e3bab8101a004b","type":"file","file":"SetFocus.md","x":-1020,"y":880,"width":401,"height":260,"color":"4"}
+	],
+	"edges":[
+		{"id":"ec07712bc5e16798","fromNode":"053307fdfb5f1bff","fromSide":"right","toNode":"31f278910d708ee9","toSide":"left"},
+		{"id":"02bd0253e240562a","fromNode":"31f278910d708ee9","fromSide":"right","toNode":"7b2514ba6dadfe1f","toSide":"left"},
+		{"id":"39152fb9c42ab376","fromNode":"053307fdfb5f1bff","fromSide":"right","toNode":"0c70369bfa21278f","toSide":"left"},
+		{"id":"b2653d057304792c","fromNode":"7b2514ba6dadfe1f","fromSide":"right","toNode":"d6dc8b6b199c5425","toSide":"left"},
+		{"id":"a735c01813ebea9f","fromNode":"31f278910d708ee9","fromSide":"right","toNode":"9ccaa09c203a0031","toSide":"left"},
+		{"id":"07b04bca3ca6fdbc","fromNode":"9ccaa09c203a0031","fromSide":"right","toNode":"c8971b960e4f63df","toSide":"left"},
+		{"id":"c33d726145362651","fromNode":"afa873c23a0b3eb4","fromSide":"right","toNode":"816ee2bb5348c1e8","toSide":"left"},
+		{"id":"7480588cb4f7f60a","fromNode":"816ee2bb5348c1e8","fromSide":"right","toNode":"7f2d5b0fcf839bda","toSide":"left"},
+		{"id":"dac159ad13baff41","fromNode":"816ee2bb5348c1e8","fromSide":"right","toNode":"78f2e77da984284a","toSide":"left"},
+		{"id":"1fb47633a0c9e685","fromNode":"48e3bab8101a004b","fromSide":"right","toNode":"f8a2f106504bad7b","toSide":"left"},
+		{"id":"f9d3186885e38299","fromNode":"48e3bab8101a004b","fromSide":"right","toNode":"64d063331c1b5bf7","toSide":"left"},
+		{"id":"3f0ac1d0c10e6810","fromNode":"f8a2f106504bad7b","fromSide":"bottom","toNode":"64d063331c1b5bf7","toSide":"top","label":"Behavior Tree"},
+		{"id":"9c5d193c54448b6c","fromNode":"64d063331c1b5bf7","fromSide":"top","toNode":"f8a2f106504bad7b","toSide":"bottom"},
+		{"id":"76cb4dcd5f571364","fromNode":"ac33e892286a7d31","fromSide":"right","toNode":"48e3bab8101a004b","toSide":"left"},
+		{"id":"5df51fbe3168ea7b","fromNode":"f8a2f106504bad7b","fromSide":"right","toNode":"86ec775d9d9222d0","toSide":"left"}
+	]
+}

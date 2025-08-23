@@ -1,6 +1,6 @@
 ---
 Category: Property
-Type: "[[Reference/UInputComponent]]"
+Type:
 ---
 
 > [!Tip]

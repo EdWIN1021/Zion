@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasProperty("Hierarchy")
+properties:
+  note.Category:
+    displayName: Type
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Hierarchy
+      - Category
+    sort: []
+    columnSize:
+      file.name: 369
+      note.Hierarchy: 372
+  - type: table
+    name: View
