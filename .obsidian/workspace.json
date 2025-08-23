@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f4b0ef053036045b",
+        "id": "318c67a60123b18f",
         "type": "tabs",
         "children": [
           {
-            "id": "6346f6d820311219",
+            "id": "3620ad6c298a450e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "may and might.md",
+                "file": "Component/Rigidbody/Rigidbody 2D.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "may and might"
-            }
-          },
-          {
-            "id": "d966d18fb723bcc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "I'd better....md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "I'd better..."
-            }
-          },
-          {
-            "id": "962187d7df64dbe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2D/Texture 2D.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Texture 2D"
-            }
-          },
-          {
-            "id": "071648fbde230707",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Access Component.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Access Component"
-            }
-          },
-          {
-            "id": "27374ab54493fe0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Canvas.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Canvas"
+              "title": "Rigidbody 2D"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canvas.md",
+                "file": "Component/Rigidbody/Rigidbody 2D.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Canvas"
+              "title": "Outline of Rigidbody 2D"
             }
           },
           {
@@ -222,8 +165,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           }
         ],
@@ -231,10 +174,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -243,34 +187,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27374ab54493fe0c",
+  "active": "3620ad6c298a450e",
   "lastOpenFiles": [
-    "Component/Composite Collider 2D.md",
-    "Component/Capsule Collider 2D.md",
-    "Component/Box Collider 2D.md",
-    "Canvas.md",
-    "Retrieve the Main Camera.md",
-    "Prefab.md",
-    "Physics 2D.md",
-    "Parallax Background.md",
-    "Movement.md",
-    "Input System.md",
-    "Coroutine.md",
+    "Component/Collider/Box Collider 2D.md",
+    "Component/Rigidbody/Rigidbody 2D.md",
+    "Component/Collider/Tilemap Collider 2D.md",
+    "Component/Collider/Composite Collider 2D.md",
+    "Component/Collider/Capsule Collider 2D.md",
+    "DataType/ScriptableObject.md",
+    "Component/Rigidbody",
+    "Screenshot 2025-08-23 165429.png",
+    "DataType/enum.md",
+    "Attribute/ContextMenu.md",
+    "Attribute/Header.md",
+    "Attribute/SerializeField.md",
+    "Attribute/TextArea.md",
+    "Attribute",
+    "DataStructures/List.md",
+    "DataType",
+    "DataStructures",
+    "DataStructr",
+    "Packages/Cinemachine.md",
+    "Component/Collider",
+    "Packages/Input System.md",
+    "Packages/2D Tilemap Extras.md",
+    "Component/Tilemap.md",
+    "Component/Sprite Renderer.md",
+    "Component/Animator.md",
+    "Character (2D).md",
     "Material.md",
     "Cinemachine.md",
-    "Character (2D).md",
-    "Access Component.md",
-    "Attribute.md",
-    "Struct.md",
-    "Collider Detection/Detect enemies within range.md",
-    "Collider Detection/Ground Detection.md",
+    "Input System.md",
+    "Coroutine.md",
+    "Packages/Unity UI.md",
+    "Packages/Visual Scripting.md",
+    "-Assets-/Pasted image 20250626132125.png",
+    "-Assets-/Screenshot 2025-06-19 150720.png",
+    "Packages",
+    "Item.canvas",
     "-Assets-/Screenshot 2025-06-29 200532.png",
-    "Untitled.canvas",
-    "2D/Texture 2D.md",
-    "Animation/Animation Controller.md",
-    "Animation/Animation.md",
-    "phrasal verb.md",
-    "Present Continuous.md",
     "2D",
     "-Assets-/Screenshot 2025-06-26 180646.png",
     "-Assets-/Screenshot 2025-06-26 135357.png",
@@ -278,21 +233,9 @@
     "-Assets-/Screenshot 2025-06-26 132307.png",
     "-Assets-/Screenshot 2025-06-26 132217.png",
     "-Assets-/Screenshot 2025-06-26 131122.png",
-    "-Assets-/Screenshot 2025-06-26 102003.png",
-    "-Assets-/Screenshot 2025-06-19 153825.png",
-    "-Assets-/Screenshot 2025-06-19 153825 1.png",
     "-Assets-",
     "Grammar.canvas",
-    "I'd better....md",
-    "may and might.md",
     "Collider Detection",
-    "Gizmos",
-    "Component",
-    "InputSystem",
-    "Reference/UAbilitySystemComponentUntitled",
-    "Reference/USceneComponent",
-    "Reference/UProjectileMovementComponent",
-    "Reference/UPrimitiveComponent",
     "Reference/Untitled.canvas"
   ]
 }

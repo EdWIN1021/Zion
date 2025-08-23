@@ -1,7 +1,5 @@
 
-## Animator
-### Components
-#### Animator
+### [[Animator]]
 
 - Controller: [[Animation Controller]]
 
@@ -14,12 +12,11 @@
 
 - Material: [[Material]]
 
-#### Rigidbody 2D
+### [[Rigidbody 2D]]
 
 #####  Body Type
-- Dynamic (受物理影响 如重力、力、碰撞）
-- Dynamic (不受物理影响，但可以通过代码移动，并能触发碰撞事件)
--  Static (完全不动，不受力，不移动)
+- Dynamic
+
 ##### Gravity Scale
 ##### Collision Detection
 - Discrete （适用于大多数情况，但高速运动物体可能穿透）
@@ -27,7 +24,7 @@
 ##### Freeze Rotation
 - Z
 
-#### Capsule Collider 2D
+### [[Capsule Collider 2D]]
 
 - Offset
 

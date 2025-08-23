@@ -3,6 +3,8 @@
 - Kinematic: **Not affected by physics forces/gravity**. Movement is controlled **manually via scripts**.
 - Static: **Immobile** and **ignores all physics**. Only used for collision detection.
 
+
+
 #### Material
 - This is a _shared physics material_ that overrides individual collider materials for simplicity 
 - Physical Material 2D

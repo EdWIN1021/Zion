@@ -1,0 +1,1 @@
+SerializeField is an attribute that makes a private field visible and editable in the Unity Inspector.
