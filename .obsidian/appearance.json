@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Things"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "styles"
+  ]
 }

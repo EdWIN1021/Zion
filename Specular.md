@@ -2,7 +2,7 @@
 
 角度越大值越小，角度越小值越大
 
-![[Screenshot 2025-06-18 220806.png]]
+![[Screenshot 2025-06-18 220806.png | center]]
 
 ```cpp
 lightDir = reflect(lightDir, normal)

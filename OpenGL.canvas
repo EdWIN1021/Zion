@@ -1,0 +1,53 @@
+{
+	"nodes":[
+		{"id":"253b8e27eb50a717","type":"group","x":-1000,"y":-642,"width":1080,"height":1204,"color":"4","label":"CPU"},
+		{"id":"a02f3a9860584e3f","type":"group","x":320,"y":-320,"width":340,"height":882,"color":"2","label":"GPU"},
+		{"id":"66ade11756838aa4","type":"group","x":-260,"y":-582,"width":300,"height":622,"label":"OpenGL"},
+		{"id":"ac82557bb9686741","type":"text","text":"VBO","x":-819,"y":-564,"width":173,"height":82},
+		{"id":"e9b42445da524a79","type":"text","text":"VBO: ID","x":-819,"y":-357,"width":241,"height":90},
+		{"id":"c92bd68ec02e9850","type":"text","text":"VBO: ID","x":-819,"y":-120,"width":241,"height":90},
+		{"id":"9d9dc0ae0e006446","type":"text","text":"VBO: ID","x":-819,"y":80,"width":241,"height":90},
+		{"id":"b4574e3292acc3fe","type":"text","text":"VBO: ID","x":-819,"y":300,"width":241,"height":90},
+		{
+			"id":"4fa71ddedb23262e",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":360,
+			"y":320,
+			"width":260,
+			"height":60
+		},
+		{"id":"28f385246db7b66e","type":"text","text":"GL_ARRAY_BUFFER","x":-240,"y":-120,"width":250,"height":125}
+	],
+	"edges":[
+		{"id":"365b30a8b0bdaf46","fromNode":"ac82557bb9686741","fromSide":"right","toNode":"66ade11756838aa4","toSide":"left","label":"Declaring "},
+		{"id":"0b37d45a9f1e2da4","toFloating":false,"fromNode":"66ade11756838aa4","fromSide":"left","toNode":"e9b42445da524a79","toSide":"right","label":"unique identifier"},
+		{"id":"7e7b0494d49b2f6c","fromFloating":false,"toFloating":false,"fromNode":"c92bd68ec02e9850","fromSide":"right","toNode":"28f385246db7b66e","toSide":"left","label":"bind"},
+		{"id":"11e2acde4037a049","fromFloating":false,"fromNode":"28f385246db7b66e","fromSide":"right","toNode":"a02f3a9860584e3f","toSide":"left","label":"bind"},
+		{
+			"id":"28515bc89dcff9f5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a02f3a9860584e3f",
+			"fromSide":"left",
+			"toNode":"9d9dc0ae0e006446",
+			"toSide":"right",
+			"label":" request vertex data\n"
+		},
+		{
+			"id":"86bd6841f55817e7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"b4574e3292acc3fe",
+			"fromSide":"right",
+			"toNode":"4fa71ddedb23262e",
+			"toSide":"left",
+			"label":"pass vertex data"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
