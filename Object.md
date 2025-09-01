@@ -1,1 +1,1 @@
-### [[Box Collider 2D]]
+### [[BoxCollider2D]]

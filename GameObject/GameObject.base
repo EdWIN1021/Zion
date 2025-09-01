@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Class == link("GameObject/GameObject", "GameObject")
+    order:
+      - file.name
+      - member
+      - Type
+      - Class
+    columnSize:
+      file.name: 288
+      note.member: 248
+      note.Type: 231

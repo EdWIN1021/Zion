@@ -1,0 +1,1 @@
+`OnValidate` 是 Unity 提供的一个 **MonoBehaviour 生命周期回调函数**，当**在 Inspector 面板修改脚本的 public 或 `[SerializeField]` 字段** 时，Unity 会自动调用它。

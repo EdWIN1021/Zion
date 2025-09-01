@@ -1,0 +1,3 @@
+```cpp
+[SerializeField] Sprite defaultAnswerSprite;
+```

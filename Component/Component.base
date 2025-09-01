@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Class == link("Component")
+    order:
+      - file.name
+      - member
+      - Type
+      - Class
+    columnSize:
+      file.name: 295
+      note.member: 279
+      note.Type: 260
+      note.Class: 258

@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - Class == link("Transform")
+    order:
+      - file.name
+      - Member
+    sort:
+      - property: Member
+        direction: ASC
+    columnSize:
+      file.name: 265

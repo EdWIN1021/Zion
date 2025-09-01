@@ -1,0 +1,1 @@
+`gameObject.name` changes the **name of the GameObject shown in the Hierarchy view**

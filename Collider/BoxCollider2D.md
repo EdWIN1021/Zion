@@ -1,0 +1,7 @@
+---
+Type: class
+---
+
+
+
+#### Is Trigger
