@@ -33,7 +33,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 76.74180327868852,
+        "dimension": 75.43500511770726,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -63,7 +63,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 23.258196721311474,
+        "dimension": 24.56499488229273,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -216,7 +216,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7524e15bff3234be",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
     "Programming Language",
     "C++/auto.md",
