@@ -1,0 +1,9 @@
+{
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@h3-line-height": 2.5,
+  "anuppuccin-theme-settings@@anp-list-toggle": true,
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-blue"
+}

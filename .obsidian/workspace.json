@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "735d1fecb264971a",
+    "id": "866b744e35bb5579",
     "type": "split",
     "children": [
       {
-        "id": "6a51841b2f08232b",
+        "id": "31c937155399cb53",
         "type": "tabs",
         "children": [
           {
-            "id": "c164da4582a1d78a",
+            "id": "7524e15bff3234be",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -23,45 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f074d4cbe95a2fdf",
+    "id": "4a7d63b7ec2138eb",
     "type": "split",
     "children": [
       {
-        "id": "95c73b62fcd80a5f",
+        "id": "fccd44e440ada242",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd896b8f4787a10",
+            "id": "b7d7b430a8371fe4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "23d76d373ea084d0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:Vitual",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "94482625a9aea56a",
+            "id": "f6cf7f287c35becb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +57,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "right": {
-    "id": "d339742f718534d1",
+    "id": "4422b81e3b580ef0",
     "type": "split",
     "children": [
       {
-        "id": "5027418783ba9113",
+        "id": "e10a211cbdaca755",
         "type": "tabs",
+        "dimension": 59.509803921568626,
         "children": [
           {
-            "id": "a49d6c3ea9a41a88",
+            "id": "71f49061b08b58ef",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class/UObject.md",
+                "file": "GameObject/GameObject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +84,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UObject"
+              "title": "Backlinks for GameObject"
             }
           },
           {
-            "id": "8cec9750ed313bf1",
+            "id": "20e4060ebff46e27",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Class/UObject.md",
+                "file": "GameObject/GameObject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UObject"
+              "title": "Outgoing links from GameObject"
             }
           },
           {
-            "id": "637e67d33445746e",
+            "id": "d3b89968b21057a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,78 +117,142 @@
             }
           },
           {
-            "id": "8ae06dbbca425f91",
+            "id": "6b546429cde06e0e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/AAIController.md",
+                "file": "GameObject/GameObject.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AAIController"
+              "title": "Outline of GameObject"
             }
           },
           {
-            "id": "9f39af8c74fb62ab",
+            "id": "b695828163473881",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "08ea6bfe4e056954",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8429eb866f7f4a91",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "105c780aeb2a4d54",
+        "type": "tabs",
+        "dimension": 40.490196078431374,
+        "children": [
+          {
+            "id": "4f692054988b3b5f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false
+      "graph:Open graph view": false
     }
   },
-  "active": "9dd896b8f4787a10",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
-    "Sound Attenuation.md",
-    "Weapon Trail.md",
-    "Patrolling.md",
-    "Damage System.md",
-    "Macro",
-    "Struct",
-    "Class",
-    "Class/AController/AController.md",
-    "Class/AAIController/AAIController.md",
-    "Class/AActor/AActor.md",
-    "Class/AActor/Property/NetUpdateFrequency.md",
-    "Class/UObject/UObject.md",
-    "Class/AController/Function/GetPawn.md",
-    "Reference.md",
-    "Class/AAIController/Function/MoveTo.md",
-    "Class/AAIController/Function/MoveToActor.md",
-    "Class/AAIController/Function/MoveToLocation.md",
-    "Class/AActor/Function/ActorHasTag.md",
-    "Class/UObject",
-    "Class/AController/Property",
-    "Class/AController/Function",
-    "Class/AController",
-    "Class/AAIController/Property",
-    "Class/AAIController/Function",
-    "Class/AAIController",
-    "Class/AActor.md",
-    "Function/AController.md",
-    "q.md",
-    "create a link.md"
+    "Untitled",
+    "Physics/OnCollisionEnter2D.md",
+    "Physics/LayerMask.md",
+    "Gizmos/DrawWireSphere.md",
+    "Gizmos/color.md",
+    "Access Component.md",
+    "Packages/Unity UI.md",
+    "Packages/Visual Scripting.md",
+    "Packages/Input System.md",
+    "Packages/2D Tilemap Extras.md",
+    "Packages/Cinemachine.md",
+    "Gizmos/OnDrawGizmos.md",
+    "Math/DataStructure/Vector2/Vector2.md",
+    "Sprite/Sprite.md",
+    "2025-09-28.md",
+    "SpriteRenderer/SpriteRenderer.md",
+    "GameObject/GameObject.base",
+    "GameObject/GameObject.md",
+    "GameObject/name.md",
+    "Collider/BoxCollider2D.md",
+    "Collider/Composite Collider 2D.md",
+    "Gizmos/DrawLine.md",
+    "Transform/Rotate.md",
+    "Transform/Transform.base",
+    "Transform/position.md",
+    "Structs/Vector3/MoveTowards.md",
+    "Structs/Vector3/Vector3.md",
+    "Physics/OnTriggerEnter2D.md",
+    "Reference.base",
+    "Structs/Vector3",
+    "SpriteRenderer",
+    "GameObject",
+    "Component/Component.base",
+    "Structs",
+    "Untitled 1.base",
+    "-Assets-/Screenshot 2025-06-19 153825.png",
+    "-Assets-/Screenshot 2025-06-19 153825 1.png",
+    "-Assets-/Screenshot 2025-06-26 131122.png",
+    "-Assets-/Screenshot 2025-06-26 102003.png",
+    "-Assets-/Screenshot 2025-06-19 150720.png",
+    "-Assets-/Pasted image 20250626132125.png",
+    "-Assets-/Screenshot 2025-08-23 165429.png",
+    "Item.canvas",
+    "-Assets-/Screenshot 2025-06-29 200532.png",
+    "-Assets-/Screenshot 2025-06-26 180646.png",
+    "-Assets-/Screenshot 2025-06-26 135357.png",
+    "Grammar.canvas",
+    "Reference/Untitled.canvas"
   ]
 }
