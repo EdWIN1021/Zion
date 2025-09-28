@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +204,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "08ea6bfe4e056954",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
+    "Untitled",
     "Physics/OnCollisionEnter2D.md",
     "Physics/LayerMask.md",
     "Gizmos/DrawWireSphere.md",
@@ -220,7 +221,6 @@
     "Math/DataStructure/Vector2/Vector2.md",
     "Sprite/Sprite.md",
     "2025-09-28.md",
-    "Untitled",
     "SpriteRenderer/SpriteRenderer.md",
     "GameObject/GameObject.base",
     "GameObject/GameObject.md",
@@ -234,7 +234,6 @@
     "Structs/Vector3/MoveTowards.md",
     "Structs/Vector3/Vector3.md",
     "Physics/OnTriggerEnter2D.md",
-    "Physics/OnCollisionExit2D.md",
     "Reference.base",
     "Structs/Vector3",
     "SpriteRenderer",
