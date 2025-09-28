@@ -57,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 209.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -66,7 +66,7 @@
       {
         "id": "e10a211cbdaca755",
         "type": "tabs",
-        "dimension": 59.509803921568626,
+        "dimension": 29.754901960784313,
         "children": [
           {
             "id": "71f49061b08b58ef",
@@ -74,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameObject/GameObject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +83,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GameObject"
+              "title": "Backlinks"
             }
           },
           {
@@ -157,7 +156,15 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "43b5ae828eb7f9c6",
+        "type": "tabs",
+        "dimension": 29.754901960784313,
+        "children": [
           {
             "id": "8429eb866f7f4a91",
             "type": "leaf",
@@ -168,8 +175,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "105c780aeb2a4d54",
@@ -204,9 +210,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
-    "Untitled",
+    "C++/Function",
+    "C++",
+    "Unity",
+    "Unreal",
+    "Assets",
     "Physics/OnCollisionEnter2D.md",
     "Physics/LayerMask.md",
     "Gizmos/DrawWireSphere.md",
@@ -238,9 +248,6 @@
     "Structs/Vector3",
     "SpriteRenderer",
     "GameObject",
-    "Component/Component.base",
-    "Structs",
-    "Untitled 1.base",
     "-Assets-/Screenshot 2025-06-19 153825.png",
     "-Assets-/Screenshot 2025-06-19 153825 1.png",
     "-Assets-/Screenshot 2025-06-26 131122.png",
