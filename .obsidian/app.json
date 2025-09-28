@@ -1,7 +1,5 @@
 {
   "livePreview": true,
   "defaultViewMode": "source",
-  "alwaysUpdateLinks": true,
-  "readableLineLength": false,
-  "showIndentGuide": false
+  "alwaysUpdateLinks": true
 }

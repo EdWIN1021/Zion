@@ -1,11 +1,1 @@
-{
-  "cssTheme": "Obsidianite",
-  "theme": "obsidian",
-  "enabledCssSnippets": [
-    "styles"
-  ],
-  "baseFontSize": 16,
-  "accentColor": "",
-  "baseFontSizeAction": false,
-  "showRibbon": true
-}
+{}
