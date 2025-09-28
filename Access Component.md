@@ -1,5 +1,5 @@
 
-### GetComponent
+### `GetComponent`
 
 ```csharp
 private RigidBody2D rb;
@@ -12,7 +12,7 @@ void Start()
 
 
 
-### GetComponentInChildren
+### `GetComponentInChildren`
 
 ```cpp
 public Animator animator;
@@ -25,7 +25,7 @@ private void Awake()
 ```
 
 
-### GetComponentInParent
+### `GetComponentInParent`
 ```cpp
 private void Awake()  
 {  

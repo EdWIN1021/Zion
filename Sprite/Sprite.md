@@ -1,3 +1,3 @@
 ```cpp
-[SerializeField] Sprite defaultAnswerSprite;
+[ SerializeField ] Sprite defaultAnswerSprite;
 ```

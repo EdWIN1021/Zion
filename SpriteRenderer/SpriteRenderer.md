@@ -1,0 +1,3 @@
+```cpp
+private SpriteRenderer sr;
+```

@@ -1,5 +1,6 @@
 ```
 Window -> Package Manager -> Unity Registry -> Cinemachine
+
 Cinemachine -> Targeted Camera -> 2D Camera
 ```
 
