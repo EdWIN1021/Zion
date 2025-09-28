@@ -29,6 +29,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
+        "dimension": 76.74180327868852,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -54,10 +55,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "765e103309fe3fb0",
+        "type": "tabs",
+        "dimension": 23.258196721311474,
+        "children": [
+          {
+            "id": "8429eb866f7f4a91",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 327.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -66,7 +84,7 @@
       {
         "id": "e10a211cbdaca755",
         "type": "tabs",
-        "dimension": 29.754901960784313,
+        "dimension": 61.9234543670265,
         "children": [
           {
             "id": "71f49061b08b58ef",
@@ -92,12 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameObject/GameObject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GameObject"
+              "title": "Outgoing links"
             }
           },
           {
@@ -121,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameObject/GameObject.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GameObject"
+              "title": "Outline"
             }
           },
           {
@@ -157,30 +173,12 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "43b5ae828eb7f9c6",
-        "type": "tabs",
-        "dimension": 29.754901960784313,
-        "children": [
-          {
-            "id": "8429eb866f7f4a91",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
         ]
       },
       {
         "id": "105c780aeb2a4d54",
         "type": "tabs",
-        "dimension": 40.490196078431374,
+        "dimension": 38.0765456329735,
         "children": [
           {
             "id": "4f692054988b3b5f",
