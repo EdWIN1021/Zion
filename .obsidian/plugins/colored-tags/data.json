@@ -10,7 +10,8 @@
     "highTextContrast": true
   },
   "knownTags": {
-    "cpp": 1
+    "cpp": 1,
+    "CPP": 2
   },
   "_version": 3
 }
