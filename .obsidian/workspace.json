@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unity/AudioSource/AudioSource.md",
+                "file": "01 - C++/keywords/auto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AudioSource"
+              "title": "auto"
             }
           }
         ]
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/auto.md",
+                "file": "01 - C++/keywords/auto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unity/AudioSource/AudioSource.md",
+                "file": "01 - C++/keywords/auto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AudioSource"
+              "title": "Outline of auto"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:TypeAlias",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "105c780aeb2a4d54",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 418.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,9 +218,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
-    "Unity/AudioSource/AudioSource.md",
+    "01 - C++/keywords/decltype.md",
+    "01 - C++/keywords/typedef.md",
+    "01 - C++/keywords/auto.md",
+    "01 - C++/Friends.md",
+    "04 - Unity/AudioSource/AudioSource.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -236,24 +240,20 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "C++/keywords/decltype.md",
-    "C++/keywords/typedef.md",
-    "C++/keywords/auto.md",
-    "C++/Friends.md",
     "Tags",
     "SMU.md",
     "Untitled.md",
     "Untitled",
-    "Math&Physics",
-    "C++/Lambda Expressions.md",
-    "C++/Forward Declaration.md",
-    "Unity/Time/deltaTime.md",
+    "02 - Math & Physics",
+    "01 - C++/Lambda Expressions.md",
+    "01 - C++/Forward Declaration.md",
+    "04 - Unity/Time/deltaTime.md",
     "C++/Untitled",
     "Unity/TextMeshProUGUI",
-    "Unity/Time",
-    "Unity/AudioSource",
-    "C++/keywords/using.md",
-    "C++/Struct.md",
+    "04 - Unity/Time",
+    "04 - Unity/AudioSource",
+    "01 - C++/keywords/using.md",
+    "01 - C++/Struct.md",
     "2025-09-30.md",
     "Game Engine Architecture",
     "-Assets-/Screenshot 2025-06-19 153825.png",
