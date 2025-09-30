@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "105c780aeb2a4d54",
@@ -202,10 +202,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
@@ -217,8 +218,24 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3b8cab107aa8e752",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
+    "Unity/AudioSource/AudioSource.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "C++/keywords/decltype.md",
     "C++/keywords/typedef.md",
     "C++/keywords/auto.md",
@@ -228,7 +245,6 @@
     "Untitled.md",
     "Untitled",
     "Math&Physics",
-    "Unity/AudioSource/AudioSource.md",
     "C++/Lambda Expressions.md",
     "C++/Forward Declaration.md",
     "Unity/Time/deltaTime.md",
@@ -239,21 +255,7 @@
     "C++/keywords/using.md",
     "C++/Struct.md",
     "2025-09-30.md",
-    "Game Engine Architecture/Untitled.md",
     "Game Engine Architecture",
-    "C++/keywords",
-    "Programming Language",
-    "Physics/OnCollisionEnter2D.md",
-    "Physics/LayerMask.md",
-    "Gizmos/DrawWireSphere.md",
-    "Gizmos/color.md",
-    "Access Component.md",
-    "Packages/Unity UI.md",
-    "Packages/Visual Scripting.md",
-    "Packages/Input System.md",
-    "Packages/2D Tilemap Extras.md",
-    "Packages/Cinemachine.md",
-    "Gizmos/OnDrawGizmos.md",
     "-Assets-/Screenshot 2025-06-19 153825.png",
     "-Assets-/Screenshot 2025-06-19 153825 1.png",
     "-Assets-/Screenshot 2025-06-26 131122.png",
