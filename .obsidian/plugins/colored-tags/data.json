@@ -11,7 +11,9 @@
   },
   "knownTags": {
     "cpp": 1,
-    "CPP": 2
+    "CPP": 2,
+    "typealias": 3,
+    "TypeAlias": 4
   },
   "_version": 3
 }
