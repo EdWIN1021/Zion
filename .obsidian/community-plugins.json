@@ -1,8 +1,8 @@
 [
-  "obsidian-style-settings",
-  "folder-notes",
   "calendar",
   "colored-tags",
   "obsidian-git",
-  "code-styler"
+  "code-styler",
+  "dataview",
+  "folder-note-plugin"
 ]
