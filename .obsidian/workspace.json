@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/auto.md",
+                "file": "C++/keywords/auto.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/typedef.md",
-                "mode": "preview",
+                "file": "C++/Struct.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "typedef"
+              "title": "Struct"
             }
           }
         ],
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 636.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,11 +233,14 @@
   },
   "active": "1b0b2c8ece9a19ec",
   "lastOpenFiles": [
-    "C++/Lambda Expressions.md",
     "C++/Forward Declaration.md",
-    "C++/using.md",
-    "C++/typedef.md",
-    "C++/auto.md",
+    "C++/Lambda Expressions.md",
+    "C++/keywords/decltype.md",
+    "C++/keywords/typedef.md",
+    "C++/keywords/using.md",
+    "C++/keywords/auto.md",
+    "C++/Struct.md",
+    "C++/keywords",
     "2025-09-30.md",
     "Untitled.md",
     "Programming Language",
@@ -263,12 +266,8 @@
     "SpriteRenderer/SpriteRenderer.md",
     "GameObject/GameObject.base",
     "GameObject/GameObject.md",
-    "GameObject/name.md",
-    "Collider/BoxCollider2D.md",
-    "Collider/Composite Collider 2D.md",
     "Transform/Transform.base",
     "Reference.base",
-    "Structs/Vector3",
     "-Assets-/Screenshot 2025-06-19 153825.png",
     "-Assets-/Screenshot 2025-06-19 153825 1.png",
     "-Assets-/Screenshot 2025-06-26 131122.png",
