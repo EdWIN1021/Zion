@@ -2,7 +2,6 @@
 tags:
   - "#TypeAlias"
 ---
-
 > [!NOTE] Title
 > A type alias is a name that is a synonym for another type
 
