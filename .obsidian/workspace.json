@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "02 - Math & Physics/Dot Product.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
