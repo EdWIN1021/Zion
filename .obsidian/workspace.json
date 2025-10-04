@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c241ffa290ca0481",
+        "id": "6c99fdc9bebce4a7",
         "type": "tabs",
         "children": [
           {
-            "id": "3b8cab107aa8e752",
+            "id": "44fb7cab898be68d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,11 +216,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "44fb7cab898be68d",
   "lastOpenFiles": [
-    "00 - Assets/IMG_0018.png",
-    "02 - Math & Physics/MathUtils/Interpolate.md",
     "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
+    "02 - Math & Physics/MathUtils/Interpolate.md",
+    "00 - Assets/IMG_0018.png",
     "02 - Math & Physics/MathUtils",
     "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
     "02 - Math & Physics/Interpolate/Interpolate.md",
@@ -264,7 +264,6 @@
     "Item.canvas",
     "-Assets-/Screenshot 2025-06-29 200532.png",
     "-Assets-/Screenshot 2025-06-26 180646.png",
-    "-Assets-/Screenshot 2025-06-26 135357.png",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
   ]
