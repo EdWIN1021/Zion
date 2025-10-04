@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/MathUtils/Interpolate.md",
+                "file": "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interpolate"
+              "title": "GetFractionWithinRange"
             }
           }
         ]
@@ -216,9 +216,11 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "3b8cab107aa8e752",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
+    "00 - Assets/IMG_0018.png",
     "02 - Math & Physics/MathUtils/Interpolate.md",
+    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "02 - Math & Physics/MathUtils",
     "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
     "02 - Math & Physics/Interpolate/Interpolate.md",
@@ -246,7 +248,6 @@
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Tags",
