@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/MathUtils/Dot Product.md",
+                "file": "01 - C++/A reference to a pointer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dot Product"
+              "title": "A reference to a pointer"
             }
           }
         ]
@@ -218,19 +218,20 @@
   },
   "active": "cfebe2ca957edc09",
   "lastOpenFiles": [
-    "02 - Math & Physics/MathUtils/Interpolate.md",
     "02 - Math & Physics/MathUtils/Dot Product.md",
-    "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
+    "01 - C++/A reference to a pointer.md",
+    "02 - Math & Physics/MathUtils/Interpolate.md",
+    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
+    "02 - Math & Physics/MathUtils/RangeMap.md",
+    "02 - Math & Physics/MathUtils/RangeMapClamped.md",
+    "02 - Math & Physics/MathUtils/RoundDownToInt.md",
     "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
+    "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
     "IMG_0022.png",
     "IMG_0018.png",
     "IMG_0021.png",
     "SMU.md",
     "IMG_0019.png",
-    "02 - Math & Physics/MathUtils/RoundDownToInt.md",
-    "02 - Math & Physics/MathUtils/RangeMapClamped.md",
-    "02 - Math & Physics/MathUtils/RangeMap.md",
-    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "00 - Assets/IMG_0018.png",
     "02 - Math & Physics/MathUtils",
     "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
@@ -252,7 +253,6 @@
     "04 - Unity/AudioSource/AudioSource.md",
     "2025-10-01.md",
     "04 - Unity/Time/deltaTime.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Tags",
