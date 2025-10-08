@@ -14,3 +14,9 @@ when $\theta =  0$, the two vectors point in exactly the same direction.
 when $\theta =  \frac{\pi}{2}$, the two vectors are precisely perpendicular to each other. (no shadow) 
 
 
+```cpp
+float DotProduct2D( Vec2 const& a, Vec2 const& b )
+{
+	return a.x * b.x + a.y * b.y;;
+}
+```

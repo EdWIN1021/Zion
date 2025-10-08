@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c99fdc9bebce4a7",
+        "id": "ce6755ab602f91bb",
         "type": "tabs",
         "children": [
           {
-            "id": "44fb7cab898be68d",
+            "id": "cfebe2ca957edc09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
+                "file": "02 - Math & Physics/MathUtils/Dot Product.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GetShortestAngularDispDegrees"
+              "title": "Dot Product"
             }
           }
         ]
@@ -216,18 +216,20 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "44fb7cab898be68d",
+  "active": "cfebe2ca957edc09",
   "lastOpenFiles": [
+    "02 - Math & Physics/MathUtils/Interpolate.md",
+    "02 - Math & Physics/MathUtils/Dot Product.md",
+    "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
+    "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
     "IMG_0022.png",
     "IMG_0018.png",
     "IMG_0021.png",
     "SMU.md",
-    "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
     "IMG_0019.png",
     "02 - Math & Physics/MathUtils/RoundDownToInt.md",
     "02 - Math & Physics/MathUtils/RangeMapClamped.md",
     "02 - Math & Physics/MathUtils/RangeMap.md",
-    "02 - Math & Physics/MathUtils/Interpolate.md",
     "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "00 - Assets/IMG_0018.png",
     "02 - Math & Physics/MathUtils",
@@ -239,7 +241,6 @@
     "02 - Math & Physics/MathUtils",
     "02 - Math & Physics/GetNearestPointOnDisc2D.md",
     "02 - Math & Physics/IsPointInsideDisc2D.md",
-    "02 - Math & Physics/Dot Product.md",
     "01 - C++/Forward Declaration.md",
     "01 - C++/Struct.md",
     "01 - C++/Lambda Expressions.md",
@@ -263,7 +264,6 @@
     "-Assets-/Screenshot 2025-06-26 131122.png",
     "-Assets-/Screenshot 2025-06-26 102003.png",
     "-Assets-/Screenshot 2025-06-19 150720.png",
-    "-Assets-/Pasted image 20250626132125.png",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
