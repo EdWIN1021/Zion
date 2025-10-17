@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
+                "file": "05 - Game Engine Architecture/05 - Game Engine Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PushDiscOutOfFixedPoint2D"
+              "title": "05 - Game Engine Architecture"
             }
           }
         ],
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 361.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,15 +231,16 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "bb6ce66f709532c5",
   "lastOpenFiles": [
+    "05 - Game Engine Architecture/Starts Up & Shut Down.md",
+    "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
     "02 - Math & Physics/GetNearestPointOnDisc2D.md",
     "01 - C++/Class/Class.md",
     "01 - C++/Type/Type.md",
     "04 - Unity/AudioSource/AudioSource.md",
     "04 - Unity/Time/deltaTime.md",
     "SMU.md",
-    "05 - Game Engine Architecture/Starts Up & Shut Down.md",
     "01 - C++/Forward Declaration.md",
     "01 - C++/Struct.md",
     "01 - C++/Lambda Expressions.md",
@@ -264,7 +265,6 @@
     "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "02 - Math & Physics/MathUtils/RangeMap.md",
     "02 - Math & Physics/MathUtils/RangeMapClamped.md",
-    "02 - Math & Physics/MathUtils/RoundDownToInt.md",
     "IMG_0018.png",
     "00 - Assets/IMG_0021.png",
     "IMG_0019.png",
