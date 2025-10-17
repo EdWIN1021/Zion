@@ -13,7 +13,18 @@
     "cpp": 1,
     "CPP": 2,
     "typealias": 3,
-    "TypeAlias": 4
+    "TypeAlias": 4,
+    "defines": 5,
+    "define": 6,
+    "include": 7,
+    "pragma": 8,
+    "ifndef": 9,
+    "including": 10,
+    "else": 11,
+    "elif": 12,
+    "endif": 13,
+    "if": 14,
+    "ifdef": 15
   },
   "_version": 3
 }

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Game Engine Architecture/05 - Game Engine Architecture.md",
+                "file": "Coding Standards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Game Engine Architecture"
+              "title": "Coding Standards"
             }
           }
         ],
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 312.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -233,6 +233,8 @@
   },
   "active": "bb6ce66f709532c5",
   "lastOpenFiles": [
+    "05 - Game Engine Architecture/05 - Game Engine Architecture.md",
+    "Coding Standards.md",
     "05 - Game Engine Architecture/Starts Up & Shut Down.md",
     "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
     "02 - Math & Physics/GetNearestPointOnDisc2D.md",
@@ -253,7 +255,6 @@
     "01 - C++/keywords/auto.md",
     "01 - C++/Variables",
     "01 - C++/Class",
-    "05 - Game Engine Architecture/05 - Game Engine Architecture.md",
     "01 - C++/keywords/using.md",
     "05 - Game Engine Architecture",
     "01 - C++/Friends.md",
@@ -264,7 +265,6 @@
     "02 - Math & Physics/MathUtils/Interpolate.md",
     "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "02 - Math & Physics/MathUtils/RangeMap.md",
-    "02 - Math & Physics/MathUtils/RangeMapClamped.md",
     "IMG_0018.png",
     "00 - Assets/IMG_0021.png",
     "IMG_0019.png",
