@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Coding Standards.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,7 +216,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "182fa32ff0961caa",
   "lastOpenFiles": [
     "05 - Game Engine Architecture/05 - Game Engine Architecture.md",
     "01 - C++/A reference to a pointer.md",
