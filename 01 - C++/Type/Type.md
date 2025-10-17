@@ -1,1 +1,3 @@
-- It determines
+- It determines how much memory is needed for a data object
+- It determines how the bits in memory are interpreted
+- It determines what operations, or methods, can be performed using the data object.
