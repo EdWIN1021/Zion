@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
+                "file": "02 - Math & Physics/Standard Basis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GetNearestPointOnOBB2"
+              "title": "Standard Basis"
             }
           }
         ]
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - C++/keywords/decltype.md",
+                "file": "02 - Math & Physics/Standard Basis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from decltype"
+              "title": "Outgoing links from Standard Basis"
             }
           },
           {
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - C++/keywords/decltype.md",
+                "file": "02 - Math & Physics/Standard Basis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of decltype"
+              "title": "Outline of Standard Basis"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DotProduct",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "105c780aeb2a4d54",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 378.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,41 +218,40 @@
   },
   "active": "b83ef6eb27d164e7",
   "lastOpenFiles": [
-    "02 - Math & Physics/OBB2/OBB2.md",
-    "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
+    "02 - Math & Physics/MathUtils/Dot Product.md",
+    "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
+    "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
+    "02 - Math & Physics/MathUtils/RoundDownToInt.md",
+    "02 - Math & Physics/MathUtils/RangeMapClamped.md",
+    "02 - Math & Physics/MathUtils/RangeMap.md",
+    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "02 - Math & Physics/MathUtils/Interpolate.md",
     "02 - Math & Physics/OBB2/IsPointInsideOBB2.md",
-    "IsPointInsideOBB2.png",
+    "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
+    "00 - Assets/IMG_0018.png",
+    "00 - Assets/IMG_0021.png",
+    "00 - Assets/IMG_0022.png",
+    "00 - Assets/GetNearestPointOnOBB2.png",
     "02 - Math & Physics/Standard Basis.md",
+    "02 - Math & Physics/OBB2/OBB2.md",
+    "00 - Assets/IsPointInsideOBB2.png",
     "02 - Math & Physics/GetNearestPointOnDisc2D.md",
     "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
-    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
-    "02 - Math & Physics/MathUtils/Dot Product.md",
     "CheatSheet.md",
     "Coding Standards.md",
     "02 - Math & Physics/IsPointInsideDisc2D.md",
     "02 - Math & Physics/Vec2/GetRotatedBy90Degrees.md",
     "00 - Assets/RotatedBy90Degrees.png",
-    "00 - Assets/IMG_0022.png",
-    "00 - Assets/IMG_0018.png",
-    "00 - Assets/IMG_0021.png",
     "00 - Assets/OBB2.png",
-    "Math & Physics.jpeg.png",
     "02 - Math & Physics/OBB2",
     "02 - Math & Physics/Vec2",
-    "02 - Math & Physics/MathUtils/RangeMap.md",
-    "02 - Math & Physics/MathUtils/RangeMapClamped.md",
     "SMU.md",
     "Untitled.md",
-    "02 - Math & Physics/MathUtils/RoundDownToInt.md",
-    "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
-    "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
     "01 - C++/Pointer/Pointer.md",
     "01 - C++/Type/Type.md",
     "01 - C++/Forward Declaration.md",
     "01 - C++/Struct.md",
     "01 - C++/reinterpret_cast.md",
-    "01 - C++/Lambda Expressions.md",
     "01 - C++/Type",
     "01 - C++/Pointer",
     "01 - C++/Variables",

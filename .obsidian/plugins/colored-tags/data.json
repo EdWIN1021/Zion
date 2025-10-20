@@ -25,7 +25,10 @@
     "endif": 13,
     "if": 14,
     "ifdef": 15,
-    "DotProduct": 16
+    "DotProduct": 16,
+    "ij": 17,
+    "iijBasis": 18,
+    "ijbasis": 19
   },
   "_version": 3
 }

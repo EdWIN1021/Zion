@@ -8,12 +8,13 @@
 - *$\vec{j}$* is a vector of length 1 pointing straight along the positive Y-axis. Its value is `(0, 1)`.
 
 
+
+
+
 ## Rotation Degrees & Uniform Scale
 
 ```C++
 Vec2 iBasis = Vec2::MakeFromPolarDegrees( zRotationDegrees, uniformScaleXY );
 Vex2 jBasis = iBasis.GetRotateBy90Degrees();
 ```
-
-## Translate
 
