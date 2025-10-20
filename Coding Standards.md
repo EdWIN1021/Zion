@@ -1,39 +1,3 @@
-# What are Coding Standards?
-
-Most game companies have a Coding Standard that the company's programmers are expected to follow.
-
-Some standards include high-level principles, such as "When in Rome, do as the Romans do" or "Write your code as if you are writing it for someone else."
-
-Some standards include general rules of usage, such as "Always prefer constants to #defines" or "When in doubt, pass anything bigger than a pointer by const reference."
-
-Other standards include blanket precepts, such as "Do not use smart pointers such as shared_ptr" or "Do not use Boost or STL".
-
-Many standards also include code style and formatting rules such as "Use ProperCase verbs for function names" or "Use m_camelCase nouns for member variables."
-
-Why have Coding Standards?
-
-Professional programmers read and comprehend code faster and at a much higher level than do amateur and junior programmers.  Much like musicians read chords and phrases in a single thought (rather than note-by-note) - and you just read the word "musicians" as a single thought (rather than letter-by-letter), so do fluent programmers read code in whole "chunks" at a time.
-
-Having a common coding standard - and consistent style - is part of what makes this possible.  It allows the programmer to acclimate to a codebase, becoming familiar with its idioms, its paradigms, its cadence, anticipating and recognizing its expressions at a pre-cognitive level, much like an athlete's "muscle-memory".
-
-No coding standard makes all programmers happy on all points.  Few programmers personally agree with every single point of a coding standard - even a company's Technical Director might inherit an existing coding standard, or draft it based on consensus rather than personal beliefs.
-
-Nevertheless, most veteran programmers strongly prefer the advantages of working under a common coding standard as the advantages are clear.
-
-# A Coding Meta-Standard
-
-The following is an attempt to cite and compare examples of each of these items from various game companies and other sources.
-
-Standards items often provide reasoning behind them.  We will do so likewise and, in some cases, take sides and make recommendations on specific points.
-
-Sources cited here include:
-
-- Insomniac Games' core coding standard
-- Input from various senior members of the game development community
-- Specific input from Guildhall Software Development faculty (Eiserloh, Wofford, Wouter, Forseth, Butler)
-
-**SD1** indicates coding standards used in the **Software Development for Games I (HGME 6311)** course at Guildhall.
-
 ## High-level principles
 
 Keep in mind that these coding standards apply specifically to game programming, the needs of which may differ somewhat or diverge entirely from traditional software engineering needs.  For example, the ability to perform rapid iteration on features and gameplay ("finding the fun") is of paramount importance to game developers, but considerably less so outside of games where engineering requirements are typically more well-known and well-defined in advance.  All of these principles apply to the **SD1** coding standard.
