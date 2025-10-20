@@ -8,7 +8,9 @@
 - *$\vec{j}$* is a vector of length 1 pointing straight along the positive Y-axis. Its value is `(0, 1)`.
 
 
-
+$$
+P_{world} = T_{world} + ( Local_x * \widehat{i}) + (Local_y * \widehat{j})
+$$
 
 
 ## Rotation Degrees & Uniform Scale
