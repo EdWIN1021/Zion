@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/OBB2/IsPointInsideOBB2.md",
-                "mode": "preview",
+                "file": "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IsPointInsideOBB2"
+              "title": "GetNearestPointOnOBB2"
             }
           }
         ]
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DotProduct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "105c780aeb2a4d54",
@@ -218,16 +218,19 @@
   },
   "active": "b83ef6eb27d164e7",
   "lastOpenFiles": [
-    "02 - Math & Physics/Standard Basis.md",
+    "02 - Math & Physics/OBB2/OBB2.md",
+    "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
+    "02 - Math & Physics/MathUtils/Interpolate.md",
     "02 - Math & Physics/OBB2/IsPointInsideOBB2.md",
+    "IsPointInsideOBB2.png",
+    "02 - Math & Physics/Standard Basis.md",
+    "02 - Math & Physics/GetNearestPointOnDisc2D.md",
+    "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
+    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "02 - Math & Physics/MathUtils/Dot Product.md",
     "CheatSheet.md",
     "Coding Standards.md",
-    "02 - Math & Physics/MathUtils/Interpolate.md",
-    "02 - Math & Physics/OBB2/OBB2.md",
     "02 - Math & Physics/IsPointInsideDisc2D.md",
-    "02 - Math & Physics/GetNearestPointOnDisc2D.md",
-    "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
     "02 - Math & Physics/Vec2/GetRotatedBy90Degrees.md",
     "00 - Assets/RotatedBy90Degrees.png",
     "00 - Assets/IMG_0022.png",
@@ -241,7 +244,6 @@
     "02 - Math & Physics/MathUtils/RangeMapClamped.md",
     "SMU.md",
     "Untitled.md",
-    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
     "02 - Math & Physics/MathUtils/RoundDownToInt.md",
     "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
     "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
@@ -251,7 +253,6 @@
     "01 - C++/Struct.md",
     "01 - C++/reinterpret_cast.md",
     "01 - C++/Lambda Expressions.md",
-    "01 - C++/Friends.md",
     "01 - C++/Type",
     "01 - C++/Pointer",
     "01 - C++/Variables",
@@ -263,7 +264,6 @@
     "02 - Math & Physics/Interpolate",
     "02 - Math & Physics/Interpolate",
     "-Assets-/Screenshot 2025-06-19 153825.png",
-    "-Assets-/Screenshot 2025-06-19 153825 1.png",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"

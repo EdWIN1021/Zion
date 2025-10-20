@@ -24,7 +24,8 @@
     "elif": 12,
     "endif": 13,
     "if": 14,
-    "ifdef": 15
+    "ifdef": 15,
+    "DotProduct": 16
   },
   "_version": 3
 }
