@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/Vec2/GetClamped.md",
-                "mode": "preview",
+                "file": "02 - Math & Physics/AABB2/IsPointInside.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GetClamped"
+              "title": "IsPointInside"
             }
           }
         ]
@@ -115,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Math & Physics/Vec2/GetClamped.md",
+                "file": "02 - Math & Physics/AABB2/IsPointInside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GetClamped"
+              "title": "Outgoing links from IsPointInside"
             }
           },
           {
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Math & Physics/Vec2/GetClamped.md",
+                "file": "Coding Standards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GetClamped"
+              "title": "Outline of Coding Standards"
             }
           },
           {
@@ -159,7 +159,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#DotProduct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "105c780aeb2a4d54",
@@ -218,52 +218,51 @@
   },
   "active": "b83ef6eb27d164e7",
   "lastOpenFiles": [
-    "02 - Math & Physics/Standard Basis.md",
-    "02 - Math & Physics/Vec2/GetClamped.md",
+    "02 - Math & Physics/AABB2/IsPointInsideAABB2D.md",
+    "02 - Math & Physics/AABB2/GetNearestPoint.md",
+    "02 - Math & Physics/AABB2/IsPointInside.md",
+    "02 - Math & Physics/AABB2/AABB2.md",
     "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
-    "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
-    "02 - Math & Physics/MathUtils/RangeMapClamped.md",
-    "02 - Math & Physics/MathUtils/RoundDownToInt.md",
-    "02 - Math & Physics/MathUtils/Dot Product.md",
-    "02 - Math & Physics/OBB2/IsPointInsideOBB2.md",
-    "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
-    "02 - Math & Physics/PushDiscOutOfFixedPoint2D.md",
-    "02 - Math & Physics/GetNearestPointOnDisc2D.md",
-    "02 - Math & Physics/IsPointInsideDisc2D.md",
-    "CheatSheet.md",
     "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
-    "02 - Math & Physics/MathUtils/RangeMap.md",
+    "02 - Math & Physics/MathUtils/Dot Product.md",
+    "02 - Math & Physics/Disc/GetNearestPointOnDisc2D.md",
+    "02 - Math & Physics/Disc/PushDiscOutOfFixedPoint2D.md",
+    "02 - Math & Physics/Disc/IsPointInsideDisc2D.md",
+    "00 - Assets/IMG_0022.png",
+    "02 - Math & Physics/OBB2/OBB2.md",
+    "02 - Math & Physics/Disc",
+    "02 - Math & Physics/OBB2/IsPointInsideOBB2D.md",
+    "00 - Assets/IsPointInsideOBB2D.png",
+    "00 - Assets/RotatedBy90Degrees.png",
+    "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
+    "01 - C++/keywords/auto.md",
+    "Coding Standards.md",
+    "00 - Assets/IsPointInside.png",
+    "02 - Math & Physics/MathUtils/RoundDownToInt.md",
+    "02 - Math & Physics/Vec2/SetOrientationDegrees.md",
+    "02 - Math & Physics/Vec2/SetOrientationRadians.md",
+    "02 - Math & Physics/AABB2/AABB2 1.md",
+    "02 - Math & Physics/AABB2",
+    "02 - Math & Physics/Vec2/GetClamped.md",
+    "02 - Math & Physics/Standard Basis.md",
+    "CheatSheet.md",
+    "02 - Math & Physics/Vec2/GetRotatedBy90Degrees.md",
+    "02 - Math & Physics/Vec2/GetNormalized.md",
     "02 - Math & Physics/MathUtils/Interpolate.md",
+    "02 - Math & Physics/MathUtils/RangeMap.md",
     "00 - Assets/IMG_0018.png",
     "00 - Assets/IMG_0021.png",
-    "00 - Assets/IMG_0022.png",
     "00 - Assets/GetNearestPointOnOBB2.png",
-    "02 - Math & Physics/OBB2/OBB2.md",
-    "00 - Assets/IsPointInsideOBB2.png",
-    "Coding Standards.md",
-    "02 - Math & Physics/Vec2/GetRotatedBy90Degrees.md",
-    "00 - Assets/RotatedBy90Degrees.png",
     "00 - Assets/OBB2.png",
     "02 - Math & Physics/OBB2",
     "02 - Math & Physics/Vec2",
-    "SMU.md",
-    "Untitled.md",
-    "01 - C++/Pointer/Pointer.md",
-    "01 - C++/Type/Type.md",
-    "01 - C++/Forward Declaration.md",
-    "01 - C++/Struct.md",
-    "01 - C++/reinterpret_cast.md",
     "01 - C++/Type",
     "01 - C++/Pointer",
     "01 - C++/Variables",
     "01 - C++/Class",
     "05 - Game Engine Architecture",
     "IMG_0018.png",
-    "IMG_0019.png",
     "02 - Math & Physics/MathUtils",
-    "02 - Math & Physics/Interpolate",
-    "02 - Math & Physics/Interpolate",
-    "-Assets-/Screenshot 2025-06-19 153825.png",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"

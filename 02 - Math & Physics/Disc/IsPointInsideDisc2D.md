@@ -1,3 +1,4 @@
+
 ## sectorTip
 
 The **sectorTip** is the **vertex/origin of the sector**
