@@ -1,0 +1,22 @@
+```cpp
+enum class XboxButtonID
+{
+	A,
+	B,
+	X,
+	Y,
+	UP,
+	DOWN,
+	LEFT,
+	RIGHT,
+	LEFT_SHOULDER,
+	RIGHT_SHOULDER,
+	LEFT_THUMB,
+	RIGHT_THUMB,
+	START,
+	BACK,
+	LEFT_TRIGGER,
+	RIGHT_TRIGGER,
+	NUM
+};
+```

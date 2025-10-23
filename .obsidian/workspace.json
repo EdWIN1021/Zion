@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Standards/Class.md",
-                "mode": "preview",
+                "file": "01 - C++/Enum Class.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Class"
+              "title": "Enum Class"
             }
           }
         ],
@@ -233,9 +233,13 @@
   },
   "active": "cedab1e8706f9a5d",
   "lastOpenFiles": [
+    "01 - C++/Type/Type.md",
+    "01 - C++/Enum Class.md",
+    "01 - C++/Pointer/Pointer.md",
+    "01 - C++/Class/Class.md",
+    "Coding Standards/Class.md",
     "Coding Standards",
     "02 - Math & Physics/AABB2/AABB2.md",
-    "Coding Standards/Class.md",
     "00 - Assets/GetNearestPointOnOBB2.png",
     "00 - Assets/RotatedBy90Degrees.png",
     "00 - Assets/IMG_0021.png",
@@ -267,9 +271,6 @@
     "01 - C++/keywords/auto.md",
     "Coding Standards.md",
     "00 - Assets/IsPointInside.png",
-    "02 - Math & Physics/Vec2/SetOrientationDegrees.md",
-    "02 - Math & Physics/Vec2/SetOrientationRadians.md",
-    "02 - Math & Physics/AABB2/AABB2 1.md",
     "02 - Math & Physics/AABB2",
     "02 - Math & Physics/OBB2",
     "02 - Math & Physics/Vec2",
@@ -278,7 +279,6 @@
     "01 - C++/Variables",
     "01 - C++/Class",
     "05 - Game Engine Architecture",
-    "02 - Math & Physics/MathUtils",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
