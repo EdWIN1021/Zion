@@ -1,6 +1,6 @@
-![[IMG_0021.png | center | 800]]
+![[IMG_0021.png | center | 600]]
 
-![[IMG_0022.png | center | 800]]
+![[IMG_0022.png | center | 700]]
 
 
 ```cpp
