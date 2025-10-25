@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
+                "file": "02 - Math & Physics/VertexUtils/TransformVertexArrayXY3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GetTurnedTowardDegrees"
+              "title": "TransformVertexArrayXY3D"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 348.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,19 +218,30 @@
   },
   "active": "b83ef6eb27d164e7",
   "lastOpenFiles": [
+    "02 - Math & Physics/Standard Basis.md",
+    "02 - Math & Physics/VertexUtils/TransformVertexArrayXY3D.md",
+    "02 - Math & Physics/Vec2/SetOrientationRadians.md",
+    "02 - Math & Physics/Untitled",
+    "02 - Math & Physics/OBB2/OBB2.md",
+    "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
+    "02 - Math & Physics/MathUtils/VertexUtils.md",
+    "02 - Math & Physics/OBB2/IsPointInsideOBB2D.md",
+    "02 - Math & Physics/AABB2/GetDimensions.md",
+    "02 - Math & Physics/AABB2/SetDimensions.md",
+    "02 - Math & Physics/AABB2/AABB2.md",
+    "01 - C++/vector/vector.md",
+    "2025-10-24.md",
+    "01 - C++/vector",
+    "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
+    "02 - Math & Physics/VertexUtils",
     "02 - Math & Physics/MathUtils/GetShortestAngularDispDegrees.md",
     "02 - Math & Physics/MathUtils/Dot Product.md",
     "02 - Math & Physics/MathUtils/RangeMap.md",
     "02 - Math & Physics/MathUtils/GetFractionWithinRange.md",
-    "02 - Math & Physics/AABB2/AABB2.md",
-    "02 - Math & Physics/MathUtils/GetTurnedTowardDegrees.md",
     "02 - Math & Physics/MathUtils/RoundDownToInt.md",
-    "02 - Math & Physics/MathUtils/Untitled.md",
     "02 - Math & Physics/MathUtils/RangeMapClamped.md",
     "05 - Game Engine Architecture/05 - Game Engine Architecture.md",
-    "2025-10-23.md",
     "Coding Standards/Class.md",
-    "2025-10-24.md",
     "CheatSheet.md",
     "01 - C++/Enum Class.md",
     "01 - C++/Type/Type.md",
@@ -241,19 +252,11 @@
     "00 - Assets/RotatedBy90Degrees.png",
     "00 - Assets/IMG_0021.png",
     "00 - Assets/IMG_0018.png",
-    "02 - Math & Physics/AABB2/GetDimensions.md",
-    "02 - Math & Physics/AABB2/IsPointInside.md",
-    "02 - Math & Physics/AABB2/SetDimensions.md",
-    "02 - Math & Physics/AABB2/GetNearestPoint.md",
-    "02 - Math & Physics/AABB2/IsPointInsideAABB2D.md",
     "00 - Assets/GetDimensions.png",
     "02 - Math & Physics/MathUtils/Math & Physics.jpeg (2).png",
     "00 - Assets/IsPointInsideOBB2D.png",
     "00 - Assets/OBB2.png",
     "00 - Assets/IMG_0022.png",
-    "02 - Math & Physics/Disc/GetNearestPointOnDisc2D.md",
-    "02 - Math & Physics/MathUtils/Interpolate.md",
-    "02 - Math & Physics/Disc/PushDiscOutOfFixedPoint2D.md",
     "02 - Math & Physics/Disc",
     "00 - Assets/IsPointInside.png",
     "02 - Math & Physics/AABB2",
@@ -261,9 +264,6 @@
     "02 - Math & Physics/Vec2",
     "01 - C++/Type",
     "01 - C++/Pointer",
-    "01 - C++/Variables",
-    "01 - C++/Class",
-    "05 - Game Engine Architecture",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
