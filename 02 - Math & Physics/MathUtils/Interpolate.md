@@ -1,7 +1,7 @@
 > [!NOTE]
 > To estimate or calculate a value that lies **between two known values**, usually in a smooth or linear way.
 
-
+fractionTowardEnd 应该在 0 ~ 1 之间 
 
 ```cpp
 float Interpolate( float start, float end, float fractionTowardEnd )
