@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "d003f6baf55ed91f",
-        "type": "tabs",
+        "id": "5e6f52572cd4ad01",
+        "type": "split",
         "children": [
           {
-            "id": "e8922ba9563712a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03 - Unreal/Multiplayer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiplayer"
-            }
+            "id": "a49c21886bc3b81c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "73d62bc281c01e2c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Unreal/Multiplayer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Multiplayer"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d003f6baf55ed91f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8922ba9563712a3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 - Unreal/Multiplayer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Multiplayer"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -202,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 683.5
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,12 +243,14 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "e8922ba9563712a3",
+  "active": "73d62bc281c01e2c",
   "lastOpenFiles": [
-    "MP2/Rotation.md",
-    "03 - Unreal/Multiplayer.md",
-    "Untitled.canvas",
     "SMU.md",
+    "Window.md",
+    "03 - Unreal/Multiplayer.md",
+    "MP2/Rotation.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "00 - Assets/GetDimensions.png",
     "MP2",
     "02 - Math & Physics/AABB2/AABB2.md",
@@ -246,7 +275,6 @@
     "02 - Math & Physics/MathUtils/Interpolate.md",
     "02 - Math & Physics/Disc/GetNearestPointOnDisc2D.md",
     "02 - Math & Physics/Disc/PushDiscOutOfFixedPoint2D.md",
-    "02 - Math & Physics/AABB2/GetNearestPoint.md",
     "02 - Math & Physics/Untitled",
     "01 - C++/vector",
     "02 - Math & Physics/VertexUtils",
@@ -264,7 +292,6 @@
     "02 - Math & Physics/AABB2",
     "02 - Math & Physics/OBB2",
     "02 - Math & Physics/Vec2",
-    "01 - C++/Type",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
