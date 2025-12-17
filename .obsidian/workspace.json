@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03 - Unreal/Material/Material.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -216,7 +216,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "972bef7452b3b016",
   "lastOpenFiles": [
     "00 - Assets/Screenshot 2025-12-17 121453.png",
     "03 - Unreal/Multiplayer/Multiplayer.md",

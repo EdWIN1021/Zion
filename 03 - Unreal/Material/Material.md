@@ -13,7 +13,6 @@
 	- A color input in Unreal Materials that makes a surface appear self-illuminated
 	- Texture Sample (EM)
 
-
 ## ORM 
 - ORM (Occlusion, Roughness, Metallic)
 - Texture Sample
