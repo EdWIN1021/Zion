@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Multiplayer/Role.md",
+                "file": "02 - Math & Physics/3D Rotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Role"
+              "title": "3D Rotation"
             }
           }
         ]
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Unreal/Multiplayer/Role.md",
+                "file": "02 - Math & Physics/3D Rotation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Role"
+              "title": "Outline of 3D Rotation"
             }
           },
           {
@@ -216,9 +216,16 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b5544ba0f9acf9f4",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
+    "Perforce.md",
+    "02 - Math & Physics/3D Rotation.md",
+    "Window.md",
+    "02 - Math & Physics/MathUtils/PushDiscOutOfFixedAABB2D.md",
+    "02 - Math & Physics/MathUtils/GetNearestPointOnTriangle2D_v2.md",
+    "02 - Math & Physics/OBB2/OBB2.md",
     "03 - Unreal/Multiplayer/Role.md",
+    "02 - Math & Physics/MP1",
     "03 - Unreal/AActor.md",
     "03 - Unreal/Multiplayer/Seamless Travel.md",
     "03 - Unreal/Multiplayer/LAN Connection.md",
@@ -238,12 +245,6 @@
     "01 - C++/keywords/typedef.md",
     "01 - C++/keywords/auto.md",
     "01 - C++/Pointer/Pointer.md",
-    "01 - C++/Type/Type.md",
-    "01 - C++/Variables/char.md",
-    "01 - C++/Variables/double.md",
-    "01 - C++/vector/vector.md",
-    "01 - C++/Enum Class.md",
-    "MP2/Rotation.md",
     "00 - Assets/Screenshot 2025-12-16 201539.png",
     "00 - Assets/Screenshot 2025-12-16 201508.png",
     "00 - Assets/Screenshot 2025-12-16 200905.png",
@@ -261,8 +262,7 @@
     "03 - Unreal/UI",
     "Untitled.base",
     "Untitled.canvas",
-    "MP2",
-    "02 - Math & Physics/Untitled",
+    "02 - Math & Physics/MP2",
     "01 - C++/vector",
     "02 - Math & Physics/VertexUtils",
     "Item.canvas",
