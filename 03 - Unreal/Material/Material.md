@@ -12,3 +12,8 @@
 - Emissive Color
 	- A color input in Unreal Materials that makes a surface appear self-illuminated
 	- Texture Sample (EM)
+
+
+## ORM
+- ORM (Occlusion, Roughness, Metallic)
+![[Screenshot 2025-12-17 121453.png | center]]
