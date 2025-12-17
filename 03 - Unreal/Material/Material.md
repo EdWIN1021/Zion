@@ -1,1 +1,3 @@
-- Metallic [0~1]
+- Metallic [0,1]
+- Specular [0,1]
+- Roughness [0,1]
