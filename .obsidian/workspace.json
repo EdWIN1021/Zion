@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Shortcut.md",
+                "file": "03 - Unreal/Shortcuts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortcut"
+              "title": "Shortcuts"
             }
           }
         ]
@@ -245,7 +245,7 @@
     "03 - Unreal/Project Settings/Packaging.md",
     "03 - Unreal/PlayerController/SetInputModeGameOnly.md",
     "03 - Unreal/Multiplayer/Online Subsystem.md",
-    "03 - Unreal/Shortcut.md",
+    "03 - Unreal/Shortcuts.md",
     "01 - C++/Class/Class.md",
     "00 - Assets/Screenshot 2025-12-16 201539.png",
     "00 - Assets/Screenshot 2025-12-16 201508.png",
