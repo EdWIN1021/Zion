@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
+                "file": "03 - Unreal/Project Settings/Packaging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quit Game"
+              "title": "Packaging"
             }
           }
         ]
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
+                "file": "03 - Unreal/Project Settings/Packaging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quit Game"
+              "title": "Outline of Packaging"
             }
           },
           {
@@ -218,9 +218,10 @@
   },
   "active": "73d62bc281c01e2c",
   "lastOpenFiles": [
-    "Screenshot 2025-12-16 184817.png",
-    "03 - Unreal/PlayerController/SetInputModeUIOnly.md",
+    "Screenshot 2025-12-16 184944.png",
     "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
+    "00 - Assets/Screenshot 2025-12-16 184817.png",
+    "03 - Unreal/PlayerController/SetInputModeUIOnly.md",
     "03 - Unreal/UKismetSystemLibrary",
     "03 - Unreal/UKismetSystemLibrary.md",
     "03 - Unreal/PlayerController/SetInputModeGameOnly.md",
@@ -264,7 +265,6 @@
     "00 - Assets/RotatedBy90Degrees.png",
     "00 - Assets/IMG_0021.png",
     "00 - Assets/IMG_0018.png",
-    "02 - Math & Physics/MathUtils/Math & Physics.jpeg (2).png",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
