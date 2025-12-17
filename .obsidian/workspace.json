@@ -216,18 +216,19 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
+    "00 - Assets/Screenshot 2025-12-16 185204.png",
     "00 - Assets/Screenshot 2025-12-16 184944.png",
-    "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
     "00 - Assets/Screenshot 2025-12-16 184817.png",
+    "03 - Unreal/Project Settings/Packaging.md",
+    "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
     "03 - Unreal/PlayerController/SetInputModeUIOnly.md",
     "03 - Unreal/UKismetSystemLibrary",
     "03 - Unreal/UKismetSystemLibrary.md",
     "03 - Unreal/PlayerController/SetInputModeGameOnly.md",
     "03 - Unreal/UI/UButton.md",
     "03 - Unreal/UI/UWidgetComponent.md",
-    "03 - Unreal/Project Settings/Packaging.md",
     "00 - Assets/Screenshot 2025-12-16 184226.png",
     "03 - Unreal/Multiplayer.md",
     "03 - Unreal/Actor.md",
@@ -264,7 +265,6 @@
     "00 - Assets/GetNearestPointOnOBB2.png",
     "00 - Assets/RotatedBy90Degrees.png",
     "00 - Assets/IMG_0021.png",
-    "00 - Assets/IMG_0018.png",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
