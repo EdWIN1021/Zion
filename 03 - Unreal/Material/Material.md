@@ -14,6 +14,7 @@
 	- Texture Sample (EM)
 
 
-## ORM
+## ORM 
 - ORM (Occlusion, Roughness, Metallic)
+- Texture Sample
 ![[Screenshot 2025-12-17 121453.png | center]]
