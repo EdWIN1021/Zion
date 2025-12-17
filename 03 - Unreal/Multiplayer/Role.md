@@ -18,7 +18,7 @@ ENetRole::ROLE_Authority
 ENetRole::ROLE_AutonomousProxy
 ```
 
-## Other Client
+## Other Clients
 
 ```cpp
 ENetRole::ROLE_SimulatedProxy

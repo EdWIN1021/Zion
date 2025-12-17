@@ -315,13 +315,13 @@
           "textItalic": true
         },
         "languageTag": {
-          "display": "always",
+          "display": "none",
           "textFont": "",
           "textBold": true,
           "textItalic": false
         },
         "languageIcon": {
-          "display": "none",
+          "display": "always",
           "displayColour": true
         },
         "externalReference": {
