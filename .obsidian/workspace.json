@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Project Settings/Packaging.md",
+                "file": "03 - Unreal/Multiplayer/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Packaging"
+              "title": "Untitled"
             }
           }
         ]
@@ -144,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Unreal/Project Settings/Packaging.md",
+                "file": "03 - Unreal/Multiplayer/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Packaging"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -216,12 +216,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "73d62bc281c01e2c",
   "lastOpenFiles": [
+    "03 - Unreal/Multiplayer/LAN Connection.md",
+    "03 - Unreal/Multiplayer/Untitled.md",
+    "03 - Unreal/Multiplayer/Multiplayer.md",
+    "03 - Unreal/Multiplayer",
+    "SMU.md",
+    "03 - Unreal/Project Settings/Packaging.md",
     "00 - Assets/Screenshot 2025-12-16 185204.png",
     "00 - Assets/Screenshot 2025-12-16 184944.png",
     "00 - Assets/Screenshot 2025-12-16 184817.png",
-    "03 - Unreal/Project Settings/Packaging.md",
     "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
     "03 - Unreal/PlayerController/SetInputModeUIOnly.md",
     "03 - Unreal/UKismetSystemLibrary",
@@ -230,7 +235,6 @@
     "03 - Unreal/UI/UButton.md",
     "03 - Unreal/UI/UWidgetComponent.md",
     "00 - Assets/Screenshot 2025-12-16 184226.png",
-    "03 - Unreal/Multiplayer.md",
     "03 - Unreal/Actor.md",
     "03 - Unreal/UI/UUserWidget.md",
     "03 - Unreal/Shortcut.md",
@@ -243,7 +247,6 @@
     "03 - Unreal/UI/Button.md",
     "MP2/Rotation.md",
     "03 - Unreal/UI",
-    "SMU.md",
     "02 - Math & Physics/OBB2/OBB2.md",
     "Window.md",
     "Untitled.base",
@@ -257,14 +260,11 @@
     "CheatSheet.md",
     "05 - Game Engine Architecture/Starts Up & Shut Down.md",
     "05 - Game Engine Architecture/05 - Game Engine Architecture.md",
-    "Coding Standards/Class.md",
     "02 - Math & Physics/Untitled",
     "01 - C++/vector",
     "02 - Math & Physics/VertexUtils",
-    "Coding Standards",
     "00 - Assets/GetNearestPointOnOBB2.png",
     "00 - Assets/RotatedBy90Degrees.png",
-    "00 - Assets/IMG_0021.png",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"

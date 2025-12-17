@@ -1,0 +1,2 @@
+- Same Local Network
+- One Player Hosts (Host is a listen server)
