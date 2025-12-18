@@ -1,6 +1,7 @@
 ---
-Category:
+Category: Class
 Hierarchy:
+  - "[[UObject]]"
 ---
 
 ==root has to be static mesh==

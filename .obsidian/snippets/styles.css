@@ -1,5 +1,9 @@
 .internal-link {
-  all: unset;
+  background: none;
+}
+
+.multi-select-pill.internal-link {
+  background: none;
 }
 
 img[alt*="center"] {
