@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Shortcuts.md",
+                "file": "03 - Unreal/AActor/GetActorLocation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shortcuts"
+              "title": "GetActorLocation"
             }
           }
         ]
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 623.5
+    "width": 682.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,15 +218,18 @@
   },
   "active": "97815e017fac01e7",
   "lastOpenFiles": [
-    "markdown-cheat-sheet.md",
-    "03 - Unreal/AActor.md",
-    "03 - Unreal/UObject.md",
+    "03 - Unreal/FVector.md",
+    "03 - Unreal/AActor/AActor.md",
+    "03 - Unreal/AActor/GetActorLocation.md",
+    "03 - Unreal/Material/Material.md",
+    "03 - Unreal/AActor",
     "03 - Unreal/Shortcuts.md",
+    "markdown-cheat-sheet.md",
+    "03 - Unreal/UObject.md",
     "Untitled.base",
     "Perforce.md",
     "CheatSheet.md",
     "Untitled.md",
-    "03 - Unreal/Material/Material.md",
     "02 - Math & Physics/AABB2/AABB2.md",
     "02 - Math & Physics/AABB2/SetDimensions.md",
     "03 - Unreal/Multiplayer/Multiplayer.md",
@@ -243,7 +246,6 @@
     "02 - Math & Physics/3D Rotation.md",
     "02 - Math & Physics/OBB2/GetNearestPointOnOBB2.md",
     "02 - Math & Physics/AABB2/IsPointInsideAABB2D.md",
-    "02 - Math & Physics/AABB2/GetNearestPoint.md",
     "D311",
     "00 - Assets/Screenshot 2025-12-17 121453.png",
     "03 - Unreal/Material",
@@ -263,7 +265,6 @@
     "00 - Assets/Screenshot 2025-12-16 181933.png",
     "03 - Unreal/PlayerController",
     "03 - Unreal/UI",
-    "02 - Math & Physics/MP2",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
