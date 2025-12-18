@@ -5,6 +5,7 @@ Hierarchy:
 ---
 
 ==root has to be static mesh==
+
 - Net Load on Client 
 	- Net Load on Client determines whether an Actor is loaded on clients with the level, not whether its state is replicated.
 - Replicates 
