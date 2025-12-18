@@ -1,3 +1,7 @@
+---
+Category:
+Hierarchy:
+---
 
 ==root has to be static mesh==
 - Net Load on Client 
