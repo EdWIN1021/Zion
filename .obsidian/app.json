@@ -2,5 +2,6 @@
   "livePreview": true,
   "defaultViewMode": "source",
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "useTab": true
 }
