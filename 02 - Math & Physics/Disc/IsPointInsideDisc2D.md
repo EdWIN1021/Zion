@@ -24,21 +24,25 @@ if (distanceToTip > sectorRadius)
     return false;
 }
 ```
+
 ### Get the sector’s forward direction as a vector
 
 ```cpp
 Vec2 sectorForward = Vec2::MakeFromPolarDegrees(sectorFwdDegrees);
 ```
 
+
 ### Compute the vector from tip to the point
 ```cpp
 Vec2 vectorToPoint = point - sectorTip;
 ```
 
+
 ### Compute the angle between the point vector and the sector’s forward vector
 ```cpp
 float angle = GetAngleDegreesBetweenVectors2D(vectorToPoint, sectorForward);
 ```
+
 
 ### Check if the point is within the sector’s aperture
 
