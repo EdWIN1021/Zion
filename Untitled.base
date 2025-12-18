@@ -8,4 +8,4 @@ views:
       - file.name
       - Hierarchy
     columnSize:
-      file.name: 393
+      file.name: 268
