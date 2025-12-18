@@ -11,14 +11,14 @@
             "id": "1dc2653803c3dd44",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
-                "bFile": "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
-                "aRef": ""
+                "file": "03 - Unreal/AActor.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Quit Game"
+              "icon": "lucide-file",
+              "title": "AActor"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 444.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 522.5
+    "width": 551.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,6 +218,12 @@
   },
   "active": "1dc2653803c3dd44",
   "lastOpenFiles": [
+    "03 - Unreal/UObject.md",
+    "Untitled.base",
+    "03 - Unreal/Material/Material.md",
+    "02 - Math & Physics/AABB2/AABB2.md",
+    "02 - Math & Physics/AABB2/SetDimensions.md",
+    "03 - Unreal/Multiplayer/Multiplayer.md",
     "03 - Unreal/UI/UUserWidget.md",
     "03 - Unreal/UI/UButton.md",
     "03 - Unreal/UI/UWidgetComponent.md",
@@ -226,7 +232,6 @@
     "02 - Math & Physics/Disc/PushDiscOutOfFixedPoint2D.md",
     "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
     "03 - Unreal/AActor.md",
-    "Untitled.base",
     "03 - Unreal/Multiplayer/Role.md",
     "02 - Math & Physics/Disc/IsPointInsideDisc2D.md",
     "02 - Math & Physics/Disc/GetNearestPointOnDisc2D.md",
@@ -236,14 +241,10 @@
     "02 - Math & Physics/AABB2/GetNearestPoint.md",
     "02 - Math & Physics/AABB2/GetDimensions.md",
     "02 - Math & Physics/AABB2/IsPointInside.md",
-    "02 - Math & Physics/AABB2/SetDimensions.md",
     "02 - Math & Physics/OBB2/IsPointInsideOBB2D.md",
     "03 - Unreal/PlayerController/SetInputModeUIOnly.md",
     "03 - Unreal/PlayerController/SetInputModeGameOnly.md",
     "03 - Unreal/Multiplayer/Steam Online Subsystem.md",
-    "03 - Unreal/Multiplayer/LAN Connection.md",
-    "02 - Math & Physics/Cross Product.md",
-    "03 - Unreal/UI/UWidget.md",
     "D311",
     "00 - Assets/Screenshot 2025-12-17 121453.png",
     "03 - Unreal/Material",
