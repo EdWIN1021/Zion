@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Function",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,7 +216,7 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "97815e017fac01e7",
+  "active": "b695828163473881",
   "lastOpenFiles": [
     "03 - Unreal/FVector.md",
     "03 - Unreal/AActor/AActor.md",
