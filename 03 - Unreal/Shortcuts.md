@@ -1,7 +1,4 @@
-F2: Rename
-
-Alt+P: Play in Editor
-
-3 + LeftMouse: Vector 3
-
-Ctrl+Shift+W: Applicaiton Scale
+- F2: Rename
+- Alt+P: Play in Editor
+- 3 + Left Mouse: Vector 3
+- Ctrl+Shift+W: Application Scale
