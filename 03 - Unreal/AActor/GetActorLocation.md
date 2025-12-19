@@ -1,4 +1,5 @@
 ---
+Class: "[[AActor]]"
 Category: Function
 Description: Returns the location of the RootComponent of this Actor
 Return Type: "[[FVector]]"

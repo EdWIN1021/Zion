@@ -1,7 +1,8 @@
 ---
+Class: "[[AActor]]"
 Category: Function
-Return Type:
 Description: incrementally adjusts an actor’s location in world space by adding a specific offset vector
+Return Type:
 ---
 ## **Declaration**
 
