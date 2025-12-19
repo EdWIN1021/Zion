@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/AActor/AddActorWorldRotation.md",
+                "file": "D311/Initializing Direct3D.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AddActorWorldRotation"
+              "title": "Initializing Direct3D"
             }
           }
         ]
@@ -218,8 +218,10 @@
   },
   "active": "97815e017fac01e7",
   "lastOpenFiles": [
-    "03 - Unreal/AActor/AddActorWorldOffset.md",
+    "markdown-cheat-sheet.md",
+    "D311/Initializing Direct3D.md",
     "03 - Unreal/AActor/AddActorWorldRotation.md",
+    "03 - Unreal/AActor/AddActorWorldOffset.md",
     "03 - Unreal/AActor/GetActorRotation.md",
     "03 - Unreal/AActor/GetActorLocation.md",
     "03 - Unreal/AActor/AActor.md",
@@ -232,7 +234,6 @@
     "Perforce.md",
     "Untitled.base",
     "03 - Unreal/AActor",
-    "markdown-cheat-sheet.md",
     "Untitled.md",
     "02 - Math & Physics/AABB2/AABB2.md",
     "02 - Math & Physics/AABB2/SetDimensions.md",
@@ -245,7 +246,6 @@
     "02 - Math & Physics/Disc/PushDiscOutOfFixedPoint2D.md",
     "03 - Unreal/UKismetSystemLibrary/Quit Game.md",
     "03 - Unreal/Multiplayer/Role.md",
-    "02 - Math & Physics/Disc/IsPointInsideDisc2D.md",
     "D311",
     "00 - Assets/Screenshot 2025-12-17 121453.png",
     "03 - Unreal/Material",
