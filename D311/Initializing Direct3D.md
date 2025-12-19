@@ -21,6 +21,7 @@ HRESULT D3D11CreateDevice(
 - `pAdapter` specifies the DXGI adapter (graphics card) that the Direct3D device and swap chain will use for rendering.
 - `DeviceType` D3D_DRIVER_TYPE_HARDWARE
 - `Software` null
-- `Flags`: 
+- `Flags`
 	- D3D11_CREATE_DEVICE_DEBUG: Direct3D will send debug messages to the VC++ output window
 	- D3D11_CREATE_DEVICE_SINGLETHREADED: If this flag is enabled, then the `ID3D11Device::CreateDeferredContext` method will fail
+- `pFeatureLevels`D3D_FEATURE_LEVEL_11_0 (Full Direct3D 11 support)
