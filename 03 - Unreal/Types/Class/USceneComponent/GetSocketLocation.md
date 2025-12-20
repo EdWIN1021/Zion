@@ -1,5 +1,5 @@
 ---
-Class: "[[USkeletalMeshComponent]]"
+Class: "[[USceneComponent]]"
 Category: Function
 Description: Get world-space socket or bone location
 Return Type: "[[FVector]]"
