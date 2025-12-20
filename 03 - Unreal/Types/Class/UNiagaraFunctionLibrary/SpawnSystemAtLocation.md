@@ -15,3 +15,5 @@ Return Type:
 ```cpp
 
 ```
+
+![[Screenshot 2025-12-20 104517.png | centert]]
