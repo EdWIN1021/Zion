@@ -1,1 +1,0 @@
-![[Screenshot 2025-12-20 134437.png | center]]
