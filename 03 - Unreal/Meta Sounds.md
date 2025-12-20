@@ -8,9 +8,7 @@
     - In the MetaSound Editor’s **Details** panel, click **Add** under **Inputs**
     
     ![[Screenshot 2025-12-20 124144.png | center]]
-    - Choose **Type → WaveAsset** and check **Is Array**. This creates a `WaveAsset` array you can populate with `SoundWave` assets
-	 
-	 ![[Screenshot 2025-12-20 124504.png | center]]
+![[Screenshot 2025-12-20 124830.png | center]]
 ## Playing MetaSounds in C++
 
 ```cpp
