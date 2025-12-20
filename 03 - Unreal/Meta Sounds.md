@@ -11,8 +11,6 @@
     - Choose **Type → WaveAsset** and check **Is Array**. This creates a `WaveAsset` array you can populate with `SoundWave` assets
 	 
 	 ![[Screenshot 2025-12-20 124504.png | center]]
-	
-
 ## Playing MetaSounds in C++
 
 ```cpp
