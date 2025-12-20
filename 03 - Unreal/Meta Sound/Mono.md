@@ -4,10 +4,9 @@
     - In the Editor, go to **Edit → Plugins**, search for **MetaSound**, and enable it. Restart the Editor.
 2. Create a MetaSound Source
     - In the Content Browser, click **Add → Audio → MetaSound Source** and name it.
-3. **Add a WaveAsset array input**
-    - In the MetaSound Editor’s **Details** panel, click **Add** under **Inputs**
-    
-    ![[Screenshot 2025-12-20 124144.png | center]]
+
+![[Screenshot 2025-12-20 124144.png | center]]
+
 ![[Screenshot 2025-12-20 124830.png | center]]
 ## Playing MetaSounds in C++
 
