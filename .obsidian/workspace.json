@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Types/Class/USceneComponent/GetSocketTransform.md",
+                "file": "03 - Unreal/Types/Class/UNiagaraFunctionLibrary/SpawnSystemAtLocation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GetSocketTransform"
+              "title": "SpawnSystemAtLocation"
             }
           }
         ],
@@ -231,7 +231,14 @@
   },
   "active": "8b0b8c0757f7913d",
   "lastOpenFiles": [
+    "03 - Unreal/Types/Class/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
+    "03 - Unreal/Types/Class/UNiagaraFunctionLibrary/UNiagaraFunctionLibrary.md",
+    "03 - Unreal/Types/Class/UNiagaraFunctionLibrary/SpawnSystemAtLocation.md",
+    "03 - Unreal/Types/Class/UActorComponent/UActorComponent.md",
+    "03 - Unreal/Types/Class/UBlueprintFunctionLibrary",
     "03 - Unreal/Types/Class/USceneComponent/USceneComponent.md",
+    "03 - Unreal/Types/Class/UNiagaraFunctionLibrary",
+    "03 - Unreal/Types/Class/USceneComponent/GetSocketTransform.md",
     "03 - Unreal/Types/Class/UWorld/SpawnActor.md",
     "03 - Unreal/Types/Class/UProjectileMovementComponent/UProjectileMovementComponent.md",
     "00 - Assets/Screenshot 2025-12-19 201929.png",
@@ -239,7 +246,6 @@
     "03 - Unreal/Types/Class/UWorld/UWorld.md",
     "03 - Unreal/Types/Class/USkeletalMeshComponent/USkeletalMeshComponent.md",
     "03 - Unreal/Types/Class/USceneComponent/GetSocketLocation.md",
-    "03 - Unreal/Types/Class/USceneComponent/GetSocketTransform.md",
     "03 - Unreal/Socket.md",
     "03 - Unreal/Types/Class/UProjectileMovementComponent/MaxSpeed.md",
     "03 - Unreal/Types/Class/USceneComponent",
@@ -250,7 +256,6 @@
     "03 - Unreal/Multiplayer/Role.md",
     "Untitled.base",
     "03 - Unreal/Niagara System",
-    "03 - Unreal/Types/Class/UActorComponent/UActorComponent.md",
     "markdown-cheat-sheet.md",
     "00 - Assets/Screenshot 2025-12-19 202053.png",
     "00 - Assets/Screenshot 2025-12-19 201929 1.png",
@@ -262,8 +267,6 @@
     "03 - Unreal/Types/Class/AActor/AActor.md",
     "03 - Unreal/Types/Class/AActor/InitialLifeSpan.md",
     "03 - Unreal/Types/Class/UProjectileMovementComponent/ProjectileGravityScale.md",
-    "03 - Unreal/Types/Class/UProjectileMovementComponent/InitialSpeed.md",
-    "03 - Unreal/Types/Class/UMovementComponent/UMovementComponent.md",
     "03 - Unreal/Types/Class/UMovementComponent",
     "03 - Unreal/Types/Class/UProjectileMovementComponent",
     "03 - Unreal/Types/Class/UActorComponent",
@@ -274,8 +277,6 @@
     "00 - Assets/Screenshot 2025-02-02 164904.png",
     "00 - Assets/Screenshot 2025-12-19 162640.png",
     "00 - Assets/Screenshot 2025-12-19 161706.png",
-    "03 - Unreal/Types/Class/UKismetMathLibrary",
-    "Templates",
     "Untitled.canvas",
     "Item.canvas",
     "Grammar.canvas",
