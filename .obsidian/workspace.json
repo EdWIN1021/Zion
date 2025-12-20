@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Meta Sound/Mono.md",
-                "mode": "source",
+                "file": "03 - Unreal/Meta Sound/Stereo.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mono"
+              "title": "Stereo"
             }
           }
         ]
@@ -218,8 +218,13 @@
   },
   "active": "0818fee193d41994",
   "lastOpenFiles": [
-    "03 - Unreal/Meta Sound/Stereo.md",
+    "Screenshot 2025-12-20 131203.png",
+    "Screenshot 2025-12-20 131154.png",
     "03 - Unreal/Meta Sound/Mono.md",
+    "Untitled.base",
+    "markdown-cheat-sheet.md",
+    "00 - Assets/Screenshot 2025-12-20 124830.png",
+    "03 - Unreal/Meta Sound/Stereo.md",
     "03 - Unreal/Multiplayer/Multiplayer.md",
     "03 - Unreal/Meta Sound/Meta Sound.md",
     "03 - Unreal/Niagara System/Niagara System.md",
@@ -227,12 +232,10 @@
     "03 - Unreal/Untitled",
     "03 - Unreal/Material/Material.md",
     "03 - Unreal/Meta Sound",
-    "Screenshot 2025-12-20 124830.png",
     "03 - Unreal/Socket.md",
     "03 - Unreal/Shortcuts.md",
     "Screenshot 2025-12-20 124504.png",
-    "Screenshot 2025-12-20 124144.png",
-    "Untitled.base",
+    "00 - Assets/Screenshot 2025-12-20 124144.png",
     "00 - Assets/Screenshot  2025-04-14 190251.png",
     "00 - Assets/Screenshot 2025-12-20 104517.png",
     "屏幕截图 2025-04-14 190251 1.png",
@@ -246,7 +249,6 @@
     "03 - Unreal/Types/Class/UNiagaraFunctionLibrary/SpawnSystemAtLocation.md",
     "Screenshot 2025-12-20 104419.png",
     "00 - Assets/Screenshot 2025-12-16 181555.png",
-    "00 - Assets/Screenshot 2025-12-19 202053.png",
     "03 - Unreal/Types/Class/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
     "03 - Unreal/Types/Class/UActorComponent/UActorComponent.md",
     "03 - Unreal/Types/Class/UBlueprintFunctionLibrary",
@@ -258,9 +260,7 @@
     "03 - Unreal/Types/Class/UWorld/UWorld.md",
     "03 - Unreal/Types/Class/USkeletalMeshComponent/USkeletalMeshComponent.md",
     "03 - Unreal/Types/Class/USceneComponent/GetSocketLocation.md",
-    "03 - Unreal/Types/Class/UProjectileMovementComponent/MaxSpeed.md",
     "03 - Unreal/Types/Class/USceneComponent",
-    "03 - Unreal/Types/Class/UObject/UObject.md",
     "03 - Unreal/Niagara System",
     "03 - Unreal/Types/Class/UMovementComponent",
     "03 - Unreal/Types/Class/UProjectileMovementComponent",
