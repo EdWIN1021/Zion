@@ -16,4 +16,4 @@ Return Type:
 
 ```
 
-![[Screenshot 2025-12-19 201929 1.png | center]]
+![[Screenshot 2025-12-19 202053.png]]
