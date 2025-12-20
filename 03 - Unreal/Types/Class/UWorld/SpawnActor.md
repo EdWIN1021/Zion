@@ -1,6 +1,6 @@
 ---
 Class: "[[UWorld]]"
-Category: Function
+Category:
 Description:
 Return Type:
 ---
@@ -15,3 +15,5 @@ Return Type:
 ```cpp
 
 ```
+
+![[Screenshot 2025-12-19 201929 1.png]]

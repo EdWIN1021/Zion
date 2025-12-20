@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Types/Class/AActor/InitialLifeSpan.md",
+                "file": "03 - Unreal/Types/Class/UWorld/SpawnActor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InitialLifeSpan"
+              "title": "SpawnActor"
             }
           }
         ]
@@ -219,19 +219,22 @@
   },
   "active": "40c0f2fcae87afb7",
   "lastOpenFiles": [
+    "Screenshot 2025-12-19 201929 1.png",
+    "Screenshot 2025-12-19 201929.png",
+    "Screenshot 2025-12-19 201845.png",
+    "03 - Unreal/Types/Class/UWorld/UWorld.md",
+    "03 - Unreal/Types/Class/UProjectileMovementComponent/UProjectileMovementComponent.md",
+    "03 - Unreal/Types/Class/UObject/UObject.md",
     "03 - Unreal/Types/Class/AActor/AActor.md",
     "03 - Unreal/Types/Class/AActor/InitialLifeSpan.md",
     "03 - Unreal/Types/Class/UProjectileMovementComponent/ProjectileGravityScale.md",
-    "03 - Unreal/Types/Class/UProjectileMovementComponent/UProjectileMovementComponent.md",
     "03 - Unreal/Types/Class/UProjectileMovementComponent/InitialSpeed.md",
     "03 - Unreal/Types/Class/UProjectileMovementComponent/MaxSpeed.md",
     "Templates/Property.md",
     "03 - Unreal/Types/Class/USkeletalMeshComponent/USkeletalMeshComponent.md",
     "03 - Unreal/Types/Class/UMovementComponent/UMovementComponent.md",
     "Screenshot 2025-12-19 200734.png",
-    "03 - Unreal/Types/Class/UObject/UObject.md",
     "03 - Unreal/Types/Class/UObject/GetObjectName.md",
-    "03 - Unreal/Types/Class/UWorld/UWorld.md",
     "03 - Unreal/Types/Class/UKismetSystemLibrary/Quit Game.md",
     "03 - Unreal/Types/Class/UActorComponent/UActorComponent.md",
     "03 - Unreal/Types/Class/UMovementComponent",
@@ -250,7 +253,6 @@
     "03 - Unreal/Material/Material.md",
     "Screenshot 2025-12-19 191509.png",
     "03 - Unreal/Types/Class/USkeletalMeshComponent/GetSocketLocation.md",
-    "03 - Unreal/Types/Class/UKismetMathLibrary/UKismetMathLibrary.md",
     "03 - Unreal/Types/Class/USkeletalMeshComponent",
     "00 - Assets/Screenshot 2025-04-12 054828.png",
     "00 - Assets/Screenshot 2025-02-02 164904.png",
@@ -264,8 +266,6 @@
     "00 - Assets/Screenshot 2025-12-17 121453.png",
     "Untitled.canvas",
     "00 - Assets/Screenshot 2025-12-16 201539.png",
-    "00 - Assets/Screenshot 2025-12-16 201508.png",
-    "00 - Assets/Screenshot 2025-12-16 200905.png",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"
