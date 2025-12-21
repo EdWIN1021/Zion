@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Types/Class/USceneComponent/AttachComponentToComponent.md",
-                "mode": "source",
+                "file": "03 - Unreal/Multiplayer/Replicated Variable.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AttachComponentToComponent"
+              "title": "Replicated Variable"
             }
           }
         ]
@@ -218,8 +218,9 @@
   },
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
-    "03 - Unreal/Types/Class/AActor/AActor.md",
     "03 - Unreal/Multiplayer/Multiplayer.md",
+    "03 - Unreal/Types/Class/USceneComponent/AttachComponentToComponent.md",
+    "03 - Unreal/Types/Class/AActor/AActor.md",
     "02 - Math & Physics/OBB2/OBB2.md",
     "03 - Unreal/Multiplayer/Replicated Variable.md",
     "03 - Unreal/Multiplayer/Role.md",
@@ -246,7 +247,6 @@
     "00 - Assets/Screenshot 2025-12-20 132032 1.png",
     "03 - Unreal/Types/Interface",
     "03 - Unreal/Socket.md",
-    "03 - Unreal/Types/Class/USceneComponent/AttachComponentToComponent.md",
     "03 - Unreal/Types/Class/AActor/AttachToComponent.md",
     "03 - Unreal/Types/Class/AActor/AttachActorToActor.md",
     "03 - Unreal/Types/Class/Library/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
