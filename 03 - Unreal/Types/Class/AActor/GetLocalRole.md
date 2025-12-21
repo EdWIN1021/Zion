@@ -4,9 +4,10 @@ Category: Function
 Description:
 Return Type:
 ---
+## [[Role]]
 - Authority
 - Simulated Proxy
-
+- AutonomousProxy
 ## **Declaration**
 
 ```cpp
