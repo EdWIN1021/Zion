@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SetActorLocation",
+                "query": "auth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635.5,
-    "collapsed": true
+    "width": 635.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +218,12 @@
   },
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
+    "03 - Unreal/Types/Class/Library/UKismetSystemLibrary/SwitchHasAuthority.md",
+    "03 - Unreal/Types/Interface/Interface.md",
     "03 - Unreal/Types/Class/UObject/UObject.md",
     "03 - Unreal/Types/Class/UObject/DoesObjectImplementInterface.md",
     "03 - Unreal/Types/Class/UWorld/UWorld.md",
     "03 - Unreal/Types/Class/USceneComponent/USceneComponent.md",
-    "03 - Unreal/Types/Interface/Interface.md",
     "00 - Assets/Screenshot 2025-12-21 143202.png",
     "00 - Assets/Screenshot 2025-12-21 143146.png",
     "00 - Assets/Screenshot 2025-12-21 142541.png",
@@ -255,7 +255,6 @@
     "03 - Unreal/Multiplayer/Seamless Travel.md",
     "03 - Unreal/Multiplayer/LAN Connection.md",
     "03 - Unreal/Multiplayer/Steam Online Subsystem.md",
-    "03 - Unreal/Types/Class/UMovementComponent/UMovementComponent.md",
     "03 - Unreal/Types/Class/Library",
     "Untitled.base",
     "03 - Unreal/Untitled",
