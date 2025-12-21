@@ -4,7 +4,7 @@ Category:
 Description:
 Return Type:
 ---
-## NetWork
+## Network
 
 - Component Replicates
 
