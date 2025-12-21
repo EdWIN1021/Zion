@@ -7,9 +7,6 @@ Return Type:
 - Authority
 - Simulated Proxy
 
-
-
-
 ## **Declaration**
 
 ```cpp
@@ -21,3 +18,5 @@ Return Type:
 ```cpp
 
 ```
+
+![[Screenshot 2025-12-21 104825.png | center]]
