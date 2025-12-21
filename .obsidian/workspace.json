@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "03 - Unreal/Types/Interface/Interface.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -219,6 +219,8 @@
   },
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
+    "Screenshot 2025-12-21 143202.png",
+    "Screenshot 2025-12-21 143146.png",
     "00 - Assets/Screenshot 2025-12-21 142541.png",
     "00 - Assets/Screenshot 2025-12-21 104825.png",
     "03 - Unreal/Types/Interface/Interface.md",
@@ -256,7 +258,6 @@
     "00 - Assets/Screenshot 2025-12-19 162640.png",
     "03 - Unreal/Types/Class/Library",
     "Untitled.base",
-    "Screenshot 2025-12-20 134313.png",
     "03 - Unreal/Untitled",
     "03 - Unreal/Meta Sound",
     "03 - Unreal/Types/Class/Library/UBlueprintFunctionLibrary",
