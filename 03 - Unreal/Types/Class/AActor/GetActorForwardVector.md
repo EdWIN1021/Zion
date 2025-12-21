@@ -7,7 +7,7 @@ Return Type: "[[FVector]]"
 ## **Declaration**
 
 ```cpp
-UFUNCTION(BlueprintCallable, Category = "Transformation") 
+UFUNCTION( BlueprintCallable, Category = "Transformation" ) 
 ENGINE_API FVector GetActorForwardVector() const;
 ```
 
