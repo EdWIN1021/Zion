@@ -2,8 +2,6 @@
 Category:
 Hierarchy:
 ---
-
-
 ## **Declaration**
 
 ```cpp

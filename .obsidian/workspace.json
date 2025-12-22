@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Types/Class/AGameMode/ReadyToStartMatch.md",
+                "file": "03 - Unreal/Types/Class/AGameState/AGameState.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ReadyToStartMatch"
+              "title": "AGameState"
             }
           }
         ]
@@ -218,16 +218,18 @@
   },
   "active": "b05c8308d7d25b13",
   "lastOpenFiles": [
+    "03 - Unreal/Types/Interface/Interface.md",
+    "03 - Unreal/Types/Class/AGameState/AGameState.md",
+    "03 - Unreal/Types/Class/AGameState",
+    "03 - Unreal/Niagara System/Niagara System.md",
+    "03 - Unreal/Types/Class/APlayerState/APlayerState.md",
     "03 - Unreal/Types/Class/AGameMode/AGameMode.md",
     "03 - Unreal/Types/Class/AGameMode/ReadyToStartMatch.md",
     "03 - Unreal/Types/Class/AGameMode/bDelayedStart.md",
     "03 - Unreal/Types/Class/APlayerController/APlayerController.md",
-    "03 - Unreal/Niagara System/Niagara System.md",
     "03 - Unreal/Custom Event.md",
-    "03 - Unreal/Types/Interface/Interface.md",
     "03 - Unreal/Types/Class/UGameplayStatics/UGameplayStatics.md",
     "03 - Unreal/Types/Class/UActorComponent/UActorComponent.md",
-    "03 - Unreal/Types/Class/APlayerState/APlayerState.md",
     "03 - Unreal/Types/Class/APawn/APawn.md",
     "03 - Unreal/Types/Class/AGameModeBase/AGameModeBase.md",
     "03 - Unreal/Types/Class/AGameModeBase/bUseSeamlessTravel.md",
@@ -249,7 +251,6 @@
     "03 - Unreal/Types/Struct/FRotator.md",
     "03 - Unreal/Types/Struct/FVector.md",
     "03 - Unreal/Types/Class/AActor/GetInstigator.md",
-    "2025-12-21.md",
     "03 - Unreal/Types/Class/APlayerState",
     "03 - Unreal/Types/Class/APawn",
     "00 - Assets/Screenshot 2025-12-21 212023.png",
@@ -261,10 +262,9 @@
     "00 - Assets/Screenshot 2025-12-21 143202.png",
     "00 - Assets/Screenshot 2025-12-21 143146.png",
     "03 - Unreal/Types/Interface",
-    "03 - Unreal/Types/Class/Library",
+    "03 - Unreal/Types/Class/_Library",
     "03 - Unreal/Untitled",
     "03 - Unreal/Meta Sound",
-    "03 - Unreal/Types/Class/Library/UBlueprintFunctionLibrary",
     "Untitled.canvas",
     "Item.canvas",
     "Grammar.canvas",
