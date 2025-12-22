@@ -11,14 +11,17 @@
             "id": "eb9439705d1ad6a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "03 - Unreal/OwnerShip.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - Unreal/Ownership.canvas",
+                "viewState": {
+                  "x": 164,
+                  "y": -149,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "OwnerShip"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ownership"
             }
           }
         ]
@@ -219,6 +222,7 @@
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
     "03 - Unreal/Multiplayer/Multiplayer.md",
+    "03 - Unreal/Ownership.canvas",
     "03 - Unreal/OwnerShip.md",
     "03 - Unreal/Multiplayer/Replicated Variable.md",
     "03 - Unreal/Multiplayer/Role.md",
@@ -254,7 +258,6 @@
     "03 - Unreal/Types/Class/AActor/AttachActorToActor.md",
     "03 - Unreal/Types/Class/Library/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
     "2025-12-21.md",
-    "03 - Unreal/Types/Class/AActor/GetRemoteRole.md",
     "03 - Unreal/Types/Class/Library",
     "Untitled.base",
     "03 - Unreal/Untitled",
