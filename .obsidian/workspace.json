@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Multiplayer/Replication condition.md",
+                "file": "03 - Unreal/OwnerShip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replication condition"
+              "title": "OwnerShip"
             }
           }
         ]
@@ -219,21 +219,22 @@
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
     "03 - Unreal/Multiplayer/Multiplayer.md",
-    "03 - Unreal/Multiplayer/Replication condition.md",
+    "03 - Unreal/OwnerShip.md",
+    "03 - Unreal/Multiplayer/Replicated Variable.md",
+    "03 - Unreal/Multiplayer/Role.md",
+    "03 - Unreal/Multiplayer/Seamless Travel.md",
+    "03 - Unreal/Multiplayer/Steam Online Subsystem.md",
     "03 - Unreal/Multiplayer/RepNotify.md",
+    "03 - Unreal/Multiplayer/Replication condition.md",
     "Screenshot 2025-12-21 203615.png",
     "Screenshot 2025-12-21 203319.png",
-    "03 - Unreal/Multiplayer/Replicated Variable.md",
     "03 - Unreal/Types/Class/USceneComponent/AttachComponentToComponent.md",
     "03 - Unreal/Types/Class/AActor/AActor.md",
     "02 - Math & Physics/OBB2/OBB2.md",
-    "03 - Unreal/Multiplayer/Role.md",
     "03 - Unreal/Multiplayer/LAN Connection.md",
-    "03 - Unreal/Multiplayer/Seamless Travel.md",
     "03 - Unreal/Meta Sound/Meta Sound.md",
     "03 - Unreal/Material/Material.md",
     "00 - Assets/Screenshot 2025-12-21 150728.png",
-    "03 - Unreal/Multiplayer/Steam Online Subsystem.md",
     "03 - Unreal/Types/Interface/Interface.md",
     "03 - Unreal/Types/Class/Library/UKismetSystemLibrary/SwitchHasAuthority.md",
     "03 - Unreal/Types/Class/UObject/UObject.md",
@@ -254,7 +255,6 @@
     "03 - Unreal/Types/Class/Library/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
     "2025-12-21.md",
     "03 - Unreal/Types/Class/AActor/GetRemoteRole.md",
-    "03 - Unreal/Types/Class/AActor/SetActorLocation.md",
     "03 - Unreal/Types/Class/Library",
     "Untitled.base",
     "03 - Unreal/Untitled",
