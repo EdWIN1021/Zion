@@ -1,7 +1,7 @@
 {
 	"nodes":[
+		{"id":"18b34f0cecf6907c","type":"group","x":-560,"y":-60,"width":1220,"height":360,"color":"5","label":"Client"},
 		{"id":"dd07cfa902c9e3f8","type":"group","x":-560,"y":-520,"width":1220,"height":320,"color":"1","label":"Server"},
-		{"id":"7cfb8c3ba3357680","type":"text","text":"Client","x":-600,"y":360,"width":250,"height":60},
 		{
 			"id":"ab6033e5923dc226",
 			"type":"text",
