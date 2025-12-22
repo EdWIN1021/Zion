@@ -11,17 +11,14 @@
             "id": "eb9439705d1ad6a7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Ownership.canvas",
-                "viewState": {
-                  "x": 142,
-                  "y": -62,
-                  "zoom": 0
-                }
+                "file": "03 - Unreal/OwnerShip.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ownership"
+              "icon": "lucide-file",
+              "title": "OwnerShip"
             }
           }
         ]
@@ -92,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 310.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -221,7 +218,9 @@
   },
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
+    "Screenshot 2025-12-21 211648.png",
     "03 - Unreal/Multiplayer/Multiplayer.md",
+    "03 - Unreal/OwnerShip.md",
     "03 - Unreal/Ownership.canvas",
     "03 - Unreal/OwnerShip.md",
     "03 - Unreal/Multiplayer/Replicated Variable.md",
@@ -257,7 +256,6 @@
     "03 - Unreal/Types/Class/AActor/AttachToComponent.md",
     "03 - Unreal/Types/Class/AActor/AttachActorToActor.md",
     "03 - Unreal/Types/Class/Library/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
-    "2025-12-21.md",
     "03 - Unreal/Types/Class/Library",
     "Untitled.base",
     "03 - Unreal/Untitled",
