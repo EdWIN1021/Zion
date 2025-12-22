@@ -1,6 +1,7 @@
 ---
 Category: Class
 Hierarchy:
+  - "[[AGameModeBase]]"
 ---
 ## Multiplayer
 
