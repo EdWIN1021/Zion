@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Types/Class/AGameModeBase/bUseSeamlessTravel.md",
+                "file": "03 - Unreal/Types/Class/UGameplayStatics/UGameplayStatics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bUseSeamlessTravel"
+              "title": "UGameplayStatics"
             }
           }
         ]
@@ -218,11 +218,16 @@
   },
   "active": "b05c8308d7d25b13",
   "lastOpenFiles": [
+    "03 - Unreal/Types/Class/UActorComponent/UActorComponent.md",
+    "03 - Unreal/Types/Class/UGameplayStatics/UGameplayStatics.md",
+    "03 - Unreal/Types/Class/APlayerState/APlayerState.md",
+    "03 - Unreal/Types/Class/APlayerController/APlayerController.md",
+    "03 - Unreal/Types/Class/APawn/APawn.md",
     "03 - Unreal/Types/Class/AGameModeBase/AGameModeBase.md",
+    "03 - Unreal/Types/Class/AGameMode/AGameMode.md",
     "03 - Unreal/Types/Class/AGameModeBase/bUseSeamlessTravel.md",
     "03 - Unreal/Types/Class/AGameModeBase/InitGame.md",
     "03 - Unreal/Types/Class/AGameModeBase/GameSession.md",
-    "03 - Unreal/Types/Class/AGameMode/AGameMode.md",
     "03 - Unreal/Types/Class/AGameModeBase",
     "03 - Unreal/Types/Class/UObject/UObject.md",
     "03 - Unreal/Types/Class/AGameMode",
@@ -245,11 +250,6 @@
     "2025-12-21.md",
     "03 - Unreal/Types/Class/AActor/GetVelocity.md",
     "03 - Unreal/Types/Class/AActor/ActorHasTag.md",
-    "03 - Unreal/Types/Class/AActor/GetRemoteRole.md",
-    "03 - Unreal/Types/Class/AActor/GetLocalRole.md",
-    "03 - Unreal/Types/Class/AActor/DestroyActor.md",
-    "03 - Unreal/Types/Class/AActor/InitialLifeSpan.md",
-    "03 - Unreal/Types/Class/AActor/SetActorLocation.md",
     "03 - Unreal/Types/Class/APlayerState",
     "03 - Unreal/Types/Class/APawn",
     "00 - Assets/Screenshot 2025-12-21 212023.png",
