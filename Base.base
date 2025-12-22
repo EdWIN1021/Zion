@@ -36,5 +36,9 @@ views:
     order:
       - file.name
       - Return Type
+      - Category
+    sort:
+      - property: Category
+        direction: ASC
     columnSize:
       file.name: 459
