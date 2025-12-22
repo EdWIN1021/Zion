@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Multiplayer/Replicated Variable.md",
+                "file": "03 - Unreal/Multiplayer/RepNotify.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replicated Variable"
+              "title": "RepNotify"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 64.26982950333581,
+        "dimension": 81.31949592290586,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -63,7 +63,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 35.73017049666419,
+        "dimension": 18.68050407709414,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "repli",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635.5
+    "width": 376.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,11 +218,14 @@
   },
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
+    "Screenshot 2025-12-21 203615.png",
+    "Screenshot 2025-12-21 203319.png",
     "03 - Unreal/Multiplayer/Multiplayer.md",
+    "03 - Unreal/Multiplayer/RepNotify.md",
+    "03 - Unreal/Multiplayer/Replicated Variable.md",
     "03 - Unreal/Types/Class/USceneComponent/AttachComponentToComponent.md",
     "03 - Unreal/Types/Class/AActor/AActor.md",
     "02 - Math & Physics/OBB2/OBB2.md",
-    "03 - Unreal/Multiplayer/Replicated Variable.md",
     "03 - Unreal/Multiplayer/Role.md",
     "03 - Unreal/Multiplayer/LAN Connection.md",
     "03 - Unreal/Multiplayer/Seamless Travel.md",
@@ -244,7 +247,6 @@
     "00 - Assets/Screenshot 2025-12-20 134437.png",
     "00 - Assets/Screenshot 2025-12-20 183725.png",
     "00 - Assets/Screenshot 2025-12-21 102945.png",
-    "00 - Assets/Screenshot 2025-12-20 132032 1.png",
     "03 - Unreal/Types/Interface",
     "03 - Unreal/Socket.md",
     "03 - Unreal/Types/Class/AActor/AttachToComponent.md",
@@ -253,8 +255,6 @@
     "2025-12-21.md",
     "03 - Unreal/Types/Class/AActor/GetRemoteRole.md",
     "03 - Unreal/Types/Class/AActor/SetActorLocation.md",
-    "03 - Unreal/Types/Class/AActor/GetLocalRole.md",
-    "03 - Unreal/Types/Class/AActor/HasAuthority.md",
     "03 - Unreal/Types/Class/Library",
     "Untitled.base",
     "03 - Unreal/Untitled",
