@@ -8,4 +8,21 @@ views:
       - file.name
       - Hierarchy
     columnSize:
-      file.name: 423
+      file.name: 377
+  - type: table
+    name: Class
+    filters:
+      and:
+        - Category == "Class"
+    order:
+      - file.name
+      - Hierarchy
+    columnSize:
+      file.name: 509
+  - type: table
+    name: Struct
+    filters:
+      and:
+        - Category == "Struct"
+    order:
+      - file.name
