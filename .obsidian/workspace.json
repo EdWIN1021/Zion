@@ -11,13 +11,14 @@
             "id": "b05c8308d7d25b13",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Struct"
+                "file": "03 - Unreal/Types/Class/AActor/AActor.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "AActor"
             }
           }
         ]
@@ -217,11 +218,11 @@
   },
   "active": "b05c8308d7d25b13",
   "lastOpenFiles": [
+    "Base.base",
+    "03 - Unreal/Types/Class/AActor/AActor.md",
     "03 - Unreal/Types/Struct/FRotator.md",
     "03 - Unreal/Types/Struct/FVector.md",
-    "03 - Unreal/Types/Class/AActor/AActor.md",
     "03 - Unreal/Types/Interface/Interface.md",
-    "Untitled.base",
     "03 - Unreal/Types/Class/AActor/GetInstigator.md",
     "2025-12-21.md",
     "03 - Unreal/Types/Class/AActor/GetVelocity.md",
@@ -244,7 +245,6 @@
     "03 - Unreal/Types/Class/APlayerController/APlayerController.md",
     "03 - Unreal/Types/Class/APlayerState",
     "03 - Unreal/Types/Class/APlayerController/SetInputModeGameOnly.md",
-    "03 - Unreal/Types/Class/APawn/APawn.md",
     "03 - Unreal/Types/Class/APawn",
     "00 - Assets/Screenshot 2025-12-21 212023.png",
     "00 - Assets/Screenshot 2025-12-21 211648.png",
