@@ -41,4 +41,5 @@ views:
       - property: Category
         direction: ASC
     columnSize:
-      file.name: 459
+      file.name: 289
+      note.Return Type: 233
