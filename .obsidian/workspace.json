@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Multiplayer/Multiplayer.md",
-                "mode": "preview",
+                "file": "Templates/Type.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Multiplayer"
+              "title": "Type"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 487.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -218,13 +218,23 @@
   },
   "active": "eb9439705d1ad6a7",
   "lastOpenFiles": [
+    "Templates/Property.md",
+    "Templates/Function.md",
+    "Templates/Type.md",
+    "03 - Unreal/Types/Class/UActorComponent/bReplicates (Component Replicates).md",
+    "03 - Unreal/Types/Class/UActorComponent/UActorComponent.md",
+    "03 - Unreal/Types/Class/UMovementComponent/UMovementComponent.md",
+    "03 - Unreal/Types/Class/UObject/UObject.md",
+    "03 - Unreal/Types/Class/UObject/DoesObjectImplementInterface.md",
+    "03 - Unreal/Types/Class/UObject/GetObjectName.md",
+    "03 - Unreal/Types/Class/UActorComponent/Component Replicates.md",
+    "03 - Unreal/Multiplayer/Multiplayer.md",
     "03 - Unreal/Types/Class/AActor/AActor.md",
     "03 - Unreal/Niagara System/Niagara System.md",
     "Untitled.base",
     "00 - Assets/Screenshot 2025-12-21 212023.png",
     "03 - Unreal/Ownership.md",
     "00 - Assets/Screenshot 2025-12-21 211648.png",
-    "03 - Unreal/Multiplayer/Multiplayer.md",
     "03 - Unreal/Ownership.canvas",
     "03 - Unreal/Multiplayer/Replicated Variable.md",
     "03 - Unreal/Multiplayer/Role.md",
@@ -241,21 +251,12 @@
     "03 - Unreal/Material/Material.md",
     "00 - Assets/Screenshot 2025-12-21 150728.png",
     "03 - Unreal/Types/Interface/Interface.md",
-    "03 - Unreal/Types/Class/Library/UKismetSystemLibrary/SwitchHasAuthority.md",
-    "03 - Unreal/Types/Class/UObject/UObject.md",
-    "03 - Unreal/Types/Class/UObject/DoesObjectImplementInterface.md",
-    "03 - Unreal/Types/Class/UWorld/UWorld.md",
-    "03 - Unreal/Types/Class/USceneComponent/USceneComponent.md",
     "00 - Assets/Screenshot 2025-12-21 143202.png",
     "00 - Assets/Screenshot 2025-12-21 143146.png",
     "00 - Assets/Screenshot 2025-12-21 142541.png",
     "00 - Assets/Screenshot 2025-12-21 104825.png",
     "00 - Assets/Screenshot 2025-12-20 132032.png",
     "03 - Unreal/Types/Interface",
-    "03 - Unreal/Socket.md",
-    "03 - Unreal/Types/Class/AActor/AttachToComponent.md",
-    "03 - Unreal/Types/Class/AActor/AttachActorToActor.md",
-    "03 - Unreal/Types/Class/Library/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
     "03 - Unreal/Types/Class/Library",
     "03 - Unreal/Untitled",
     "03 - Unreal/Meta Sound",
