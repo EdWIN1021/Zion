@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Multiplayer/Seamless Travel.md",
-                "mode": "preview",
+                "file": "D311/Rendering Pipeline.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seamless Travel"
+              "title": "Rendering Pipeline"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "b05c8308d7d25b13",
   "lastOpenFiles": [
+    "03 - Unreal/Multiplayer/Seamless Travel.md",
     "Screenshot 2025-12-22 213423.png",
     "03 - Unreal/Multiplayer/Multiplayer.md",
     "03 - Unreal/Types/Class/APawn/GetPlayerState.md",
@@ -263,7 +264,6 @@
     "00 - Assets/Screenshot 2025-12-21 203319.png",
     "00 - Assets/Screenshot 2025-12-21 150728.png",
     "00 - Assets/Screenshot 2025-12-21 143202.png",
-    "00 - Assets/Screenshot 2025-12-21 143146.png",
     "03 - Unreal/Types/Interface",
     "Untitled.canvas",
     "Item.canvas",
