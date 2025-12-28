@@ -7,7 +7,7 @@
 
 ## DefaultEngine.ini
 
-```
+```ini
 [/Script/Engine.GameEngine]
 !NetDriverDefinitions=ClearArray
 +NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="/Script/SteamSockets.SteamSocketsNetDriver",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
