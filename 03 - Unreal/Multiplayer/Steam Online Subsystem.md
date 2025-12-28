@@ -26,6 +26,15 @@ bInitServerOnCline=true
 NetConnectionClassName="OnlineSubsystemSteam.SteamNetConnection"
 ```
 
+## Build.cs
+
+```c#
+		PublicDependencyModuleNames.AddRange(new string[] {
+			"OnlineSubsystem",
+			"OnlineSubsystemSteam"
+		});
+```
+
 ## Steam 
 
 Steam Settings -> Downloads -> Download region (US-Dallas)
