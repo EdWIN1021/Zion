@@ -1,0 +1,1 @@
+- Primitive Components: These are responsible for the visual representation of an actor within a level

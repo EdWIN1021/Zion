@@ -1,0 +1,1 @@
+- The AI Perception System provides another way for pawns to receive data from the environment, such as where noises are coming from or if the AI sees something.

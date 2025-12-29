@@ -32,7 +32,9 @@
     "ToDo": 20,
     "UUserWidget": 21,
     "The": 22,
-    "Function": 23
+    "Function": 23,
+    "Virtual": 24,
+    "AI": 25
   },
   "_version": 3
 }

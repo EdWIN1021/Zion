@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Types/Class/UGameInstanceSubsystem/UGameInstanceSubsystem.md",
+                "file": "03 - Unreal/Enhanced Input System/Input Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UGameInstanceSubsystem"
+              "title": "Input Settings"
+            }
+          },
+          {
+            "id": "28178aad04712448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Unreal/Enhanced Input System/Input Settings.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Input Settings"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 481.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -169,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "custom i",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 540.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,55 +231,57 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "b05c8308d7d25b13",
+  "active": "28178aad04712448",
   "lastOpenFiles": [
-    "03 - Unreal/Niagara System/Niagara System.md",
-    "03 - Unreal/Types/Class/UGameInstanceSubsystem/UGameInstanceSubsystem.md",
-    "03 - Unreal/Types/Class/UGameInstanceSubsystem",
-    "03 - Unreal/Multiplayer/Multiplayer.md",
-    "03 - Unreal/Multiplayer/Steam Online Subsystem.md",
-    "03 - Unreal/Multiplayer/LAN Connection.md",
-    "03 - Unreal/Multiplayer/Replicated Variable.md",
-    "03 - Unreal/Multiplayer/RepNotify.md",
-    "03 - Unreal/Multiplayer/Replication condition.md",
-    "03 - Unreal/Multiplayer/Run on Client.md",
-    "03 - Unreal/Multiplayer/Run on Server.md",
-    "03 - Unreal/Multiplayer/Multicast.md",
-    "03 - Unreal/Multiplayer/Seamless Travel.md",
+    "03 - Unreal/Enhanced Input System/Input Action.md",
+    "03 - Unreal/Enhanced Input System/Input Settings.md",
+    "03 - Unreal/Enhanced Input System/Chorded Action.md",
+    "03 - Unreal/Enhanced Input System/Custom Enhanced Input.md",
+    "03 - Unreal/Enhanced Input System/asd/asd.md",
+    "_temp_/Hit React System.md",
+    "_temp_/Locomotion Direction.md",
     "03 - Unreal/Container Library/TArray/TArray.md",
-    "D311/Rendering Pipeline.md",
-    "03 - Unreal/Macro/UPROPERTY/BindWidget.md",
-    "00 - Assets/Screenshot 2025-12-27 112456.png",
-    "03 - Unreal/Macro/UPROPERTY/UPROPERTY.md",
-    "03 - Unreal/Types/Interface/Interface.md",
-    "03 - Unreal/Types/Class/UI/UTextBlock.md",
-    "03 - Unreal/Types/Class/UI/UUserWidget.md",
-    "03 - Unreal/Types/Class/APawn/APawn.md",
-    "03 - Unreal/Meta Sound/Meta Sound.md",
-    "03 - Unreal/Multiplayer/Role.md",
-    "03 - Unreal/Macro/UPROPERTY/ReplicatedUsing.md",
-    "03 - Unreal/Macro/UPROPERTY",
-    "03 - Unreal/Macro",
-    "00 - Assets/Screenshot 2025-12-22 213423.png",
-    "03 - Unreal/Types/Class/APawn/GetPlayerState.md",
-    "03 - Unreal/Types/Class/AController/AController.md",
-    "03 - Unreal/Types/Class/AController/GetPlayerState.md",
-    "03 - Unreal/Types/Class/AController",
-    "03 - Unreal/Container Library/TArray",
-    "03 - Unreal/Container Library",
-    "03 - Unreal/Types/Class/AGameState",
-    "03 - Unreal/Types/Class/AGameModeBase",
-    "03 - Unreal/Types/Class/AGameMode",
-    "00 - Assets/Screenshot 2025-12-22 125818.png",
-    "00 - Assets/Screenshot 2025-12-22 124701.png",
-    "00 - Assets/Screenshot 2025-12-22 123727.png",
+    "03 - Unreal/Container Library/TArray/Contains (ContainsItem).md",
+    "03 - Unreal/Enhanced Input System",
+    "_temp_/Material.md",
+    "_temp_/Motion Warpping.md",
+    "_temp_/Overlap Event.md",
+    "_temp_/UWidgetSwitcher/UWidgetSwitcher.md",
+    "_temp_/UFUNCTION/UFUNCTION.md",
+    "03 - Unreal/Types/Struct/FIntPoint.md",
+    "_temp_/GameplayTags/GameplayTags.md",
+    "_temp_/GameplayEffect/GameplayEffect.md",
+    "_temp_/GameplayCues/GameplayCues.md",
+    "_temp_/Gameplay Ability System/AttributeSet.md",
+    "_temp_/Animation Blueprint Template/Animation Blueprint Template.md",
+    "_temp_/Animation/Animation Blueprint.md",
+    "_temp_/Animation/Root Motion.md",
+    "_temp_/Gameplay Ability Implementation/Gameplay Ability Implementation.md",
+    "_temp_/Reference/AActor/AActor.md",
+    "_temp_/Reference/AActor/Tags.md",
+    "_temp_/Reference/AActor/PrimaryActorTick.md",
     "Base.base",
-    "00 - Assets/Screenshot 2025-12-21 212023.png",
-    "00 - Assets/Screenshot 2025-12-21 211648.png",
+    "_temp_/Material.canvas",
+    "_temp_/AI.canvas",
+    "_temp_/Macro",
+    "03 - Unreal/Enhanced Input System",
+    "_temp_/GameplayTags",
+    "_temp_/GameplayEffect",
+    "_temp_/GameplayCues",
+    "_temp_/Gameplay Ability System",
+    "_temp_/Gameplay Ability Implementation",
+    "03 - Unreal/Enhanced Input System/asd",
+    "_temp_/-Assets-/Screenshot 2025-07-26 171629.png",
+    "_temp_/-Assets-/Screenshot 2025-07-26 171303.png",
+    "_temp_/-Assets-/Screenshot 2025-07-26 150515.png",
+    "_temp_/-Assets-/Screenshot 2025-06-27 195529.png",
+    "_temp_/-Assets-/Screenshot 2025-06-24 210608.png",
+    "_temp_/-Assets-/Screenshot 2025-06-24 210156.png",
+    "_temp_/-Assets-/Screenshot 2025-06-24 205824.png",
+    "_temp_/-Assets-/Screenshot 2025-06-24 164000.png",
+    "_temp_/-Assets-/Screenshot 2025-06-24 142404.png",
+    "_temp_/-Assets-/Screenshot 2025-06-18 203036.png",
     "03 - Unreal/Ownership.canvas",
-    "00 - Assets/Screenshot 2025-12-21 203615.png",
-    "00 - Assets/Screenshot 2025-12-21 203319.png",
-    "00 - Assets/Screenshot 2025-12-21 150728.png",
     "Untitled.canvas",
     "Item.canvas",
     "Grammar.canvas",
