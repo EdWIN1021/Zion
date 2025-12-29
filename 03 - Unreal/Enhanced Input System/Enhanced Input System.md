@@ -1,10 +1,14 @@
-### Input Mapping in Project Settings
+## Move
 
-<aside>
+![[Screenshot 2025-12-29 125648.png | center]]
 
-Edit -> Project Settings -> Input
 
-</aside>
+
+
+
+
+
+
 
 - Axis Mapping (Executed every frame)
     - MoveForward
@@ -15,7 +19,7 @@ Edit -> Project Settings -> Input
         - D key: Scale = 1.0
     - Turn
         - Mouse X: Scale = 1.0
-    - LookUp
+    - Look
         - Mouse Y: Scale = -1.0
 - Action Mapping (One off type event)
     - Jump
@@ -72,11 +76,8 @@ void Abird::LookUp(float Value){
 
 - Jump
     
-    ![屏幕截图 2025-04-11 002256.png](attachment:49a6a130-1d35-47f7-bb74-16ebbb0be3a5:%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2025-04-11_002256.png)
-    
 - Add a [`UFloatingPawnMovement`](https://www.notion.so/UFloatingPawnMovement-1d08d590ff3880cea074f1f9618ef40a?pvs=21) component to BP
     
-
 ### **Bind the Axis in the Input Component**
 
 ```cpp
@@ -84,12 +85,12 @@ void ABird::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent){
     Super::SetupPlayerInputComponent(PlayerInputComponent);
     
     PlayerInputComponent->BindAxis(FName("MoveForward"), this, &ASlashCharacter::MoveForward);
-		PlayerInputComponent->BindAxis(FName("MoveRight"), this, &ASlashCharacter::MoveRight);
-		PlayerInputComponent->BindAxis(FName("Turn"), this, &ASlashCharacter::Turn);
-		PlayerInputComponent->BindAxis(FName("LookUp"), this, &ASlashCharacter::LookUp);
+	PlayerInputComponent->BindAxis(FName("MoveRight"), this, &ASlashCharacter::MoveRight);
+	PlayerInputComponent->BindAxis(FName("Turn"), this, &ASlashCharacter::Turn);
+	PlayerInputComponent->BindAxis(FName("LookUp"), this, &ASlashCharacter::LookUp);
 		
-		PlayerInputComponent->BindAction(FName("Jump"), IE_Pressed, this, &ACharacter::Jump);
-		PlayerInputComponent->BindAction(FName("Equip"), IE_Pressed, this, &ASlashCharacter::EKeyPressed);
+	PlayerInputComponent->BindAction(FName("Jump"), IE_Pressed, this, &ACharacter::Jump);
+	PlayerInputComponent->BindAction(FName("Equip"), IE_Pressed, this, &ASlashCharacter::EKeyPressed);
 }
 ```
 
