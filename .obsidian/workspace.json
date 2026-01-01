@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Enhanced Input System/Enhanced Input System.md",
+                "file": "03 - Unreal/Types/Class/UGameInstance/UGameInstance.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enhanced Input System"
+              "title": "UGameInstance"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "UGameInstance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,9 +233,22 @@
   },
   "active": "28178aad04712448",
   "lastOpenFiles": [
+    "Screenshot 2026-01-01 132719.png",
+    "_temp_/Reference/UGameplayAbility/UGameplayAbility.md",
+    "_temp_/Reference/UGameplayStatics/UGameplayStatics.md",
+    "03 - Unreal/Types/Class/UGameInstance/UGameInstance.md",
+    "_temp_/Reference/UCanvasPanel/UCanvasPanel.md",
+    "markdown-cheat-sheet.md",
+    "Base.base",
     "Screenshot 2025-12-29 125648.png",
-    "03 - Unreal/Enhanced Input System/Custom Enhanced Input.md",
+    "03 - Unreal/Types/Class/UCharacterMovementComponent/UCharacterMovementComponent.md",
+    "Untitled.canvas",
+    "03 - Unreal/Types/Class/UGameInstanceSubsystem/UGameInstanceSubsystem.md",
+    "03 - Unreal/Types/Struct/FIntPoint.md",
+    "03 - Unreal/Types/Class/UCharacterMovementComponent",
+    "03 - Unreal/Types/Interface/Interface.md",
     "03 - Unreal/Enhanced Input System/Enhanced Input System.md",
+    "03 - Unreal/Enhanced Input System/Custom Enhanced Input.md",
     "03 - Unreal/Enhanced Input System/Input Action.md",
     "03 - Unreal/Enhanced Input System/Chorded Action.md",
     "03 - Unreal/Macro/UFUNCTION/UFUNCTION.md",
@@ -250,17 +263,7 @@
     "_temp_/GameplayTags/GameplayTags.md",
     "_temp_/UImage/UImage.md",
     "_temp_/UStaticMeshComponent/UStaticMeshComponent.md",
-    "03 - Unreal/Macro/UFUNCTION/Server.md",
-    "03 - Unreal/Macro/UFUNCTION/BlueprintImplementableEvent.md",
-    "03 - Unreal/Macro/UPROPERTY/ReplicatedUsing.md",
-    "03 - Unreal/Macro/UPROPERTY/BindWidget.md",
-    "03 - Unreal/Macro/MoveTemp.md",
-    "_temp_/UClass.md",
-    "_temp_/AbilityTask.md",
-    "_temp_/ACameraActor.md",
-    "_temp_/AsyncLoad.md",
     "03 - Unreal/Enhanced Input System",
-    "Base.base",
     "_temp_/Material.canvas",
     "_temp_/AI.canvas",
     "_temp_/Macro",
@@ -270,7 +273,6 @@
     "_temp_/GameplayCues",
     "_temp_/Gameplay Ability System",
     "_temp_/Gameplay Ability Implementation",
-    "03 - Unreal/Enhanced Input System/asd",
     "_temp_/-Assets-/Screenshot 2025-07-26 171629.png",
     "_temp_/-Assets-/Screenshot 2025-07-26 171303.png",
     "_temp_/-Assets-/Screenshot 2025-07-26 150515.png",
@@ -280,9 +282,7 @@
     "_temp_/-Assets-/Screenshot 2025-06-24 205824.png",
     "_temp_/-Assets-/Screenshot 2025-06-24 164000.png",
     "_temp_/-Assets-/Screenshot 2025-06-24 142404.png",
-    "_temp_/-Assets-/Screenshot 2025-06-18 203036.png",
     "03 - Unreal/Ownership.canvas",
-    "Untitled.canvas",
     "Item.canvas",
     "Grammar.canvas",
     "Reference/Untitled.canvas"

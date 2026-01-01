@@ -1,28 +1,7 @@
-## Move
+## IA_Move
 
 ![[Screenshot 2025-12-29 125648.png | center]]
 
-
-
-
-
-
-
-
-
-- Axis Mapping (Executed every frame)
-    - MoveForward
-        - W key: Scale = 1.0
-        - S key: Scale = -1.0
-    - MoveRight
-        - A key: Scale = -1.0
-        - D key: Scale = 1.0
-    - Turn
-        - Mouse X: Scale = 1.0
-    - Look
-        - Mouse Y: Scale = -1.0
-- Action Mapping (One off type event)
-    - Jump
 
 ### Create the Callback Functions
 
