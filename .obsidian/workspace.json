@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Types/Class/UGameInstance/UGameInstance.md",
+                "file": "markdown-cheat-sheet.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UGameInstance"
+              "title": "markdown-cheat-sheet"
             }
           }
         ],
@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UGameInstance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -221,22 +221,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
       "bases:Create new base": false,
-      "canvas:Create new canvas": false
+      "canvas:Create new canvas": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "28178aad04712448",
   "lastOpenFiles": [
+    "_temp_/UWidgetSwitcher/UWidgetSwitcher.md",
+    "_temp_/UStaticMeshComponent/UStaticMeshComponent.md",
+    "_temp_/UImage/UImage.md",
+    "_temp_/GameplayTags/GameplayTags.md",
+    "_temp_/GameplayCues/GameplayCues.md",
+    "03 - Unreal/Types/Class/UGameInstance/UGameInstance.md",
     "Screenshot 2026-01-01 132719.png",
     "_temp_/Reference/UGameplayAbility/UGameplayAbility.md",
     "_temp_/Reference/UGameplayStatics/UGameplayStatics.md",
-    "03 - Unreal/Types/Class/UGameInstance/UGameInstance.md",
     "_temp_/Reference/UCanvasPanel/UCanvasPanel.md",
     "markdown-cheat-sheet.md",
     "Base.base",
@@ -259,10 +264,6 @@
     "_temp_/Reference/AController/AController.md",
     "_temp_/Reference/ACharacter/ACharacter.md",
     "_temp_/Reference/AAIController/AAIController.md",
-    "_temp_/Reference/AAIController/RunBehaviorTree.md",
-    "_temp_/GameplayTags/GameplayTags.md",
-    "_temp_/UImage/UImage.md",
-    "_temp_/UStaticMeshComponent/UStaticMeshComponent.md",
     "03 - Unreal/Enhanced Input System",
     "_temp_/Material.canvas",
     "_temp_/AI.canvas",
@@ -281,7 +282,6 @@
     "_temp_/-Assets-/Screenshot 2025-06-24 210156.png",
     "_temp_/-Assets-/Screenshot 2025-06-24 205824.png",
     "_temp_/-Assets-/Screenshot 2025-06-24 164000.png",
-    "_temp_/-Assets-/Screenshot 2025-06-24 142404.png",
     "03 - Unreal/Ownership.canvas",
     "Item.canvas",
     "Grammar.canvas",
