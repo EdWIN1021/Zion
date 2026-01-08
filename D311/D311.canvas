@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"88809e3b2ec678a0","type":"group","x":-4120,"y":-1440,"width":7160,"height":2000,"color":"3","label":"Render Loop"},
-		{"id":"228a5d49f4cd07ab","type":"group","x":-6680,"y":-1320,"width":2240,"height":1760,"color":"4","label":"Initialization "},
+		{"id":"228a5d49f4cd07ab","type":"group","x":-6560,"y":-1320,"width":2240,"height":1760,"color":"4","label":"Initialization "},
 		{"id":"0848f49a08af0c56","type":"group","x":-2760,"y":-943,"width":1080,"height":1007,"label":"Resource Manipulation"},
 		{"id":"845fcbc62b2357ac","type":"group","x":-1120,"y":-943,"width":1040,"height":997,"color":"1","label":"Input Assembler"},
 		{
@@ -18,27 +18,7 @@
 			"label":"Vertex Shader"
 		},
 		{"id":"94656c214de79014","type":"group","x":1720,"y":-943,"width":880,"height":1007,"label":"Hull Shader"},
-		{"id":"1bd98f8c86f2012c","type":"group","x":-5320,"y":-840,"width":680,"height":847,"color":"6","label":"Shaders"},
-		{
-			"id":"f253908ac7b7457b",
-			"type":"text",
-			"text":"programmable stages",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-2140,
-			"width":300,
-			"height":117
-		},
-		{
-			"id":"7e9a520ba7cd2f29",
-			"type":"text",
-			"text":"fixed function stages",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-2360,
-			"width":300,
-			"height":123
-		},
+		{"id":"1bd98f8c86f2012c","type":"group","x":-5200,"y":-840,"width":680,"height":847,"color":"6","label":"Shaders"},
 		{
 			"id":"ac409397fb272db5",
 			"type":"text",
@@ -49,26 +29,6 @@
 			"width":680,
 			"height":399,
 			"color":"2"
-		},
-		{
-			"id":"54d5c7eac21cd3d2",
-			"type":"text",
-			"text":"[[Vertex Buffer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2380,
-			"y":-490,
-			"width":276,
-			"height":90
-		},
-		{
-			"id":"a132e3b494ab218a",
-			"type":"text",
-			"text":"[[Index Buffer]] ?",
-			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-2386,
-			"y":-330,
-			"width":288,
-			"height":117
 		},
 		{
 			"id":"d5721ef012dd50b2",
@@ -84,14 +44,24 @@
 			"height":80
 		},
 		{
-			"id":"cd1fc589537092db",
+			"id":"f00b6368f55c7219",
 			"type":"text",
-			"text":"[[Primitive Topology]]",
+			"text":"[[DrawIndexed]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-2377,
-			"y":-846,
-			"width":267,
-			"height":100
+			"x":-2098,
+			"y":-126,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"a132e3b494ab218a",
+			"type":"text",
+			"text":"[[Index Buffer]] ?",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":-2386,
+			"y":-330,
+			"width":288,
+			"height":117
 		},
 		{
 			"id":"725bb56ea13bb116",
@@ -104,21 +74,51 @@
 			"height":80
 		},
 		{
-			"id":"f00b6368f55c7219",
+			"id":"7e9a520ba7cd2f29",
 			"type":"text",
-			"text":"[[DrawIndexed]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2098,
-			"y":-126,
+			"text":"fixed function stages",
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-2360,
 			"width":300,
-			"height":80
+			"height":123
+		},
+		{
+			"id":"f253908ac7b7457b",
+			"type":"text",
+			"text":"programmable stages",
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-2140,
+			"width":300,
+			"height":117
+		},
+		{
+			"id":"54d5c7eac21cd3d2",
+			"type":"text",
+			"text":"[[Vertex Buffer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2380,
+			"y":-490,
+			"width":276,
+			"height":90
+		},
+		{
+			"id":"cd1fc589537092db",
+			"type":"text",
+			"text":"[[Primitive Topology]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2377,
+			"y":-846,
+			"width":267,
+			"height":100
 		},
 		{
 			"id":"382d85be3e587dba",
 			"type":"text",
 			"text":"[[ID3D11Device]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6440,
+			"x":-6320,
 			"y":-1140,
 			"width":280,
 			"height":147
@@ -128,7 +128,7 @@
 			"type":"text",
 			"text":"[[ID3D11DeviceContext]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6440,
+			"x":-6320,
 			"y":-907,
 			"width":280,
 			"height":168
@@ -138,7 +138,7 @@
 			"type":"text",
 			"text":"[[IDXGISwapChain]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6440,
+			"x":-6320,
 			"y":-668,
 			"width":280,
 			"height":175
@@ -148,7 +148,7 @@
 			"type":"text",
 			"text":"[[D3D11CreateDeviceAndSwapChain]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-6000,
+			"x":-5880,
 			"y":-883,
 			"width":440,
 			"height":120
@@ -158,57 +158,17 @@
 			"type":"text",
 			"text":"[[CreateBuffer]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-6000,
+			"x":-5880,
 			"y":-668,
 			"width":440,
 			"height":105
 		},
 		{
-			"id":"0202eb8ac8947bc5",
-			"type":"text",
-			"text":"[[Get Back Buffer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-6000,
-			"y":-480,
-			"width":440,
-			"height":110
-		},
-		{
-			"id":"372b09e25b241fda",
-			"type":"text",
-			"text":"[[Create RenderTargetView]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-6000,
-			"y":-280,
-			"width":440,
-			"height":120
-		},
-		{
-			"id":"e6b4996122651bdb",
-			"type":"text",
-			"text":"[[OMSetRenderTargets]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-6000,
-			"y":-60,
-			"width":440,
-			"height":120
-		},
-		{
-			"id":"290aa09bcc053528",
-			"type":"text",
-			"text":"[[Set Viewport]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-6000,
-			"y":140,
-			"width":440,
-			"height":120
-		},
-		{
 			"id":"d92ede1fcfc2b51c",
 			"type":"text",
-			"text":"Compile & Create Shaders",
+			"text":"[[Compile & Create Shaders]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5200,
+			"x":-5080,
 			"y":-726,
 			"width":420,
 			"height":125
@@ -216,9 +176,9 @@
 		{
 			"id":"35b65c8c2bbfebfa",
 			"type":"text",
-			"text":"Define Input Layout",
+			"text":"[[Define Input Layout]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5200,
+			"x":-5080,
 			"y":-487,
 			"width":420,
 			"height":123
@@ -228,10 +188,50 @@
 			"type":"text",
 			"text":"[[Clean up Intermediate Data]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5200,
+			"x":-5080,
 			"y":-234,
 			"width":420,
 			"height":141
+		},
+		{
+			"id":"0202eb8ac8947bc5",
+			"type":"text",
+			"text":"[[Get Back Buffer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5880,
+			"y":-480,
+			"width":440,
+			"height":110
+		},
+		{
+			"id":"372b09e25b241fda",
+			"type":"text",
+			"text":"[[Create RenderTargetView]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5880,
+			"y":-280,
+			"width":440,
+			"height":120
+		},
+		{
+			"id":"e6b4996122651bdb",
+			"type":"text",
+			"text":"[[OMSetRenderTargets]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5880,
+			"y":-60,
+			"width":440,
+			"height":120
+		},
+		{
+			"id":"290aa09bcc053528",
+			"type":"text",
+			"text":"[[Set Viewport]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5880,
+			"y":140,
+			"width":440,
+			"height":120
 		}
 	],
 	"edges":[
