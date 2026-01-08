@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"88809e3b2ec678a0","type":"group","x":-2960,"y":-1840,"width":6280,"height":3040,"color":"3","label":"Render Loop"},
-		{"id":"228a5d49f4cd07ab","type":"group","x":-5360,"y":-1239,"width":1200,"height":1620,"color":"4","label":"Initialization "},
-		{"id":"0848f49a08af0c56","type":"group","x":-2620,"y":-933,"width":1080,"height":1007,"label":"Resource Manipulation"},
+		{"id":"228a5d49f4cd07ab","type":"group","x":-6400,"y":-1280,"width":2120,"height":1690,"color":"4","label":"Initialization "},
 		{"id":"94656c214de79014","type":"group","x":1440,"y":-932,"width":1300,"height":1007,"label":"Hull Shader"},
+		{"id":"0848f49a08af0c56","type":"group","x":-2620,"y":-933,"width":1080,"height":1007,"label":"Resource Manipulation"},
 		{"id":"845fcbc62b2357ac","type":"group","x":-1120,"y":-933,"width":1040,"height":1007,"color":"1","label":"Input Assembler"},
 		{
 			"id":"a6f2e00dc59327b3",
@@ -19,26 +19,6 @@
 			"label":"Vertex Shader"
 		},
 		{
-			"id":"7e9a520ba7cd2f29",
-			"type":"text",
-			"text":"fixed function stages",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-2360,
-			"width":300,
-			"height":123
-		},
-		{
-			"id":"f253908ac7b7457b",
-			"type":"text",
-			"text":"programmable stages",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-2140,
-			"width":300,
-			"height":117
-		},
-		{
 			"id":"d5721ef012dd50b2",
 			"type":"text",
 			"text":"[[Draw]]",
@@ -50,77 +30,6 @@
 			"y":-116,
 			"width":272,
 			"height":80
-		},
-		{
-			"id":"ac409397fb272db5",
-			"type":"text",
-			"text":"[[CPU to GPU]]\n",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-3860,
-			"y":-600,
-			"width":680,
-			"height":324,
-			"color":"2"
-		},
-		{
-			"id":"e55ac864f2034167",
-			"type":"text",
-			"text":"[[D3D11CreateDeviceAndSwapChain]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4820,
-			"y":-899,
-			"width":440,
-			"height":120
-		},
-		{
-			"id":"13336ecc50f70f75",
-			"type":"text",
-			"text":"[[CreateBuffer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4820,
-			"y":-684,
-			"width":440,
-			"height":105
-		},
-		{
-			"id":"0202eb8ac8947bc5",
-			"type":"text",
-			"text":"[[Get Back Buffer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4820,
-			"y":-465,
-			"width":440,
-			"height":110
-		},
-		{
-			"id":"372b09e25b241fda",
-			"type":"text",
-			"text":"[[Create RenderTargetView]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4820,
-			"y":-255,
-			"width":440,
-			"height":120
-		},
-		{
-			"id":"e6b4996122651bdb",
-			"type":"text",
-			"text":"[[OMSetRenderTargets]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4820,
-			"y":-55,
-			"width":440,
-			"height":120
-		},
-		{
-			"id":"290aa09bcc053528",
-			"type":"text",
-			"text":"[[Set Viewport]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4820,
-			"y":145,
-			"width":440,
-			"height":120
 		},
 		{
 			"id":"cd1fc589537092db",
@@ -173,32 +82,123 @@
 			"height":80
 		},
 		{
-			"id":"382d85be3e587dba",
+			"id":"f253908ac7b7457b",
 			"type":"text",
-			"text":"[[ID3D11Device]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-5260,
-			"y":-1119,
-			"width":280,
-			"height":147
+			"text":"programmable stages",
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-2140,
+			"width":300,
+			"height":117
+		},
+		{
+			"id":"7e9a520ba7cd2f29",
+			"type":"text",
+			"text":"fixed function stages",
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-2360,
+			"width":300,
+			"height":123
+		},
+		{
+			"id":"ac409397fb272db5",
+			"type":"text",
+			"text":"[[CPU to GPU]]\n",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3880,
+			"y":-634,
+			"width":680,
+			"height":399,
+			"color":"2"
 		},
 		{
 			"id":"a3d38f9d82557fab",
 			"type":"text",
 			"text":"[[ID3D11DeviceContext]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-5260,
-			"y":-923,
+			"x":-6280,
+			"y":-947,
 			"width":280,
 			"height":168
+		},
+		{
+			"id":"e55ac864f2034167",
+			"type":"text",
+			"text":"[[D3D11CreateDeviceAndSwapChain]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5840,
+			"y":-923,
+			"width":440,
+			"height":120
+		},
+		{
+			"id":"13336ecc50f70f75",
+			"type":"text",
+			"text":"[[CreateBuffer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5840,
+			"y":-708,
+			"width":440,
+			"height":105
+		},
+		{
+			"id":"0202eb8ac8947bc5",
+			"type":"text",
+			"text":"[[Get Back Buffer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5840,
+			"y":-520,
+			"width":440,
+			"height":110
+		},
+		{
+			"id":"372b09e25b241fda",
+			"type":"text",
+			"text":"[[Create RenderTargetView]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5840,
+			"y":-320,
+			"width":440,
+			"height":120
+		},
+		{
+			"id":"e6b4996122651bdb",
+			"type":"text",
+			"text":"[[OMSetRenderTargets]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5840,
+			"y":-100,
+			"width":440,
+			"height":120
+		},
+		{
+			"id":"290aa09bcc053528",
+			"type":"text",
+			"text":"[[Set Viewport]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5840,
+			"y":100,
+			"width":440,
+			"height":120
+		},
+		{
+			"id":"382d85be3e587dba",
+			"type":"text",
+			"text":"[[ID3D11Device]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-6280,
+			"y":-1180,
+			"width":280,
+			"height":147
 		},
 		{
 			"id":"6c194de50ef42627",
 			"type":"text",
 			"text":"[[IDXGISwapChain]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-5260,
-			"y":-709,
+			"x":-6280,
+			"y":-708,
 			"width":280,
 			"height":175
 		}
