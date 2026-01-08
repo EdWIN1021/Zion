@@ -220,12 +220,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
     "D311/Clean up Intermediate Data.md",
-    "Compile & Create Shaders.md",
+    "D311/Compile & Create Shaders.md",
     "D311/D311.canvas",
-    "Define Input Layout.md",
+    "D311/Define Input Layout.md",
     "D311/CPU to GPU.md",
     "D311/CreateBuffer.md",
     "D311/Rendering Pipeline.md",
