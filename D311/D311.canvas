@@ -1,15 +1,100 @@
 {
 	"nodes":[
-		{"id":"845fcbc62b2357ac","type":"group","x":-560,"y":-640,"width":720,"height":320,"color":"1","label":"Input Assembler"},
-		{"id":"a6f2e00dc59327b3","type":"group","x":-560,"y":-100,"width":720,"height":320,"color":"2","label":"VertexShader"},
+		{"id":"845fcbc62b2357ac","type":"group","x":-680,"y":-860,"width":940,"height":940,"color":"1","label":"Input Assembler"},
 		{
-			"id":"36e5b7de149adefd",
+			"id":"a6f2e00dc59327b3",
+			"type":"group",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-640,
+			"y":360,
+			"width":860,
+			"height":300,
+			"color":"6",
+			"label":"VertexShader"
+		},
+		{
+			"id":"7e9a520ba7cd2f29",
 			"type":"text",
-			"text":"[[CreateInputLayout]]",
+			"text":"fixed function stages",
+			"styleAttributes":{},
+			"x":460,
+			"y":-460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f253908ac7b7457b",
+			"type":"text",
+			"text":"programmable stages",
+			"styleAttributes":{},
+			"x":460,
+			"y":-280,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"cd1fc589537092db",
+			"type":"text",
+			"text":"[[Primitive Topology]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-360,
-			"y":-540,
-			"width":320,
+			"x":-340,
+			"y":-800,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"725bb56ea13bb116",
+			"type":"text",
+			"text":"[[Input Layout]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-340,
+			"y":-660,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"54d5c7eac21cd3d2",
+			"type":"text",
+			"text":"[[Vertex Buffer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-342,
+			"y":-480,
+			"width":265,
+			"height":80
+		},
+		{
+			"id":"a132e3b494ab218a",
+			"type":"text",
+			"text":"[[Index Buffer]] ?",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":-354,
+			"y":-337,
+			"width":288,
+			"height":117
+		},
+		{
+			"id":"d5721ef012dd50b2",
+			"type":"text",
+			"text":"[[Draw]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-612,
+			"y":-120,
+			"width":272,
+			"height":80
+		},
+		{
+			"id":"f00b6368f55c7219",
+			"type":"text",
+			"text":"[[DrawIndexed]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-66,
+			"y":-120,
+			"width":286,
 			"height":80
 		}
 	],
@@ -21,6 +106,51 @@
 			"fromNode":"845fcbc62b2357ac",
 			"fromSide":"bottom",
 			"toNode":"a6f2e00dc59327b3",
+			"toSide":"top"
+		},
+		{
+			"id":"fa99c2bbd17ad93c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a132e3b494ab218a",
+			"fromSide":"left",
+			"toNode":"d5721ef012dd50b2",
+			"toSide":"top"
+		},
+		{
+			"id":"eaa0b23a3c2dbd1a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a132e3b494ab218a",
+			"fromSide":"right",
+			"toNode":"f00b6368f55c7219",
+			"toSide":"top"
+		},
+		{
+			"id":"a323e4b23549fc37",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"54d5c7eac21cd3d2",
+			"fromSide":"bottom",
+			"toNode":"a132e3b494ab218a",
+			"toSide":"top"
+		},
+		{
+			"id":"8f50bd59fa0befc3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"725bb56ea13bb116",
+			"fromSide":"bottom",
+			"toNode":"54d5c7eac21cd3d2",
+			"toSide":"top"
+		},
+		{
+			"id":"add669d0622b14b1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"cd1fc589537092db",
+			"fromSide":"bottom",
+			"toNode":"725bb56ea13bb116",
 			"toSide":"top"
 		}
 	],

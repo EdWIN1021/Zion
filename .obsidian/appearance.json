@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Maple",
+  "cssTheme": "Obsidianite",
   "enabledCssSnippets": [
     "styles"
-  ]
+  ],
+  "theme": "obsidian"
 }
