@@ -1,3 +1,7 @@
+
+> Use the Device Context to bind it to the Output Merger stage
+
+
 ```CPP
 // Output Merger / Bind the RTV to the Output Merger stage of the GPU
 m_deviceContext->OMSetRenderTargets( 

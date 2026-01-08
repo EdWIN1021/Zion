@@ -2,69 +2,19 @@
 	"nodes":[
 		{"id":"228a5d49f4cd07ab","type":"group","x":-4240,"y":-1120,"width":1240,"height":1380,"color":"4","label":"Initialization "},
 		{"id":"0848f49a08af0c56","type":"group","x":-2640,"y":-933,"width":1080,"height":1007,"label":"Resource Manipulation"},
-		{"id":"845fcbc62b2357ac","type":"group","x":-720,"y":-900,"width":1020,"height":960,"color":"1","label":"Input Assembler"},
+		{"id":"845fcbc62b2357ac","type":"group","x":-1000,"y":-933,"width":1040,"height":1007,"color":"1","label":"Input Assembler"},
 		{
 			"id":"a6f2e00dc59327b3",
 			"type":"group",
 			"styleAttributes":{
 				"border":null
 			},
-			"x":-640,
-			"y":560,
-			"width":860,
-			"height":300,
+			"x":540,
+			"y":-933,
+			"width":1200,
+			"height":1007,
 			"color":"6",
 			"label":"VertexShader"
-		},
-		{
-			"id":"7e9a520ba7cd2f29",
-			"type":"text",
-			"text":"fixed function stages",
-			"styleAttributes":{},
-			"x":-840,
-			"y":-1640,
-			"width":300,
-			"height":123
-		},
-		{
-			"id":"f253908ac7b7457b",
-			"type":"text",
-			"text":"programmable stages",
-			"styleAttributes":{},
-			"x":-840,
-			"y":-1397,
-			"width":300,
-			"height":117
-		},
-		{
-			"id":"382d85be3e587dba",
-			"type":"text",
-			"text":"[[ID3D11Device]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-4120,
-			"y":-927,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"a3d38f9d82557fab",
-			"type":"text",
-			"text":"[[ID3D11DeviceContext]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-4120,
-			"y":-768,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"6c194de50ef42627",
-			"type":"text",
-			"text":"[[IDXGISwapChain]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-4120,
-			"y":-630,
-			"width":260,
-			"height":80
 		},
 		{
 			"id":"e55ac864f2034167",
@@ -117,44 +67,34 @@
 			"height":120
 		},
 		{
-			"id":"54d5c7eac21cd3d2",
+			"id":"a3d38f9d82557fab",
 			"type":"text",
-			"text":"[[Vertex Buffer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2262,
-			"y":-453,
-			"width":276,
-			"height":90
+			"text":"[[ID3D11DeviceContext]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-4140,
+			"y":-804,
+			"width":280,
+			"height":168
 		},
 		{
-			"id":"725bb56ea13bb116",
+			"id":"6c194de50ef42627",
 			"type":"text",
-			"text":"[[Input Layout]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2260,
-			"y":-636,
-			"width":274,
-			"height":80
+			"text":"[[IDXGISwapChain]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-4140,
+			"y":-590,
+			"width":280,
+			"height":175
 		},
 		{
-			"id":"cd1fc589537092db",
+			"id":"382d85be3e587dba",
 			"type":"text",
-			"text":"[[Primitive Topology]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2257,
-			"y":-836,
-			"width":267,
-			"height":100
-		},
-		{
-			"id":"f00b6368f55c7219",
-			"type":"text",
-			"text":"[[DrawIndexed]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1980,
-			"y":-116,
-			"width":286,
-			"height":80
+			"text":"[[ID3D11Device]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-4140,
+			"y":-1000,
+			"width":280,
+			"height":147
 		},
 		{
 			"id":"d5721ef012dd50b2",
@@ -170,26 +110,77 @@
 			"height":80
 		},
 		{
+			"id":"cd1fc589537092db",
+			"type":"text",
+			"text":"[[Primitive Topology]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2257,
+			"y":-836,
+			"width":267,
+			"height":100
+		},
+		{
+			"id":"f253908ac7b7457b",
+			"type":"text",
+			"text":"programmable stages",
+			"styleAttributes":{},
+			"x":-2290,
+			"y":-1437,
+			"width":300,
+			"height":117
+		},
+		{
+			"id":"7e9a520ba7cd2f29",
+			"type":"text",
+			"text":"fixed function stages",
+			"styleAttributes":{},
+			"x":-2290,
+			"y":-1680,
+			"width":300,
+			"height":123
+		},
+		{
+			"id":"725bb56ea13bb116",
+			"type":"text",
+			"text":"[[Input Layout]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2260,
+			"y":-660,
+			"width":274,
+			"height":80
+		},
+		{
+			"id":"54d5c7eac21cd3d2",
+			"type":"text",
+			"text":"[[Vertex Buffer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2260,
+			"y":-480,
+			"width":276,
+			"height":90
+		},
+		{
 			"id":"a132e3b494ab218a",
 			"type":"text",
 			"text":"[[Index Buffer]] ?",
 			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-2267,
-			"y":-316,
+			"x":-2266,
+			"y":-320,
 			"width":288,
 			"height":117
+		},
+		{
+			"id":"f00b6368f55c7219",
+			"type":"text",
+			"text":"[[DrawIndexed]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1978,
+			"y":-116,
+			"width":300,
+			"height":80
 		}
 	],
 	"edges":[
-		{
-			"id":"10d1f769c63b2672",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"845fcbc62b2357ac",
-			"fromSide":"bottom",
-			"toNode":"a6f2e00dc59327b3",
-			"toSide":"top"
-		},
 		{
 			"id":"fa99c2bbd17ad93c",
 			"styleAttributes":{},
@@ -306,6 +297,24 @@
 			"fromSide":"bottom",
 			"toNode":"e6b4996122651bdb",
 			"toSide":"top"
+		},
+		{
+			"id":"8208900ec3604fa6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0848f49a08af0c56",
+			"fromSide":"right",
+			"toNode":"845fcbc62b2357ac",
+			"toSide":"left"
+		},
+		{
+			"id":"e3f26209d2234ee1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"845fcbc62b2357ac",
+			"fromSide":"right",
+			"toNode":"a6f2e00dc59327b3",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
