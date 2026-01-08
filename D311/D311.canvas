@@ -1,6 +1,8 @@
 {
 	"nodes":[
-		{"id":"845fcbc62b2357ac","type":"group","x":-680,"y":-860,"width":940,"height":940,"color":"1","label":"Input Assembler"},
+		{"id":"0848f49a08af0c56","type":"group","x":-1980,"y":-900,"width":1080,"height":960,"label":"Resource Manipulation"},
+		{"id":"228a5d49f4cd07ab","type":"group","x":-3440,"y":-810,"width":1160,"height":780,"color":"4","label":"Initialization "},
+		{"id":"845fcbc62b2357ac","type":"group","x":-720,"y":-900,"width":1020,"height":960,"color":"1","label":"Input Assembler"},
 		{
 			"id":"a6f2e00dc59327b3",
 			"type":"group",
@@ -8,7 +10,7 @@
 				"border":null
 			},
 			"x":-640,
-			"y":360,
+			"y":560,
 			"width":860,
 			"height":300,
 			"color":"6",
@@ -19,39 +21,49 @@
 			"type":"text",
 			"text":"fixed function stages",
 			"styleAttributes":{},
-			"x":460,
-			"y":-460,
-			"width":260,
-			"height":60
+			"x":-840,
+			"y":-1640,
+			"width":300,
+			"height":123
 		},
 		{
 			"id":"f253908ac7b7457b",
 			"type":"text",
 			"text":"programmable stages",
 			"styleAttributes":{},
-			"x":460,
-			"y":-280,
-			"width":260,
-			"height":60
+			"x":-840,
+			"y":-1397,
+			"width":300,
+			"height":117
+		},
+		{
+			"id":"a132e3b494ab218a",
+			"type":"text",
+			"text":"[[Index Buffer]] ?",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":-1607,
+			"y":-300,
+			"width":288,
+			"height":117
 		},
 		{
 			"id":"cd1fc589537092db",
 			"type":"text",
 			"text":"[[Primitive Topology]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-340,
-			"y":-800,
-			"width":260,
-			"height":80
+			"x":-1597,
+			"y":-820,
+			"width":267,
+			"height":100
 		},
 		{
 			"id":"725bb56ea13bb116",
 			"type":"text",
 			"text":"[[Input Layout]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-340,
-			"y":-660,
-			"width":260,
+			"x":-1600,
+			"y":-620,
+			"width":274,
 			"height":80
 		},
 		{
@@ -59,20 +71,20 @@
 			"type":"text",
 			"text":"[[Vertex Buffer]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-342,
-			"y":-480,
-			"width":265,
-			"height":80
+			"x":-1602,
+			"y":-437,
+			"width":276,
+			"height":90
 		},
 		{
-			"id":"a132e3b494ab218a",
+			"id":"f00b6368f55c7219",
 			"type":"text",
-			"text":"[[Index Buffer]] ?",
-			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-354,
-			"y":-337,
-			"width":288,
-			"height":117
+			"text":"[[DrawIndexed]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1320,
+			"y":-100,
+			"width":286,
+			"height":80
 		},
 		{
 			"id":"d5721ef012dd50b2",
@@ -82,20 +94,50 @@
 				"textAlign":"center",
 				"shape":null
 			},
-			"x":-612,
-			"y":-120,
+			"x":-1880,
+			"y":-100,
 			"width":272,
 			"height":80
 		},
 		{
-			"id":"f00b6368f55c7219",
+			"id":"382d85be3e587dba",
 			"type":"text",
-			"text":"[[DrawIndexed]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-66,
-			"y":-120,
-			"width":286,
+			"text":"[[ID3D11Device]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-3340,
+			"y":-620,
+			"width":260,
 			"height":80
+		},
+		{
+			"id":"a3d38f9d82557fab",
+			"type":"text",
+			"text":"[[ID3D11DeviceContext]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-3340,
+			"y":-477,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"6c194de50ef42627",
+			"type":"text",
+			"text":"[[IDXGISwapChain]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-3340,
+			"y":-340,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"e55ac864f2034167",
+			"type":"text",
+			"text":"[[D3D11CreateDeviceAndSwapChain]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2920,
+			"y":-475,
+			"width":380,
+			"height":77
 		}
 	],
 	"edges":[
@@ -152,6 +194,42 @@
 			"fromSide":"bottom",
 			"toNode":"725bb56ea13bb116",
 			"toSide":"top"
+		},
+		{
+			"id":"8dbefad56c26fcd3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"228a5d49f4cd07ab",
+			"fromSide":"right",
+			"toNode":"0848f49a08af0c56",
+			"toSide":"left"
+		},
+		{
+			"id":"09ffaaf91ff5f9fe",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"382d85be3e587dba",
+			"fromSide":"right",
+			"toNode":"e55ac864f2034167",
+			"toSide":"left"
+		},
+		{
+			"id":"cd45154555eb2b05",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a3d38f9d82557fab",
+			"fromSide":"right",
+			"toNode":"e55ac864f2034167",
+			"toSide":"left"
+		},
+		{
+			"id":"6fcadcc1b0320487",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6c194de50ef42627",
+			"fromSide":"right",
+			"toNode":"e55ac864f2034167",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

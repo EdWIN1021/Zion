@@ -11,17 +11,14 @@
             "id": "1b1142f404e8b44a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "D311/D311.canvas",
-                "viewState": {
-                  "x": 49.40808823529417,
-                  "y": -322.6911764705883,
-                  "zoom": -0.2708220539300582
-                }
+                "file": "D3D11CreateDeviceAndSwapChain.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "D311"
+              "icon": "lucide-file",
+              "title": "D3D11CreateDeviceAndSwapChain"
             }
           }
         ]
@@ -221,16 +218,21 @@
   },
   "active": "1b1142f404e8b44a",
   "lastOpenFiles": [
-    "DrawIndexed.md",
     "D311/D311.canvas",
-    "Draw.md",
+    "D311/CreateInputLayout.md",
+    "D311/vertex-shader.md",
+    "D311/Rendering Pipeline.md",
+    "ID3D11Device.md",
     "Index Buffer.md",
+    "markdown-cheat-sheet.md",
+    "D3D11CreateDeviceAndSwapChain.md",
+    "IDXGISwapChain.md",
+    "ID3D11DeviceContext.md",
+    "DrawIndexed.md",
+    "Draw.md",
     "Input Layout.md",
     "D311/Primitive Topology.md",
     "D311/Vertex Buffer.md",
-    "D311/ID3D11Device/CreateInputLayout.md",
-    "D311/Rendering Pipeline.md",
-    "D311/vertex-shader.md",
     "D311/ID3D11InputLayout.md",
     "D311/Initializing Direct3D.md",
     "03 - Unreal/Meta Sound/Meta Sound.md",
@@ -242,11 +244,6 @@
     "03 - Unreal/Types/Class/_Library/UKismetMathLibrary/FInterpTo.md",
     "03 - Unreal/Types/Class/_Library/UKismetSystemLibrary/UKismetSystemLibrary.md",
     "03 - Unreal/Types/Class/_Library/UKismetSystemLibrary/SwitchHasAuthority.md",
-    "03 - Unreal/Types/Class/_Library/UNiagaraFunctionLibrary/UNiagaraFunctionLibrary.md",
-    "03 - Unreal/Types/Class/_Library/UBlueprintFunctionLibrary/UBlueprintFunctionLibrary.md",
-    "03 - Unreal/Types/Class/AActor/GetActorForwardVector.md",
-    "03 - Unreal/Types/Class/AActor/AActor.md",
-    "03 - Unreal/Types/Class/AController/IsLocalController.md",
     "D311/ID3D11Device",
     "D311/id3d11inputlayout.md~",
     "D311/Initializing Direct3D.md~",
