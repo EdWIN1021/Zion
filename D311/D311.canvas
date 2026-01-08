@@ -1,8 +1,32 @@
 {
-	"nodes":[],
-	"edges":[],
+	"nodes":[
+		{"id":"845fcbc62b2357ac","type":"group","x":-560,"y":-640,"width":720,"height":400,"color":"1","label":"Input Assembler"},
+		{"id":"a6f2e00dc59327b3","type":"group","x":-560,"y":-40,"width":720,"height":360,"color":"2","label":"VertexShader"},
+		{
+			"id":"36e5b7de149adefd",
+			"type":"text",
+			"text":"[[CreateInputLayout]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-340,
+			"y":-540,
+			"width":320,
+			"height":80
+		}
+	],
+	"edges":[
+		{
+			"id":"10d1f769c63b2672",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"845fcbc62b2357ac",
+			"fromSide":"bottom",
+			"toNode":"a6f2e00dc59327b3",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
-		"frontmatter":{}
+		"frontmatter":{},
+		"startNode":"ac92cba4c40eb88b"
 	}
 }
