@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "68f0812aaaeb1c85",
+        "id": "cd2271c59d173085",
         "type": "tabs",
         "children": [
           {
-            "id": "1b1142f404e8b44a",
+            "id": "5eff54e9bc41b1d9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "D311/D311.canvas",
-                "viewState": {
-                  "x": -3392.2513179544308,
-                  "y": -265.4266377808854,
-                  "zoom": 1.1102230246251565e-16
-                }
+                "file": "Set Viewport.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "D311"
+              "icon": "lucide-file",
+              "title": "Set Viewport"
             }
           }
         ]
@@ -220,12 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b1142f404e8b44a",
+  "active": "5eff54e9bc41b1d9",
   "lastOpenFiles": [
-    "Create RenderTargetView.md",
     "D311/D311.canvas",
-    "OMSetRenderTargets.md",
+    "D311/D3D11CreateDeviceAndSwapChain.md",
     "Set Viewport.md",
+    "OMSetRenderTargets.md",
+    "Create RenderTargetView.md",
     "D311/Draw.md",
     "Get Back Buffer.md",
     "Perforce.md",
@@ -234,7 +232,6 @@
     "D311/ID3D11InputLayout.md",
     "D311/vertex-shader.md",
     "D311/Rendering Pipeline.md",
-    "D311/D3D11CreateDeviceAndSwapChain.md",
     "D311/ID3D11Device.md",
     "D311/Index Buffer.md",
     "markdown-cheat-sheet.md",
