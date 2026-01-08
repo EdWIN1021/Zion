@@ -15,9 +15,9 @@
               "state": {
                 "file": "D311/D311.canvas",
                 "viewState": {
-                  "x": -3866.0353206576947,
-                  "y": -508.66046411856587,
-                  "zoom": -0.833333333333333
+                  "x": -4125.368669841269,
+                  "y": 50.98932934113368,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -223,11 +223,11 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "D311/CPU to GPU.md",
+    "ClearScreen.md",
     "D311/D311.canvas",
+    "D311/CPU to GPU.md",
     "D311/Create RenderTargetView.md",
     "D311/IASetInputLayout.md",
-    "ClearScreen.md",
     "Bind Shaders.md",
     "D311/IASetPrimitiveTopology.md",
     "D311/IASetVertexBuffers.md",
