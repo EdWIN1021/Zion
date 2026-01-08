@@ -15,9 +15,9 @@
               "state": {
                 "file": "D311/D311.canvas",
                 "viewState": {
-                  "x": -4686.753187604164,
-                  "y": -490.2379503650665,
-                  "zoom": -0.5857723211414594
+                  "x": -2020,
+                  "y": -900,
+                  "zoom": -2.349668052411755
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -205,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,14 +221,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "D311/IASetInputLayout.md",
+    "ClearScreen.md",
+    "D311/D311.canvas",
+    "Bind Shaders.md",
+    "D311/IASetPrimitiveTopology.md",
+    "D311/IASetVertexBuffers.md",
+    "D311/Define Input Layout.md",
+    "D311/CreateBuffer.md",
     "D311/Clean up Intermediate Data.md",
     "D311/Compile & Create Shaders.md",
-    "D311/D311.canvas",
-    "D311/Define Input Layout.md",
     "D311/CPU to GPU.md",
-    "D311/CreateBuffer.md",
     "D311/Rendering Pipeline.md",
     "D311/Draw.md",
     "D311/IDXGISwapChain.md",
@@ -243,11 +249,6 @@
     "D311/ID3D11InputLayout.md",
     "D311/vertex-shader.md",
     "D311/ID3D11Device.md",
-    "markdown-cheat-sheet.md",
-    "D311/ID3D11DeviceContext.md",
-    "D311/DrawIndexed.md",
-    "D311/Input Layout.md",
-    "D311/Primitive Topology.md",
     "D311/ID3D11Device",
     "D311/id3d11inputlayout.md~",
     "D311/Initializing Direct3D.md~",

@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"88809e3b2ec678a0","type":"group","x":-4120,"y":-1440,"width":7160,"height":2000,"color":"3","label":"Render Loop"},
-		{"id":"228a5d49f4cd07ab","type":"group","x":-6560,"y":-1320,"width":2240,"height":1760,"color":"4","label":"Initialization "},
-		{"id":"0848f49a08af0c56","type":"group","x":-2760,"y":-943,"width":1080,"height":1007,"label":"Resource Manipulation"},
-		{"id":"845fcbc62b2357ac","type":"group","x":-1120,"y":-943,"width":1040,"height":997,"color":"1","label":"Input Assembler"},
+		{"id":"88809e3b2ec678a0","type":"group","x":-4500,"y":-1440,"width":7540,"height":2000,"color":"3","label":"Render Loop"},
+		{"id":"228a5d49f4cd07ab","type":"group","x":-7080,"y":-1220,"width":2240,"height":1560,"color":"4","label":"Initialization "},
+		{"id":"845fcbc62b2357ac","type":"group","x":-1500,"y":-933,"width":1280,"height":997,"color":"1","label":"Input Assembler"},
+		{"id":"0848f49a08af0c56","type":"group","x":-2900,"y":-982,"width":1100,"height":1084,"label":"Resource Manipulation"},
 		{
 			"id":"a6f2e00dc59327b3",
 			"type":"group",
@@ -18,17 +18,26 @@
 			"label":"Vertex Shader"
 		},
 		{"id":"94656c214de79014","type":"group","x":1720,"y":-943,"width":880,"height":1007,"label":"Hull Shader"},
-		{"id":"1bd98f8c86f2012c","type":"group","x":-5200,"y":-840,"width":680,"height":847,"color":"6","label":"Shaders"},
+		{"id":"1bd98f8c86f2012c","type":"group","x":-5720,"y":-840,"width":680,"height":847,"color":"6","label":"Shaders"},
 		{
-			"id":"ac409397fb272db5",
+			"id":"54d5c7eac21cd3d2",
 			"type":"text",
-			"text":"[[CPU to GPU]]\n",
+			"text":"[[IASetVertexBuffers]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-3840,
-			"y":-646,
-			"width":680,
-			"height":399,
-			"color":"2"
+			"x":-2500,
+			"y":-452,
+			"width":276,
+			"height":90
+		},
+		{
+			"id":"a132e3b494ab218a",
+			"type":"text",
+			"text":"[[Index Buffer]] ?",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":-2506,
+			"y":-291,
+			"width":288,
+			"height":117
 		},
 		{
 			"id":"d5721ef012dd50b2",
@@ -38,8 +47,8 @@
 				"textAlign":"center",
 				"shape":null
 			},
-			"x":-2660,
-			"y":-126,
+			"x":-2780,
+			"y":-88,
 			"width":272,
 			"height":80
 		},
@@ -48,40 +57,40 @@
 			"type":"text",
 			"text":"[[DrawIndexed]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-2098,
-			"y":-126,
+			"x":-2226,
+			"y":-88,
 			"width":300,
 			"height":80
-		},
-		{
-			"id":"a132e3b494ab218a",
-			"type":"text",
-			"text":"[[Index Buffer]] ?",
-			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-2386,
-			"y":-330,
-			"width":288,
-			"height":117
 		},
 		{
 			"id":"725bb56ea13bb116",
 			"type":"text",
-			"text":"[[Input Layout]]",
+			"text":"[[IASetInputLayout]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-2380,
-			"y":-670,
-			"width":274,
-			"height":80
+			"x":-2497,
+			"y":-617,
+			"width":271,
+			"height":82
 		},
 		{
-			"id":"7e9a520ba7cd2f29",
+			"id":"cd1fc589537092db",
 			"type":"text",
-			"text":"fixed function stages",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-2360,
-			"width":300,
-			"height":123
+			"text":"[[IASetPrimitiveTopology]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2495,
+			"y":-780,
+			"width":267,
+			"height":102
+		},
+		{
+			"id":"d0cda8bacb54d928",
+			"type":"text",
+			"text":"[[Bind Shaders]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2494,
+			"y":-940,
+			"width":265,
+			"height":100
 		},
 		{
 			"id":"f253908ac7b7457b",
@@ -94,31 +103,21 @@
 			"height":117
 		},
 		{
-			"id":"54d5c7eac21cd3d2",
+			"id":"7e9a520ba7cd2f29",
 			"type":"text",
-			"text":"[[Vertex Buffer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2380,
-			"y":-490,
-			"width":276,
-			"height":90
-		},
-		{
-			"id":"cd1fc589537092db",
-			"type":"text",
-			"text":"[[Primitive Topology]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2377,
-			"y":-846,
-			"width":267,
-			"height":100
+			"text":"fixed function stages",
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-2360,
+			"width":300,
+			"height":123
 		},
 		{
 			"id":"382d85be3e587dba",
 			"type":"text",
 			"text":"[[ID3D11Device]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6320,
+			"x":-6840,
 			"y":-1140,
 			"width":280,
 			"height":147
@@ -128,7 +127,7 @@
 			"type":"text",
 			"text":"[[ID3D11DeviceContext]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6320,
+			"x":-6840,
 			"y":-907,
 			"width":280,
 			"height":168
@@ -138,7 +137,7 @@
 			"type":"text",
 			"text":"[[IDXGISwapChain]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6320,
+			"x":-6840,
 			"y":-668,
 			"width":280,
 			"height":175
@@ -148,7 +147,7 @@
 			"type":"text",
 			"text":"[[D3D11CreateDeviceAndSwapChain]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5880,
+			"x":-6400,
 			"y":-883,
 			"width":440,
 			"height":120
@@ -158,17 +157,27 @@
 			"type":"text",
 			"text":"[[CreateBuffer]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5880,
+			"x":-6400,
 			"y":-668,
 			"width":440,
 			"height":105
+		},
+		{
+			"id":"e6b4996122651bdb",
+			"type":"text",
+			"text":"[[OMSetRenderTargets]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-6400,
+			"y":-60,
+			"width":440,
+			"height":120
 		},
 		{
 			"id":"d92ede1fcfc2b51c",
 			"type":"text",
 			"text":"[[Compile & Create Shaders]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5080,
+			"x":-5600,
 			"y":-726,
 			"width":420,
 			"height":125
@@ -178,27 +187,17 @@
 			"type":"text",
 			"text":"[[Define Input Layout]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5080,
+			"x":-5600,
 			"y":-487,
 			"width":420,
 			"height":123
-		},
-		{
-			"id":"1c5978fbd0572c3d",
-			"type":"text",
-			"text":"[[Clean up Intermediate Data]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-5080,
-			"y":-234,
-			"width":420,
-			"height":141
 		},
 		{
 			"id":"0202eb8ac8947bc5",
 			"type":"text",
 			"text":"[[Get Back Buffer]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5880,
+			"x":-6400,
 			"y":-480,
 			"width":440,
 			"height":110
@@ -208,18 +207,8 @@
 			"type":"text",
 			"text":"[[Create RenderTargetView]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5880,
+			"x":-6400,
 			"y":-280,
-			"width":440,
-			"height":120
-		},
-		{
-			"id":"e6b4996122651bdb",
-			"type":"text",
-			"text":"[[OMSetRenderTargets]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-5880,
-			"y":-60,
 			"width":440,
 			"height":120
 		},
@@ -228,10 +217,41 @@
 			"type":"text",
 			"text":"[[Set Viewport]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-5880,
+			"x":-6400,
 			"y":140,
 			"width":440,
 			"height":120
+		},
+		{
+			"id":"1c5978fbd0572c3d",
+			"type":"text",
+			"text":"[[Clean up Intermediate Data]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5600,
+			"y":-234,
+			"width":420,
+			"height":141
+		},
+		{
+			"id":"ac409397fb272db5",
+			"type":"text",
+			"text":"[[CPU to GPU]]\n",
+			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
+			"x":-3800,
+			"y":-617,
+			"width":680,
+			"height":346,
+			"color":"2"
+		},
+		{
+			"id":"3de0e82348455e1e",
+			"type":"text",
+			"text":"[[ClearScreen]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4420,
+			"y":-514,
+			"width":400,
+			"height":140
 		}
 	],
 	"edges":[
@@ -266,6 +286,7 @@
 			"id":"8f50bd59fa0befc3",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"725bb56ea13bb116",
 			"fromSide":"bottom",
 			"toNode":"54d5c7eac21cd3d2",
@@ -306,15 +327,6 @@
 			"fromSide":"right",
 			"toNode":"e55ac864f2034167",
 			"toSide":"left"
-		},
-		{
-			"id":"ea5af45cef89cb48",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"e55ac864f2034167",
-			"fromSide":"bottom",
-			"toNode":"13336ecc50f70f75",
-			"toSide":"top"
 		},
 		{
 			"id":"3ef506d684b5be20",
@@ -362,15 +374,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"d2a50ae3d90b2d59",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"13336ecc50f70f75",
-			"fromSide":"bottom",
-			"toNode":"0202eb8ac8947bc5",
-			"toSide":"top"
-		},
-		{
 			"id":"bbc9e3326b280132",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -385,7 +388,7 @@
 			"toFloating":false,
 			"fromNode":"228a5d49f4cd07ab",
 			"fromSide":"right",
-			"toNode":"ac409397fb272db5",
+			"toNode":"88809e3b2ec678a0",
 			"toSide":"left"
 		},
 		{
@@ -414,6 +417,42 @@
 			"fromSide":"bottom",
 			"toNode":"1c5978fbd0572c3d",
 			"toSide":"top"
+		},
+		{
+			"id":"ea5af45cef89cb48",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e55ac864f2034167",
+			"fromSide":"bottom",
+			"toNode":"13336ecc50f70f75",
+			"toSide":"top"
+		},
+		{
+			"id":"d2a50ae3d90b2d59",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"13336ecc50f70f75",
+			"fromSide":"bottom",
+			"toNode":"0202eb8ac8947bc5",
+			"toSide":"top"
+		},
+		{
+			"id":"bf589800505a9e9e",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d0cda8bacb54d928",
+			"fromSide":"bottom",
+			"toNode":"cd1fc589537092db",
+			"toSide":"top"
+		},
+		{
+			"id":"dae768687698a5ee",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3de0e82348455e1e",
+			"fromSide":"right",
+			"toNode":"ac409397fb272db5",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
