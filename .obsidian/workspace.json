@@ -213,6 +213,7 @@
       "graph:Open graph view": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false
     }
   },

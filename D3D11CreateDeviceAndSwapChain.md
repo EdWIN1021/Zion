@@ -1,18 +1,20 @@
 
 ```CPP
 // Logic to enable the Debug Layer if we are in Debug mode
+
 	UINT createDeviceFlags = 0;
-#if defined(DEBUG_MODE)
+#if defined( DEBUG_MODE )
 	createDeviceFlags |= D3D11_CREATE_DEVICE_DEBUG;
 #endif
 ```
 
-
+---
 
 ```CPP
 D3D_FEATURE_LEVEL featureLevel;
 ```
 
+---
 
 ```cpp
 HRESULT hr = D3D11CreateDeviceAndSwapChain( 
