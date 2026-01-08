@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
   "useTab": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "vimMode": false
 }

@@ -1,18 +1,23 @@
+---
+id: Initializing Direct3D
+aliases: []
+tags: []
+---
 
 # Create the Device and Context
-`ID3D11Device` interface is used to check feature support, and allocate resources.
+- [ ] `ID3D11Device` interface is used to check feature support, and allocate resources.
 `ID3D11DeviceContext` interface is used to set render states, bind resources to the graphics pipeline and issue rendering commands.
 
 ```cpp
 HRESULT D3D11CreateDevice(
-	IDXGIAdapter *pAdapter,
-	D3D_DRIVER_TYPE DriverType,
-	HMODULE Software,
-	UINT Flags,
-	CONST D3D_FEATURE_LEVEL *pFeatureLevels,
-	UINT FeatureLevels,
-	UINT SDKVersion,
-	ID3D11Device **ppDevice,
+  IDXGIAdapter *pAdapter,
+  D3D_DRIVER_TYPE DriverType,
+  HMODULE Software,
+  UINT Flags,
+  CONST D3D_FEATURE_LEVEL *pFeatureLevels,
+  UINT FeatureLevels,
+  UINT SDKVersion,
+  ID3D11Device **ppDevice,
 	D3D_FEATURE_LEVEL *pFeatureLevel,
 	ID3D11DeviceContext **ppImmediateContext
 );

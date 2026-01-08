@@ -1,3 +1,12 @@
+---
+id: Rendering Pipeline
+aliases: []
+tags: []
+---
+
+
+# Rendering Pipeline
+
 ![[Screenshot 2025-12-20 183725.png]]
 
 ## Input Assembler
@@ -7,9 +16,8 @@ The input assembler (IA) stage reads geometric data (vertices and indices) from 
 - Vertex buffer
 - Indices
 
+
 ## Tessellation
-
-
 
 ## Vertex Shader
 

@@ -5,9 +5,13 @@ Description:
 Return Type:
 ---
 ## [[Role]]
+
 - Authority
+
 - Simulated Proxy
-- AutonomousProxy
+
+- Autonomous Proxy
+
 ## **Declaration**
 
 ```cpp

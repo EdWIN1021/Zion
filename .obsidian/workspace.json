@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Unreal/Container Library/TArray/TArray.md",
+                "file": "D311/ID3D11InputLayout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TArray"
+              "title": "ID3D11InputLayout"
             }
           }
         ]
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 602.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,10 +216,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "b05c8308d7d25b13",
   "lastOpenFiles": [
-    "Base.base",
+    "D311/vertex-shader.md",
+    "D311/ID3D11InputLayout.md",
+    "D311/ID3D11InputLayout.md",
+    "D311/id3d11inputlayout.md~",
+    "D311/Initializing Direct3D.md~",
+    "D311/Initializing Direct3D.md",
+    "D311/vertex-shader.md~",
+    "D311/Rendering Pipeline.md~",
+    "D311/Rendering Pipeline.md",
+    "D311/D311.canvas",
     "markdown-cheat-sheet.md",
+    "Base.base",
+    "Perforce.md",
+    "03 - Unreal/Container Library/TArray/TArray.md",
     "00 - Assets/Screenshot 2026-01-01 132719.png",
     "03 - Unreal/Enhanced Input System/Enhanced Input System.md",
     "_temp_/Screenshot 2026-01-01 132719.png",
@@ -243,23 +255,12 @@
     "03 - Unreal/Enhanced Input System/Custom Enhanced Input.md",
     "03 - Unreal/Enhanced Input System/Input Action.md",
     "03 - Unreal/Enhanced Input System/Chorded Action.md",
-    "03 - Unreal/Macro/UFUNCTION/UFUNCTION.md",
-    "03 - Unreal/Macro/UPROPERTY/UPROPERTY.md",
-    "_temp_/Reference/UAbilitySystemBlueprintLibrary/UAbilitySystemBlueprintLibrary.md",
-    "_temp_/Reference/AGameStateBase/AGameStateBase.md",
-    "_temp_/Reference/AGameMode/AGameMode.md",
-    "_temp_/Reference/AController/AController.md",
-    "_temp_/Reference/ACharacter/ACharacter.md",
     "03 - Unreal/Enhanced Input System",
     "_temp_/Material.canvas",
     "_temp_/AI.canvas",
     "_temp_/Macro",
     "03 - Unreal/Enhanced Input System",
     "_temp_/GameplayTags",
-    "_temp_/GameplayEffect",
-    "_temp_/GameplayCues",
-    "_temp_/Gameplay Ability System",
-    "_temp_/Gameplay Ability Implementation",
     "_temp_/-Assets-/Screenshot 2025-07-26 171629.png",
     "_temp_/-Assets-/Screenshot 2025-07-26 171303.png",
     "_temp_/-Assets-/Screenshot 2025-07-26 150515.png",
