@@ -11,14 +11,17 @@
             "id": "c158b8494370e8d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CPU to GPU.md",
-                "mode": "preview",
-                "source": false
+                "file": "D311/D311.canvas",
+                "viewState": {
+                  "x": -3371.383034881102,
+                  "y": -327.7432615438455,
+                  "zoom": -1.0891777166468246
+                }
               },
-              "icon": "lucide-file",
-              "title": "CPU to GPU"
+              "icon": "lucide-layout-dashboard",
+              "title": "D311"
             }
           }
         ]
@@ -219,18 +222,18 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "D311/CPU to GPU.md",
     "D311/D311.canvas",
-    "CPU to GPU.md",
     "D311/Rendering Pipeline.md",
     "D311/Draw.md",
     "D311/IDXGISwapChain.md",
     "D311/D3D11CreateDeviceAndSwapChain.md",
     "D311/Index Buffer.md",
-    "CreateBuffer.md",
-    "Set Viewport.md",
-    "Create RenderTargetView.md",
-    "OMSetRenderTargets.md",
-    "Get Back Buffer.md",
+    "D311/CreateBuffer.md",
+    "D311/Set Viewport.md",
+    "D311/Create RenderTargetView.md",
+    "D311/OMSetRenderTargets.md",
+    "D311/Get Back Buffer.md",
     "Perforce.md",
     "D311/CreateInputLayout.md",
     "D311/Initializing Direct3D.md",
