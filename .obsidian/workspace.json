@@ -11,17 +11,14 @@
             "id": "c158b8494370e8d0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "D311/D311.canvas",
-                "viewState": {
-                  "x": -4528.937310850567,
-                  "y": -356.66661550106915,
-                  "zoom": -0.42251104998015804
-                }
+                "file": "Clean up Intermediate Data.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "D311"
+              "icon": "lucide-file",
+              "title": "Clean up Intermediate Data"
             }
           }
         ]
@@ -222,8 +219,9 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "D311/CPU to GPU.md",
     "D311/D311.canvas",
+    "Clean up Intermediate Data.md",
+    "D311/CPU to GPU.md",
     "D311/Rendering Pipeline.md",
     "D311/Draw.md",
     "D311/IDXGISwapChain.md",
@@ -247,7 +245,6 @@
     "D311/Primitive Topology.md",
     "D311/Vertex Buffer.md",
     "03 - Unreal/Meta Sound/Meta Sound.md",
-    "03 - Unreal/Types/Class/AActor/GetActorLocation.md",
     "D311/ID3D11Device",
     "D311/id3d11inputlayout.md~",
     "D311/Initializing Direct3D.md~",
