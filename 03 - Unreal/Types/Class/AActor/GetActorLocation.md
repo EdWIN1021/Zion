@@ -9,7 +9,7 @@ Return Type: "[[FVector]]"
 ```cpp
 FORCEINLINE FVector GetActorLocation() const
 {
-	return TemplateGetActorLocation(ToRawPtr(RootComponent));
+	return TemplateGetActorLocation( ToRawPtr( RootComponent ) );
 }
 ```
 

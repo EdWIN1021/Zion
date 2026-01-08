@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"845fcbc62b2357ac","type":"group","x":-560,"y":-640,"width":720,"height":400,"color":"1","label":"Input Assembler"},
-		{"id":"a6f2e00dc59327b3","type":"group","x":-560,"y":-40,"width":720,"height":360,"color":"2","label":"VertexShader"},
+		{"id":"845fcbc62b2357ac","type":"group","x":-560,"y":-640,"width":720,"height":320,"color":"1","label":"Input Assembler"},
+		{"id":"a6f2e00dc59327b3","type":"group","x":-560,"y":-100,"width":720,"height":320,"color":"2","label":"VertexShader"},
 		{
 			"id":"36e5b7de149adefd",
 			"type":"text",
 			"text":"[[CreateInputLayout]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-340,
+			"x":-360,
 			"y":-540,
 			"width":320,
 			"height":80
