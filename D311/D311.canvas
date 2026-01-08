@@ -1,70 +1,69 @@
 {
 	"nodes":[
-		{"id":"228a5d49f4cd07ab","type":"group","x":-4040,"y":-1239,"width":1200,"height":1620,"color":"4","label":"Initialization "},
+		{"id":"88809e3b2ec678a0","type":"group","x":-2960,"y":-1840,"width":6280,"height":3040,"color":"3","label":"Render Loop"},
+		{"id":"228a5d49f4cd07ab","type":"group","x":-5360,"y":-1239,"width":1200,"height":1620,"color":"4","label":"Initialization "},
+		{"id":"94656c214de79014","type":"group","x":1440,"y":-932,"width":1300,"height":1007,"label":"Hull Shader"},
+		{"id":"0848f49a08af0c56","type":"group","x":-2620,"y":-933,"width":1080,"height":1007,"label":"Resource Manipulation"},
+		{"id":"845fcbc62b2357ac","type":"group","x":-1120,"y":-933,"width":1040,"height":1007,"color":"1","label":"Input Assembler"},
 		{
 			"id":"a6f2e00dc59327b3",
 			"type":"group",
 			"styleAttributes":{
 				"border":null
 			},
-			"x":540,
-			"y":-933,
-			"width":1200,
+			"x":180,
+			"y":-932,
+			"width":920,
 			"height":1007,
 			"color":"6",
-			"label":"VertexShader"
-		},
-		{"id":"0848f49a08af0c56","type":"group","x":-2520,"y":-933,"width":1080,"height":1007,"label":"Resource Manipulation"},
-		{"id":"845fcbc62b2357ac","type":"group","x":-1000,"y":-933,"width":1040,"height":1007,"color":"1","label":"Input Assembler"},
-		{
-			"id":"f253908ac7b7457b",
-			"type":"text",
-			"text":"programmable stages",
-			"styleAttributes":{},
-			"x":-2290,
-			"y":-1437,
-			"width":300,
-			"height":117
+			"label":"Vertex Shader"
 		},
 		{
 			"id":"7e9a520ba7cd2f29",
 			"type":"text",
 			"text":"fixed function stages",
 			"styleAttributes":{},
-			"x":-2290,
-			"y":-1680,
+			"x":-2340,
+			"y":-2360,
 			"width":300,
 			"height":123
 		},
 		{
-			"id":"d5721ef012dd50b2",
+			"id":"f253908ac7b7457b",
 			"type":"text",
-			"text":"[[Draw]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-2420,
-			"y":-116,
-			"width":272,
-			"height":80
+			"text":"programmable stages",
+			"styleAttributes":{},
+			"x":-2340,
+			"y":-2140,
+			"width":300,
+			"height":117
 		},
 		{
 			"id":"cd1fc589537092db",
 			"type":"text",
 			"text":"[[Primitive Topology]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-2137,
+			"x":-2237,
 			"y":-836,
 			"width":267,
 			"height":100
+		},
+		{
+			"id":"f00b6368f55c7219",
+			"type":"text",
+			"text":"[[DrawIndexed]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1958,
+			"y":-116,
+			"width":300,
+			"height":80
 		},
 		{
 			"id":"725bb56ea13bb116",
 			"type":"text",
 			"text":"[[Input Layout]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-2140,
+			"x":-2240,
 			"y":-660,
 			"width":274,
 			"height":80
@@ -74,7 +73,7 @@
 			"type":"text",
 			"text":"[[Vertex Buffer]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-2140,
+			"x":-2240,
 			"y":-480,
 			"width":276,
 			"height":90
@@ -84,27 +83,41 @@
 			"type":"text",
 			"text":"[[Index Buffer]] ?",
 			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-2146,
+			"x":-2246,
 			"y":-320,
 			"width":288,
 			"height":117
 		},
 		{
-			"id":"f00b6368f55c7219",
+			"id":"d5721ef012dd50b2",
 			"type":"text",
-			"text":"[[DrawIndexed]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1858,
+			"text":"[[Draw]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-2520,
 			"y":-116,
-			"width":300,
+			"width":272,
 			"height":80
+		},
+		{
+			"id":"ac409397fb272db5",
+			"type":"text",
+			"text":"CPU to GPU]]\n",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3860,
+			"y":-600,
+			"width":680,
+			"height":324,
+			"color":"2"
 		},
 		{
 			"id":"382d85be3e587dba",
 			"type":"text",
 			"text":"[[ID3D11Device]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-3940,
+			"x":-5260,
 			"y":-1119,
 			"width":280,
 			"height":147
@@ -114,7 +127,7 @@
 			"type":"text",
 			"text":"[[ID3D11DeviceContext]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-3940,
+			"x":-5260,
 			"y":-923,
 			"width":280,
 			"height":168
@@ -124,7 +137,7 @@
 			"type":"text",
 			"text":"[[IDXGISwapChain]]",
 			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-3940,
+			"x":-5260,
 			"y":-709,
 			"width":280,
 			"height":175
@@ -134,7 +147,7 @@
 			"type":"text",
 			"text":"[[D3D11CreateDeviceAndSwapChain]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-3500,
+			"x":-4820,
 			"y":-899,
 			"width":440,
 			"height":120
@@ -144,7 +157,7 @@
 			"type":"text",
 			"text":"[[CreateBuffer]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-3500,
+			"x":-4820,
 			"y":-684,
 			"width":440,
 			"height":105
@@ -154,7 +167,7 @@
 			"type":"text",
 			"text":"[[Get Back Buffer]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-3500,
+			"x":-4820,
 			"y":-465,
 			"width":440,
 			"height":110
@@ -164,7 +177,7 @@
 			"type":"text",
 			"text":"[[Create RenderTargetView]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-3500,
+			"x":-4820,
 			"y":-255,
 			"width":440,
 			"height":120
@@ -174,7 +187,7 @@
 			"type":"text",
 			"text":"[[OMSetRenderTargets]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-3500,
+			"x":-4820,
 			"y":-55,
 			"width":440,
 			"height":120
@@ -184,7 +197,7 @@
 			"type":"text",
 			"text":"[[Set Viewport]]",
 			"styleAttributes":{"textAlign":"center"},
-			"x":-3500,
+			"x":-4820,
 			"y":145,
 			"width":440,
 			"height":120
@@ -235,15 +248,6 @@
 			"fromSide":"bottom",
 			"toNode":"725bb56ea13bb116",
 			"toSide":"top"
-		},
-		{
-			"id":"8dbefad56c26fcd3",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"228a5d49f4cd07ab",
-			"fromSide":"right",
-			"toNode":"0848f49a08af0c56",
-			"toSide":"left"
 		},
 		{
 			"id":"09ffaaf91ff5f9fe",
@@ -334,6 +338,33 @@
 			"fromSide":"bottom",
 			"toNode":"0202eb8ac8947bc5",
 			"toSide":"top"
+		},
+		{
+			"id":"bbc9e3326b280132",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a6f2e00dc59327b3",
+			"fromSide":"right",
+			"toNode":"94656c214de79014",
+			"toSide":"left"
+		},
+		{
+			"id":"a12e2f96100a8b34",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"228a5d49f4cd07ab",
+			"fromSide":"right",
+			"toNode":"ac409397fb272db5",
+			"toSide":"left"
+		},
+		{
+			"id":"55bf752c74e55d46",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ac409397fb272db5",
+			"fromSide":"right",
+			"toNode":"0848f49a08af0c56",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
