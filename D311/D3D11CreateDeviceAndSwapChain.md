@@ -28,6 +28,7 @@ sd.Windowed = TRUE;
 sd.SwapEffect = DXGI_SWAP_EFFECT_FLIP_DISCARD;
 ```
 
+---
 
 
 ```CPP
