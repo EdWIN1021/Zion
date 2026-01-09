@@ -15,9 +15,9 @@
               "state": {
                 "file": "D311/D311.canvas",
                 "viewState": {
-                  "x": -4125.368669841269,
-                  "y": 50.98932934113368,
-                  "zoom": -0.9999999999999998
+                  "x": -4402.260354190618,
+                  "y": -680.2037957599262,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -217,7 +217,6 @@
       "graph:Open graph view": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
-      "audio-recorder:Start/stop recording": false,
       "obsidian-git:Open Git source control": false
     }
   },
