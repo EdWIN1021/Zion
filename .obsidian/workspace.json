@@ -11,17 +11,14 @@
             "id": "c158b8494370e8d0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "D311/D311.canvas",
-                "viewState": {
-                  "x": -4402.260354190618,
-                  "y": -680.2037957599262,
-                  "zoom": -1.3333333333333333
-                }
+                "file": "D311/OMSetRenderTargets.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "D311"
+              "icon": "lucide-file",
+              "title": "OMSetRenderTargets"
             }
           }
         ]
@@ -222,18 +219,18 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "ClearScreen.md",
     "D311/D311.canvas",
+    "Bind Shaders.md",
+    "D311/Compile & Create Shaders.md",
+    "ClearScreen.md",
     "D311/CPU to GPU.md",
     "D311/Create RenderTargetView.md",
     "D311/IASetInputLayout.md",
-    "Bind Shaders.md",
     "D311/IASetPrimitiveTopology.md",
     "D311/IASetVertexBuffers.md",
     "D311/Define Input Layout.md",
     "D311/CreateBuffer.md",
     "D311/Clean up Intermediate Data.md",
-    "D311/Compile & Create Shaders.md",
     "D311/Rendering Pipeline.md",
     "D311/Draw.md",
     "D311/IDXGISwapChain.md",
