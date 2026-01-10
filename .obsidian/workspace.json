@@ -216,10 +216,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.UE.ContainerLibrary.TArray.IsEmpty.md",
+    "_temp_/Unreal/Niagara System/Niagara System.md",
     "01 - Snippet/Snippet.UE.ContainerLibrary.TArray.Contains (ContainsItem).md",
+    "01 - Snippet/Snippet.UE.ContainerLibrary.TArray.IsEmpty.md",
     "_temp_/Reference/UImage/UImage.md",
     "_temp_/Reference/AAIController/AAIController.md",
     "_temp_/Reference/UGameplayStatics/UButton/SetIsEnabled.md",
@@ -243,7 +244,6 @@
     "_temp_/Math & Physics/Vec2/GetNormalized.md",
     "_temp_/Math & Physics/OBB2/IsPointInsideOBB2D.md",
     "_temp_/Math & Physics/OBB2/OBB2.md",
-    "_temp_/Math & Physics/OBB2/GetNearestPointOnOBB2.md",
     "dailies",
     "98 - Cheatsheet",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
