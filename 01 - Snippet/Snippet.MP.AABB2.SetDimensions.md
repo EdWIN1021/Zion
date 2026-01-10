@@ -1,6 +1,3 @@
-
-- Center 
-
 ```cpp
 void AABB2::SetDimensions( Vec2 const& newDimensions )
 {
