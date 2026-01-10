@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.MP.AABB2.SetDimensions.md",
+                "file": "00 - Concept/Concept.MP.CrossProduct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.MP.AABB2.SetDimensions"
+              "title": "Concept.MP.CrossProduct"
             }
           }
         ]
@@ -219,10 +219,15 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.CPP.Keywords.typedef.md",
     "01 - Snippet/Snippet.MP.AABB2.SetDimensions.md",
-    "00 - Concept/Concept.MP.AABB2.GetNearestPoint.md",
+    "01 - Snippet/Snippet.MP.MathUtils.DotProduct.md",
+    "01 - Snippet/Snippet.UE.ContainerLibrary.TArray.IsEmpty.md",
+    "_temp_/Math & Physics/Disc/IsPointInsideDisc2D.md",
+    "_temp_/Math & Physics/Disc/PushDiscOutOfFixedPoint2D.md",
+    "_temp_/Math & Physics/Disc/GetNearestPointOnDisc2D.md",
     "_temp_/Math & Physics/AABB2/IsPointInsideAABB2D.md",
+    "01 - Snippet/Snippet.CPP.Keywords.typedef.md",
+    "00 - Concept/Concept.MP.AABB2.GetNearestPoint.md",
     "00 - Concept/Concept.MP.AABB2.IsPointInside.md",
     "00 - Concept/Concept.MP.CrossProduct.md",
     "00 - Concept/Concept.MP.AABB2.md",
@@ -240,11 +245,6 @@
     "_temp_/C++/Type/Type.md",
     "_temp_/C++/Variables/char.md",
     "_temp_/C++/Variables/double.md",
-    "00 - Concept/Concept.UE.MetaSound.md",
-    "00 - Concept/Concept.UE.MetaSound.SoundAttenuation.md",
-    "00 - Concept/Concept.UE.MetaSound.Stereo.md",
-    "00 - Concept/Concept.UE.MetaSound.Mono.md",
-    "_temp_/Temp.md",
     "98 - Cheatsheet",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
     "99 - Assets/Screenshot 2025-07-26 171629.png",
