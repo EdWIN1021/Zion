@@ -1,4 +1,4 @@
 
 ```cpp
-UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent), Blueprintable)
+UCLASS( ClassGroup = ( Custom ), meta=( BlueprintSpawnableComponent ), Blueprintable )
 ```

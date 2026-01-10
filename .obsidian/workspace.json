@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.D3D11.BindShaders.md",
+                "file": "_temp_/UClass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.D3D11.BindShaders"
+              "title": "UClass"
             }
           }
         ]
@@ -219,10 +219,12 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "_temp_/UENUM.md",
+    "_temp_/Weapon Trail.md",
+    "01 - Snippet/Snippet.D3D11.BindShaders.md",
     "01 - Snippet/Snippet.CPP.keywords.using.md",
     "01 - Snippet/Snippet.CPP.keywords.typedef.md",
     "_temp_/C++/Pointer/Pointer.md",
-    "01 - Snippet/Snippet.D3D11.BindShaders.md",
     "00 - Concept/Concept.CPP.keywords.auto.md",
     "_temp_/UButton/SetIsEnabled.md",
     "_temp_/UButton/UButton.md",
@@ -244,10 +246,8 @@
     "00 - Concept/Concept.UE.Multiplayer.Ownership.md",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
     "01 - Snippet/Snippet.D3D11.VertexShader.md",
-    "Templates/Function.md",
     "99 - Assets/Screenshot 2025-07-26 171629.png",
     "99 - Assets/Screenshot 2025-06-18 202621.png",
-    "_temp_/UClass.md",
     "dailies",
     "Base.base",
     "01 - Snippet",
