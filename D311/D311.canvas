@@ -129,7 +129,7 @@
 		{
 			"id":"d0cda8bacb54d928",
 			"type":"text",
-			"text":"[[Bind Shaders]]",
+			"text":"[[Concept.D3D11.BindShaders]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-2694,
 			"y":-861,
@@ -192,7 +192,7 @@
 		{
 			"id":"a132e3b494ab218a",
 			"type":"text",
-			"text":"[[Index Buffer]] ?",
+			"text":"[[Concept.D3D11.Index Buffer]] ?",
 			"styleAttributes":{"textAlign":"center","shape":"diamond"},
 			"x":-2706,
 			"y":-212,
