@@ -1,5 +1,5 @@
 [[Concept.D3D11.Input Layout]]
-[[Snippet.D3D11.Vertex Shader]]
+[[Snippet.D3D11.VertexShader]]
 
 ```CPP
 D3D11_INPUT_ELEMENT_DESC layout [] = {

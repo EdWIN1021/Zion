@@ -1,0 +1,1 @@
+Index buffers significantly optimize memory usage and boost rendering performance by storing indices of vertices instead of redundant vertex data.
