@@ -1,5 +1,5 @@
 ---
-id: vertex-shader
+id:
 aliases: []
 tags: []
 ---
@@ -11,7 +11,7 @@ float4 main( float2 pos : Position ) : SV_Position
 }
 ```
 
-
+---
 
 ```cpp
 ID3DBlob* vsByteCode = null;

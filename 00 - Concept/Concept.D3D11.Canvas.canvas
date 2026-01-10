@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"id":"88809e3b2ec678a0","type":"group","x":-4600,"y":-1162,"width":11720,"height":1722,"color":"3","label":"Render Loop"},
-		{"id":"228a5d49f4cd07ab","type":"group","x":-7080,"y":-1130,"width":2200,"height":1658,"color":"4","label":"Initialization "},
 		{"id":"0848f49a08af0c56","type":"group","x":-3100,"y":-921,"width":1100,"height":1102,"label":"Resource Manipulation"},
 		{"id":"845fcbc62b2357ac","type":"group","x":-1740,"y":-741,"width":1000,"height":743,"color":"1","label":"Input Assembler"},
+		{"id":"228a5d49f4cd07ab","type":"group","x":-7080,"y":-1130,"width":2200,"height":1658,"color":"4","label":"Initialization "},
 		{
 			"id":"a6f2e00dc59327b3",
 			"type":"group",
@@ -79,7 +79,7 @@
 		{
 			"id":"35b65c8c2bbfebfa",
 			"type":"text",
-			"text":"[[Define Input Layout]]",
+			"text":"[[Snippet.D3D11.CreateInputLayout]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-5640,
 			"y":-395,
@@ -117,56 +117,6 @@
 			"height":123
 		},
 		{
-			"id":"cd1fc589537092db",
-			"type":"text",
-			"text":"[[IASetPrimitiveTopology]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2695,
-			"y":-701,
-			"width":267,
-			"height":102
-		},
-		{
-			"id":"d0cda8bacb54d928",
-			"type":"text",
-			"text":"[[Snippet.D3D11.BindShaders]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2694,
-			"y":-861,
-			"width":265,
-			"height":100
-		},
-		{
-			"id":"54d5c7eac21cd3d2",
-			"type":"text",
-			"text":"[[IASetVertexBuffers]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2700,
-			"y":-373,
-			"width":276,
-			"height":90
-		},
-		{
-			"id":"725bb56ea13bb116",
-			"type":"text",
-			"text":"[[IASetInputLayout]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2697,
-			"y":-538,
-			"width":271,
-			"height":82
-		},
-		{
-			"id":"f00b6368f55c7219",
-			"type":"text",
-			"text":"[[DrawIndexed]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2426,
-			"y":-9,
-			"width":300,
-			"height":80
-		},
-		{
 			"id":"3de0e82348455e1e",
 			"type":"text",
 			"text":"[[ClearScreen]]",
@@ -175,29 +125,6 @@
 			"y":-444,
 			"width":400,
 			"height":140
-		},
-		{
-			"id":"d5721ef012dd50b2",
-			"type":"text",
-			"text":"[[Draw]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-2980,
-			"y":-9,
-			"width":272,
-			"height":80
-		},
-		{
-			"id":"a132e3b494ab218a",
-			"type":"text",
-			"text":"[[Concept.D3D11.Index Buffer]] ?",
-			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-2706,
-			"y":-212,
-			"width":288,
-			"height":117
 		},
 		{
 			"id":"ac409397fb272db5",
@@ -269,6 +196,79 @@
 			"y":-420,
 			"width":440,
 			"height":99
+		},
+		{
+			"id":"cd1fc589537092db",
+			"type":"text",
+			"text":"[[IASetPrimitiveTopology]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2695,
+			"y":-701,
+			"width":267,
+			"height":102
+		},
+		{
+			"id":"54d5c7eac21cd3d2",
+			"type":"text",
+			"text":"[[IASetVertexBuffers]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2700,
+			"y":-373,
+			"width":276,
+			"height":90
+		},
+		{
+			"id":"725bb56ea13bb116",
+			"type":"text",
+			"text":"[[IASetInputLayout]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2697,
+			"y":-538,
+			"width":271,
+			"height":82
+		},
+		{
+			"id":"f00b6368f55c7219",
+			"type":"text",
+			"text":"[[DrawIndexed]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2426,
+			"y":-9,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"d5721ef012dd50b2",
+			"type":"text",
+			"text":"[[Draw]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-2980,
+			"y":-9,
+			"width":272,
+			"height":80
+		},
+		{
+			"id":"a132e3b494ab218a",
+			"type":"text",
+			"text":"[[Concept.D3D11.Index Buffer]] ?",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":-2706,
+			"y":-212,
+			"width":288,
+			"height":117
+		},
+		{
+			"id":"d0cda8bacb54d928",
+			"type":"text",
+			"text":"[[Snippet.D3D11.BindShaders]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2729,
+			"y":-860,
+			"width":334,
+			"height":81
 		}
 	],
 	"edges":[
