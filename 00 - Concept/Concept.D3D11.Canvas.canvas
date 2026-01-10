@@ -253,7 +253,7 @@
 		{
 			"id":"a132e3b494ab218a",
 			"type":"text",
-			"text":"[[Concept.D3D11.Index Buffer]] ?",
+			"text":"[[Concept.D3D11.IndexBuffer]] ?",
 			"styleAttributes":{"textAlign":"center","shape":"diamond"},
 			"x":-2706,
 			"y":-212,

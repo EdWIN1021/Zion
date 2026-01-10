@@ -1,4 +1,4 @@
-[[Concept.D3D11.Input Layout]]
+[[Concept.D3D11.InputLayout]]
 [[Snippet.D3D11.VertexShader]]
 
 ```CPP
