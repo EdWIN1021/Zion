@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_temp_/C++/Type/Type.md",
+                "file": "01 - Snippet/Snippet.CPP.Struct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type"
+              "title": "Snippet.CPP.Struct"
             }
           }
         ]
@@ -219,13 +219,15 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.CPP.keywords.typedef.md",
+    "01 - Snippet/Snippet.CPP.Struct.md",
+    "_temp_/C++/Type/Type.md",
     "_temp_/C++/Variables/char.md",
     "_temp_/C++/Variables/double.md",
     "_temp_/C++/vector/vector.md",
     "_temp_/C++/c_str.md",
     "00 - Concept/Concept.CPP.Friends.md",
     "00 - Concept/Concept.CPP.Class.md",
-    "01 - Snippet/Snippet.CPP.keywords.typedef.md",
     "_temp_/UBlueprintAsyncActionBase.md",
     "_temp_/C++/Lambda Expressions.md",
     "_temp_/C++/reinterpret_cast.md",
@@ -243,8 +245,6 @@
     "_temp_/Unreal/Container Library/TArray/Contains (ContainsItem).md",
     "_temp_/Unreal/Container Library/TArray/TArray.md",
     "_temp_/Send Gameplay Event To Owner.md",
-    "_temp_/SetFocus.md",
-    "_temp_/ReceiveExecuteAI.md",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
     "99 - Assets/Screenshot 2025-07-26 171629.png",
     "99 - Assets/Screenshot 2025-06-18 202621.png",
