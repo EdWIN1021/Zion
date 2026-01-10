@@ -59,7 +59,7 @@
 		{
 			"id":"13336ecc50f70f75",
 			"type":"text",
-			"text":"[[CreateBuffer]]",
+			"text":"[[Snippet.D3D11.CreateBuffer]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-6440,
 			"y":-560,
