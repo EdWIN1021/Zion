@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/USceneComponent 1/USceneComponent]]"
+Class: "[[USceneComponent 1]]"
 Category: Function
 Description: Get world-space socket or bone location
 Return Type: "[[Snippet.UE.Struct.FVector]]"

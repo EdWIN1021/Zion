@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/USceneComponent 1/USceneComponent]]"
+Class: "[[USceneComponent 1]]"
 Category: Function
 Description:
 Return Type:

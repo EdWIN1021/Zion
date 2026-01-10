@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/UKismetMathLibrary 1/UKismetMathLibrary]]"
+Class: "[[UKismetMathLibrary 1]]"
 Category: Function
 Description:
 Return Type:

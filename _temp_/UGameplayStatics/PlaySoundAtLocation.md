@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/UGameplayStatics 1/UGameplayStatics]]"
+Class: "[[UGameplayStatics 1]]"
 Category: Function
 Description:
 Return Type:
