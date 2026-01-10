@@ -11,12 +11,14 @@
             "id": "c158b8494370e8d0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99 - Assets/Screenshot 2025-07-26 171629.png"
+                "file": "00 - Concept/Concept.CPP.keywords.decltype.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-07-26 171629"
+              "icon": "lucide-file",
+              "title": "Concept.CPP.keywords.decltype"
             }
           }
         ]
@@ -215,8 +217,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "00 - Concept/Concept.D3D11.Index Buffer.md",
+    "00 - Concept/Concept.D3D11.Input Layout.md",
+    "00 - Concept/Concept.UE.Multiplayer.Replication.Variable.md",
+    "00 - Concept/Concept.UE.Multiplayer.Ownership.md",
+    "00 - Concept/Concept.D3D11.Canvas.canvas",
+    "01 - Snippet/Snippet.D3D11.BindShaders.md",
+    "01 - Snippet/Snippet.D3D11.VertexShader.md",
+    "Templates/Function.md",
+    "99 - Assets/Screenshot 2025-07-26 171629.png",
     "99 - Assets/Screenshot 2025-06-18 202621.png",
     "_temp_/UClass.md",
     "_temp_/UENUM.md",
@@ -231,19 +242,12 @@
     "00 - Concept/Concept.UE.AI.PerceptionSystem.md",
     "00 - Concept/Concept.UE.Multiplayer.NetworkMode.md",
     "00 - Concept/Concept.UE.Multiplayer.NetworkRole.md",
-    "00 - Concept/Concept.UE.Multiplayer.Ownership.md",
-    "00 - Concept/Concept.D3D11.Index Buffer.md",
-    "00 - Concept/Concept.D3D11.Canvas.canvas",
-    "01 - Snippet/Snippet.D3D11.BindShaders.md",
     "01 - Snippet/Snippet.D3D11.CreateInputLayout.md",
-    "01 - Snippet/Snippet.D3D11.VertexShader.md",
-    "00 - Concept/Concept.D3D11.Input Layout.md",
     "_temp_/D311/ID3D11InputLayout.md",
     "_temp_/D311/Rendering Pipeline.md",
     "_temp_/D311/IASetInputLayout.md",
     "_temp_/D311/Get Back Buffer.md",
     "_temp_/D311/DrawIndexed.md",
-    "_temp_/D311/Draw.md",
     "dailies",
     "Base.base",
     "01 - Snippet",
@@ -262,11 +266,9 @@
     "Untitled.canvas",
     "_temp_/Material.canvas",
     "_temp_/AI.canvas",
-    "99 - Assets/Screenshot 2025-07-26 171629.png",
     "99 - Assets/Screenshot 2025-07-26 171303.png",
     "99 - Assets/Screenshot 2025-07-26 150515.png",
     "99 - Assets/Screenshot 2025-06-27 195529.png",
-    "99 - Assets/Screenshot 2025-06-24 210608.png",
     "03 - Unreal/Ownership.canvas",
     "Item.canvas",
     "Grammar.canvas",
