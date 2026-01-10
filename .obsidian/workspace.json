@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_temp_/UClass.md",
+                "file": "00 - Concept/Concept.CPP.Friends.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UClass"
+              "title": "Concept.CPP.Friends"
             }
           }
         ]
@@ -219,11 +219,17 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "00 - Concept/Concept.CPP.Class.md",
+    "00 - Concept/Concept.CPP.Friends.md",
+    "01 - Snippet/Snippet.CPP.keywords.typedef.md",
+    "_temp_/UBlueprintAsyncActionBase.md",
+    "_temp_/C++/Lambda Expressions.md",
+    "_temp_/C++/reinterpret_cast.md",
+    "_temp_/UClass.md",
     "_temp_/UENUM.md",
     "_temp_/Weapon Trail.md",
     "01 - Snippet/Snippet.D3D11.BindShaders.md",
     "01 - Snippet/Snippet.CPP.keywords.using.md",
-    "01 - Snippet/Snippet.CPP.keywords.typedef.md",
     "_temp_/C++/Pointer/Pointer.md",
     "00 - Concept/Concept.CPP.keywords.auto.md",
     "_temp_/UButton/SetIsEnabled.md",
@@ -239,13 +245,7 @@
     "_temp_/Overlap Event.md",
     "_temp_/Motion Warpping.md",
     "_temp_/Material.md",
-    "00 - Concept/Concept.CPP.keywords.decltype.md",
-    "00 - Concept/Concept.D3D11.Index Buffer.md",
-    "00 - Concept/Concept.D3D11.Input Layout.md",
-    "00 - Concept/Concept.UE.Multiplayer.Replication.Variable.md",
-    "00 - Concept/Concept.UE.Multiplayer.Ownership.md",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
-    "01 - Snippet/Snippet.D3D11.VertexShader.md",
     "99 - Assets/Screenshot 2025-07-26 171629.png",
     "99 - Assets/Screenshot 2025-06-18 202621.png",
     "dailies",
