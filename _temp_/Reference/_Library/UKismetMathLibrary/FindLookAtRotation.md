@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/Unreal/Types/Class/_Library/UKismetMathLibrary/UKismetMathLibrary]]"
+Class: "[[_temp_/Reference/_Library/UKismetMathLibrary/UKismetMathLibrary]]"
 Category: Function
 Description:
 Return Type:

@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/Unreal/Types/Class/USceneComponent/USceneComponent]]"
+Class: "[[_temp_/Reference/USceneComponent 1/USceneComponent]]"
 Category: Function
 Description:
 Return Type:

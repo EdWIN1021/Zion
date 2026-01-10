@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/Unreal/Types/Class/UGameplayStatics/UGameplayStatics]]"
+Class: "[[_temp_/Reference/UGameplayStatics 1/UGameplayStatics]]"
 Category: Function
 Description:
 Return Type:

@@ -7,7 +7,7 @@ Used to **define UI elements** (buttons, panels, progress bars, HUD, etc.).
 
 ![[Screenshot 2025-12-16 181555.png | center]]
 - Overlay
-- [[_temp_/Unreal/Types/Class/UI/UButton]]
+- [[_temp_/Reference/UI/UButton]]
 - Text
 - TextBox
 	- Hint Text
