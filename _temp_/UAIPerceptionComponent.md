@@ -1,5 +1,5 @@
 ---
-Class: "[[_temp_/Reference/UActorComponent/UActorComponent]]"
+Class: "[[_temp_/UActorComponent/UActorComponent]]"
 ---
 ### Dominant Sense (主导感知)
 - AISense_Hearing
