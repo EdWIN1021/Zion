@@ -11,14 +11,12 @@
             "id": "c158b8494370e8d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "00 - Concept/Concept.D3D11.Index Buffer.md",
-                "mode": "source",
-                "source": false
+                "file": "99 - Assets/Screenshot 2025-07-26 171629.png"
               },
-              "icon": "lucide-file",
-              "title": "Concept.D3D11.Index Buffer"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-07-26 171629"
             }
           }
         ]
@@ -217,8 +215,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
+    "99 - Assets/Screenshot 2025-06-18 202621.png",
+    "_temp_/UClass.md",
+    "_temp_/UENUM.md",
+    "_temp_/UBTTask_BlueprintBase.md",
+    "_temp_/TSoftClassPtr.md",
+    "_temp_/GameplayTags/GameplayTags.md",
+    "_temp_/Animation/Animation Blueprint.md",
+    "_temp_/Animation Blueprint Template/Animation Blueprint Template.md",
+    "00 - Concept/Concept.MP.AABB2.GetNearestPoint.md",
+    "00 - Concept/Concept.MP.AABB2.IsPointInside.md",
+    "00 - Concept/Concept.MP.AABB2.GetDimensions.md",
+    "00 - Concept/Concept.UE.AI.PerceptionSystem.md",
+    "00 - Concept/Concept.UE.Multiplayer.NetworkMode.md",
+    "00 - Concept/Concept.UE.Multiplayer.NetworkRole.md",
+    "00 - Concept/Concept.UE.Multiplayer.Ownership.md",
+    "00 - Concept/Concept.D3D11.Index Buffer.md",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
     "01 - Snippet/Snippet.D3D11.BindShaders.md",
     "01 - Snippet/Snippet.D3D11.CreateInputLayout.md",
@@ -230,21 +244,6 @@
     "_temp_/D311/Get Back Buffer.md",
     "_temp_/D311/DrawIndexed.md",
     "_temp_/D311/Draw.md",
-    "_temp_/D311/D3D11CreateDeviceAndSwapChain.md",
-    "_temp_/D311/Create RenderTargetView.md",
-    "_temp_/D311/CreateInputLayout.md",
-    "_temp_/D311/CPU to GPU.md",
-    "_temp_/D311/ClearScreen.md",
-    "_temp_/D311/Clean up Intermediate Data.md",
-    "_temp_/D311/Compile & Create Shaders.md",
-    "_temp_/D311/ID3D11Device.md",
-    "_temp_/D311/ID3D11DeviceContext.md",
-    "_temp_/D311/IDXGISwapChain.md",
-    "_temp_/D311/OMSetRenderTargets.md",
-    "_temp_/D311/Set Viewport.md",
-    "_temp_/D311/IASetVertexBuffers.md",
-    "00 - Concept/Concept.D3D11.Index Buffer.md",
-    "00 - Concept/Concept.UE.ProjectSettings.Packaging.md",
     "dailies",
     "Base.base",
     "01 - Snippet",
@@ -263,11 +262,11 @@
     "Untitled.canvas",
     "_temp_/Material.canvas",
     "_temp_/AI.canvas",
-    "_temp_/-Assets-/Screenshot 2025-07-26 171629.png",
-    "_temp_/-Assets-/Screenshot 2025-07-26 171303.png",
-    "_temp_/-Assets-/Screenshot 2025-07-26 150515.png",
-    "_temp_/-Assets-/Screenshot 2025-06-27 195529.png",
-    "_temp_/-Assets-/Screenshot 2025-06-24 210608.png",
+    "99 - Assets/Screenshot 2025-07-26 171629.png",
+    "99 - Assets/Screenshot 2025-07-26 171303.png",
+    "99 - Assets/Screenshot 2025-07-26 150515.png",
+    "99 - Assets/Screenshot 2025-06-27 195529.png",
+    "99 - Assets/Screenshot 2025-06-24 210608.png",
     "03 - Unreal/Ownership.canvas",
     "Item.canvas",
     "Grammar.canvas",
