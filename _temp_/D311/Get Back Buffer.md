@@ -1,4 +1,3 @@
-
 > Retrieve the Back Buffer texture from the Swap Chain
 
 ```CPP
