@@ -1,5 +1,0 @@
----
-Category: Class
-Hierarchy:
-  - "[[UObject]]"
----

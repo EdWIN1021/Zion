@@ -1,7 +1,7 @@
 ---
 Category: Class
 Hierarchy:
-  - "[[UObject]]"
+  - "[[_temp_/Reference/UObject/UObject]]"
 ---
 - An Actor class refers to any entity that can be placed within a level, whether it's a camera, a static mesh, or the player's character.
 - An actor can undergo transformation such as translation, rotation, and scaling.

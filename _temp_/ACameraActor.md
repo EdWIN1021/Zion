@@ -1,5 +1,5 @@
 ---
 Hierarchy:
-  - "[[AActor]]"
+  - "[[_temp_/Reference/AActor/AActor]]"
 Category: Class
 ---

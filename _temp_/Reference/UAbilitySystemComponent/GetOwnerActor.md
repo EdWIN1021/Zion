@@ -1,1 +1,1 @@
-`OwnerActor`是控制者，比如 [[APlayerController]] 或 [[AAIController]]
+`OwnerActor`是控制者，比如 [[_temp_/Reference/APlayerController/APlayerController]] 或 [[AAIController]]

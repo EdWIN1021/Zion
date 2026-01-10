@@ -4,5 +4,11 @@ D3D11_INPUT_ELEMENT_DESC layout [] = {
 	{ "COLOR",    0, DXGI_FORMAT_R8G8B8A8_UNORM,  0, 12, D3D11_INPUT_PER_VERTEX_DATA, 0 }
 };
 
-m_device->CreateInputLayout( layout, 2, vsByteCode->GetBufferPointer(), vsByteCode->GetBufferSize(), &m_inputLayout );
+m_device->CreateInputLayout( 
+	layout, 
+	2, 
+	vsByteCode->GetBufferPointer(),
+	vsByteCode->GetBufferSize(), 
+	&m_inputLayout 
+);
 ```
