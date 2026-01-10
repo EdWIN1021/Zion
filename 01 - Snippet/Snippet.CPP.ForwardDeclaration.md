@@ -1,13 +1,7 @@
-
-
-
-
-
-
+ 
 ```cpp
 class UCapsuleComponent;
 ```
-
 
 ## Inline Forward Declaration
 

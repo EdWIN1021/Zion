@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Concept/Concept.UE.MetaSound.SoundAttenuation.md",
+                "file": "01 - Snippet/Snippet.CPP.ForwardDeclaration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept.UE.MetaSound.SoundAttenuation"
+              "title": "Snippet.CPP.ForwardDeclaration"
             }
           }
         ]
@@ -219,8 +219,16 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "00 - Concept/Concept.UE.MetaSound.Mono.md",
+    "01 - Snippet/Snippet.CPP.Keywords.typedef.md",
+    "01 - Snippet/Snippet.CPP.ForwardDeclaration.md",
+    "_temp_/C++/c_str.md",
+    "_temp_/C++/Type/Type.md",
+    "_temp_/C++/Variables/char.md",
+    "_temp_/C++/Variables/double.md",
+    "00 - Concept/Concept.UE.MetaSound.md",
     "00 - Concept/Concept.UE.MetaSound.SoundAttenuation.md",
+    "00 - Concept/Concept.UE.MetaSound.Stereo.md",
+    "00 - Concept/Concept.UE.MetaSound.Mono.md",
     "_temp_/Temp.md",
     "_temp_/SetFocus.md",
     "_temp_/Send Gameplay Event To Owner.md",
@@ -234,17 +242,9 @@
     "_temp_/D311/Compile & Create Shaders.md",
     "_temp_/C++/reinterpret_cast.md",
     "_temp_/C++/Lambda Expressions.md",
-    "_temp_/C++/Forward Declaration.md",
     "_temp_/C++/Enum Class.md",
-    "_temp_/C++/c_str.md",
     "_temp_/C++/A reference to a pointer.md",
     "_temp_/C++/vector/vector.md",
-    "_temp_/C++/Variables/double.md",
-    "_temp_/C++/Variables/char.md",
-    "_temp_/C++/Type/Type.md",
-    "_temp_/C++/Pointer/Pointer.md",
-    "_temp_/D311/Clean up Intermediate Data.md",
-    "_temp_/D311/ID3D11Device.md",
     "98 - Cheatsheet",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
     "99 - Assets/Screenshot 2025-07-26 171629.png",
