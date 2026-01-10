@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.UE.ContainerLibrary.TArray.IsEmpty.md",
+                "file": "01 - Snippet/Snippet.CPP.keywords.typedef.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.UE.ContainerLibrary.TArray.IsEmpty"
+              "title": "Snippet.CPP.keywords.typedef"
             }
           }
         ]
@@ -217,11 +217,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "_temp_/Unreal/Container Library/TArray/Contains (ContainsItem).md",
-    "01 - Snippet/Snippet.UE.ContainerLibrary.TArray.IsEmpty.md",
     "01 - Snippet/Snippet.D3D11.BindShaders.md",
+    "01 - Snippet/Snippet.CPP.keywords.typedef.md",
+    "00 - Concept/Concept.CPP.keywords.auto.md",
+    "_temp_/UButton/SetIsEnabled.md",
+    "_temp_/UButton/UButton.md",
+    "_temp_/UImage/UImage.md",
+    "01 - Snippet/Snippet.UE.ContainerLibrary.TArray.IsEmpty.md",
+    "_temp_/Unreal/Container Library/TArray/Contains (ContainsItem).md",
     "_temp_/Unreal/Container Library/TArray/TArray.md",
     "_temp_/Send Gameplay Event To Owner.md",
     "_temp_/SetFocus.md",
@@ -243,11 +248,6 @@
     "_temp_/UClass.md",
     "_temp_/UENUM.md",
     "_temp_/UBTTask_BlueprintBase.md",
-    "_temp_/TSoftClassPtr.md",
-    "_temp_/GameplayTags/GameplayTags.md",
-    "_temp_/Animation/Animation Blueprint.md",
-    "_temp_/Animation Blueprint Template/Animation Blueprint Template.md",
-    "00 - Concept/Concept.MP.AABB2.GetNearestPoint.md",
     "dailies",
     "Base.base",
     "01 - Snippet",
