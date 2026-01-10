@@ -129,7 +129,7 @@
 		{
 			"id":"d0cda8bacb54d928",
 			"type":"text",
-			"text":"[[Concept.D3D11.BindShaders]]",
+			"text":"[[Snippet.D3D11.BindShaders]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-2694,
 			"y":-861,
