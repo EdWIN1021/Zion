@@ -1,4 +1,3 @@
-
 - Area of parallelogram
 - The result is a new vector perpendicular to both $\vec{A}$  and $\vec{B}$ (Right Hand Rule)
 
