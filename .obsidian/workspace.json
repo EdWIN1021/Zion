@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.Keywords.using.md",
+                "file": "01 - Snippet/Snippet.CPP.Struct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.Keywords.using"
+              "title": "Snippet.CPP.Struct"
             }
           }
         ]
@@ -219,6 +219,7 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.CPP.Keywords.using.md",
     "01 - Snippet/Snippet.CPP.Keywords.typedef.md",
     "01 - Snippet/Snippet.CPP.Struct.md",
     "_temp_/C++/Type/Type.md",
@@ -235,7 +236,6 @@
     "_temp_/UENUM.md",
     "_temp_/Weapon Trail.md",
     "01 - Snippet/Snippet.D3D11.BindShaders.md",
-    "01 - Snippet/Snippet.CPP.Keywords.using.md",
     "_temp_/C++/Pointer/Pointer.md",
     "00 - Concept/Concept.CPP.keywords.auto.md",
     "_temp_/UButton/SetIsEnabled.md",
