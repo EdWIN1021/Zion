@@ -25,17 +25,14 @@
             "id": "df8ee00ac34fc89f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00 - Concept/Concept.D3D11.Canvas.canvas",
-                "viewState": {
-                  "x": 20,
-                  "y": -900,
-                  "zoom": -3.6410879860967236
-                }
+                "file": "00 - Concept/Concept.UE.ProjectSettings.Packaging.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Concept.D3D11.Canvas"
+              "icon": "lucide-file",
+              "title": "Concept.UE.ProjectSettings.Packaging"
             }
           }
         ],
@@ -51,7 +48,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 83.39510748702743,
+        "dimension": 79.8369162342476,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -81,7 +78,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 16.604892512972572,
+        "dimension": 20.16308376575241,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -234,11 +231,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df8ee00ac34fc89f",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
+    "00 - Concept/Concept.UE.Multiplayer.Replication.Variable.md",
+    "00 - Concept/Concept.UE.Multiplayer.Replication.RPC.Client.md",
+    "dailies",
+    "00 - Concept/Concept.D3D11.Canvas.canvas",
+    "00 - Concept/Concept.CPP.keywords.decltype.md",
     "00 - Concept/Concept.D3D11.Index Buffer.md",
     "00 - Concept/Concept.D3D11.Vertex Shader.md",
-    "00 - Concept/Concept.D3D11.Canvas.canvas",
     "00 - Concept/Concept.UE.ProjectSettings.Packaging.md",
     "Base.base",
     "_temp_/UButton/UButton.md",
@@ -261,9 +262,6 @@
     "_temp_/AI/Smart Object.md",
     "_temp_/AI/Patrolling.md",
     "_temp_/AI/Mass Entity.md",
-    "_temp_/AI/Environment Query System.md",
-    "_temp_/AI/Decorator (BTDecorator_BlueprintBase).md",
-    "00 - Concept/Concept.UE.Multiplayer.Replication.Actor.md",
     "01 - Snippet",
     "99 - Assets/GetDimensions.png",
     "Untitled 2",
@@ -273,7 +271,6 @@
     "D311/id3d11inputlayout.md~",
     "D311/Initializing Direct3D.md~",
     "D311/vertex-shader.md~",
-    "D311/Rendering Pipeline.md~",
     "99 - Assets/Screenshot 2026-01-01 132719.png",
     "_temp_/Screenshot 2026-01-01 132719.png",
     "99 - Assets/Screenshot 2025-12-29 125648.png",
