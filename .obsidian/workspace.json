@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_temp_/UI/UUserWidget.md",
+                "file": "_temp_/AGameMode/AGameMode 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UUserWidget"
+              "title": "AGameMode 1"
             }
           }
         ]
@@ -216,8 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "_temp_/AGameMode/AGameMode.md",
+    "_temp_/AGameMode/AGameMode 1.md",
+    "_temp_/AGameModeBase/InitGame.md",
+    "_temp_/AGameModeBase/bUseSeamlessTravel.md",
+    "_temp_/AGameModeBase/AGameModeBase.md",
+    "_temp_/AGameState/AGameState.md",
+    "_temp_/UGameInstanceSubsystem/UGameInstanceSubsystem.md",
+    "_temp_/UI/UUserWidget.md",
     "_temp_/UI/UTextBlock.md",
     "_temp_/UI/UButton.md",
     "_temp_/USceneComponent/USceneComponent.md",
@@ -236,14 +244,6 @@
     "_temp_/SetFocus.md",
     "_temp_/Send Gameplay Event To Owner.md",
     "00 - Concept/Concept.UE.CustomEvent.md",
-    "00 - Concept/Concept.UE.Plugins.md",
-    "_temp_/Custom Trace Channel.md",
-    "_temp_/AsyncLoad.md",
-    "_temp_/ACameraActor.md",
-    "00 - Concept/Concept.UE.Socket.md",
-    "00 - Concept/Concept.UE.ProjectSettings.Packaging.md",
-    "00 - Concept/Concept.UE.Multiplayer.Replication.RPC.Multicast.md",
-    "_temp_/Locomotion Direction.md",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/Screenshot_2025-01-09_173337.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_194821.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_185336.png",
