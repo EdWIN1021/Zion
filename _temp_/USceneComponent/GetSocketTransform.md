@@ -1,5 +1,5 @@
 ---
-Class: "[[USceneComponent 1]]"
+Class: "[[USceneComponent]]"
 Category: Function
 Description:
 Return Type:
