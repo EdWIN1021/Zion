@@ -1,5 +1,5 @@
 ---
-Class: "[[UGameplayStatics 1]]"
+Class: "[[UGameplayStatics]]"
 Category: Function
 Description:
 Return Type:
