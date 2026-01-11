@@ -1,0 +1,1 @@
+>[!info] the [] operator in C++ returns a [[Reference]] to the element in the container (such as an [[programming-languages/c++/Data Types/Compound Types/Array/Array]], [[vector]], or [[string]]) at the specified index.

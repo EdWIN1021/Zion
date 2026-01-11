@@ -1,0 +1,3 @@
+```cpp
+#pragma once
+```
