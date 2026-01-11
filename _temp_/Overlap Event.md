@@ -53,9 +53,7 @@ void OnSphereEndOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherA
 ---
 
 ## Binding Callback Functions
-
 To ensure your overlap functions are called, bind them to the collision component:
-
 ```cpp
 void AItem::BeginPlay()
 {
@@ -70,16 +68,3 @@ void AItem::BeginPlay()
 ```
 
 - **Explanation**: The `AddDynamic` method links the component's overlap events to your custom functions. This ensures that `OnSphereBeginOverlap` and `OnSphereEndOverlap` are called whenever an actor enters or exits the sphere.
-
----
-
-## Notes
-
-- Overlap events can be used for various purposes, such as:
-    - Triggering interactions (e.g., doors opening when a player approaches).
-    - Detecting collisions between objects.
-    - Implementing physics-based reactions.
-- You can customize the collision behavior using the Sphere Component's properties in the Unreal Editor.
-
----
-

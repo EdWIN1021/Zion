@@ -1,4 +1,4 @@
 ---
 Category: Property
-Class: "[[UProjectileMovementComponent 1]]"
+Class: "[[UProjectileMovementComponent]]"
 ---
