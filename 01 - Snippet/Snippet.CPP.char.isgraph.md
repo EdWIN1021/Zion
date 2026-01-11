@@ -1,0 +1,1 @@
+> [!info] true if c is not a space but is printable

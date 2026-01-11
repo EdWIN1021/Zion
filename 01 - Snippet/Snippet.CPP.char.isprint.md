@@ -1,0 +1,1 @@
+> [!info] true if c is a printable characeter
