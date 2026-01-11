@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_temp_/UKismetMathLibrary/UKismetMathLibrary.md",
+                "file": "01 - Snippet/Snippet.CPP.c_str.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UKismetMathLibrary"
+              "title": "Snippet.CPP.c_str"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518
+    "width": 466
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -218,8 +218,13 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "_temp_/UKismetMathLibrary/UKismetMathLibrary 1.md",
     "_temp_/UKismetMathLibrary/UKismetMathLibrary.md",
+    "01 - Snippet/Snippet.CPP.c_str.md",
+    "01 - Snipet",
+    "00 - Concept/Concept.CPP.c_str.md",
+    "00 - Concept/c_str.md",
+    "00 - Conecpt",
+    "_temp_/UKismetMathLibrary/UKismetMathLibrary 1.md",
     "_temp_/UActorComponent/UActorComponent.md",
     "_temp_/UActorComponent/UActorComponent.md",
     "_temp_/UGameplayStatics/UGameplayStatics.md",
@@ -241,9 +246,6 @@
     "_temp_/UAIPerceptionComponent.md",
     "_temp_/UBlueprintAsyncActionBase.md",
     "_temp_/UBTTask_BlueprintBase.md",
-    "_temp_/UBTTask_MoveTo.md",
-    "_temp_/Overlap Event.md",
-    "_temp_/Send Gameplay Event To Owner.md",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/Screenshot_2025-01-09_173337.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_194821.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_185336.png",
@@ -262,8 +264,6 @@
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UGameplayStatics 17b8d590ff388004bf81d9473e0e0312.csv",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UGameplayEffectExecutionCalculation 1798d590ff38807da658ee85278638e1_all.csv",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UGameplayEffectExecutionCalculation 1798d590ff38807da658ee85278638e1.csv",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UBlueprintGameplayTagLibrary 13b8d590ff3880b99177db5d259698bd_all.csv",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UBlueprintGameplayTagLibrary 13b8d590ff3880b99177db5d259698bd.csv",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
     "Untitled.canvas",
     "_temp_/Material.canvas",
