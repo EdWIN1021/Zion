@@ -1,0 +1,3 @@
+- A Pure function has no execution pins
+- Pure functions should not modify the variables
+- get-type functions
