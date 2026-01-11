@@ -20,7 +20,7 @@ score_ptr = &low_score // error
 
 ## object
 ```cpp
-const Player villain {"villain", 100, 55};
+const Player villain { "villain", 100, 55 };
 ```
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.goto.md",
+                "file": "01 - Snippet/Snippet.CPP.Const Qualifier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.goto"
+              "title": "Snippet.CPP.Const Qualifier"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 785
+    "width": 622
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -217,18 +217,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.CPP.Type Aliases.md",
-    "01 - Snippet/Snippet.CPP.if.md",
+    "01 - Snippet/Snippet.CPP.c_str.md",
     "01 - Snippet/Snippet.CPP.using.md",
+    "01 - Snippet/Snippet.CPP.Type Aliases.md",
+    "01 - Snippet/Snippet.CPP.Keywords.typedef.md",
+    "01 - Snippet/Snippet.CPP.Keywords.using.md",
+    "01 - Snippet/Snippet.CPP.goto.md",
+    "01 - Snippet/Snippet.CPP.if.md",
     "01 - Snippet/Snippet.CPP.Untitled.md",
     "01 - Snippet/Snippet.CPP.EnumClass.md",
     "01 - Snippet/Snippet.CPP.switch.md",
     "01 - Snippet/Snippet.CPP.Static.md",
     "01 - Snippet/Snippet.CPP.Pure function.md",
     "01 - Snippet/Snippet.CPP.Macros.md",
-    "01 - Snippet/Snippet.CPP.goto.md",
     "01 - Snippet/Snippet.CPP.forward declaration.md",
     "01 - Snippet/Snippet.CPP.extern.md",
     "01 - Snippet/Snippet.CPP.decltype.md",
@@ -238,16 +241,13 @@
     "01 - Snippet/Snippet.CPP.CMake.md",
     "01 - Snippet/Snippet.CPP.break.md",
     "01 - Snippet/c++",
-    "01 - Snippet/Snippet.CPP.c_str.md",
     "01 - Snippet/Snippet.CPP.ForwardDeclaration.md",
-    "01 - Snippet/Snippet.CPP.Keywords.typedef.md",
     "01 - Snipet/Snipet.CPP.c_str.md",
     "01 - Snipet",
     "_temp_/UKismetMathLibrary/UKismetMathLibrary.md",
     "00 - Concept/Concept.CPP.c_str.md",
     "00 - Concept/c_str.md",
     "00 - Conecpt",
-    "_temp_/UKismetMathLibrary/UKismetMathLibrary 1.md",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/Screenshot_2025-01-09_173337.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_194821.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_185336.png",
