@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.Type Aliases.md",
+                "file": "01 - Snippet/Snippet.CPP.goto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.Type Aliases"
+              "title": "Snippet.CPP.goto"
             }
           }
         ]
@@ -219,11 +219,11 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.CPP.Type Aliases.md",
+    "01 - Snippet/Snippet.CPP.if.md",
     "01 - Snippet/Snippet.CPP.using.md",
     "01 - Snippet/Snippet.CPP.Untitled.md",
-    "01 - Snippet/Snippet.CPP.if.md",
     "01 - Snippet/Snippet.CPP.EnumClass.md",
-    "01 - Snippet/Snippet.CPP.Type Aliases.md",
     "01 - Snippet/Snippet.CPP.switch.md",
     "01 - Snippet/Snippet.CPP.Static.md",
     "01 - Snippet/Snippet.CPP.Pure function.md",
