@@ -1,6 +1,3 @@
-# UCLASS
-
-Type: Macro
 
 ```cpp
 /**

@@ -1,6 +1,3 @@
----
-Class: "[[_temp_/UActorComponent/UActorComponent]]"
----
 ### Dominant Sense (主导感知)
 - AISense_Hearing
 - AISense_Sight
@@ -12,3 +9,15 @@ Class: "[[_temp_/UActorComponent/UActorComponent]]"
 
 - #### AI Hearing config
 	- Max Age
+
+```cpp
+UPROPERTY(VisibleAnywhere, BlueprintReadOnly)
+UAIPerceptionComponent* EnemyPerceptionComponent;
+```
+
+```cpp
+EnemyPerceptionComponent = CreateDefaultSubobject<UAIPerceptionComponent>("EnemyPerceptionComponent");
+EnemyPerceptionComponent->ConfigureSense(*AISenseConfig_Sight);
+EnemyPerceptionComponent->SetDominantSense(UAISenseConfig_Sight::StaticClass());
+EnemyPerceptionComponent->OnTargetPerceptionUpdated.AddUniqueDynamic(this, &ThisClass::OnEnemyPerceptionUpdated);
+```

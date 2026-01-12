@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.UE.UWidgetComponent.md",
+                "file": "01 - Snippet/Snippet.UE.UAIPerceptionComponent1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.UE.UWidgetComponent"
+              "title": "Snippet.UE.UAIPerceptionComponent1"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1188
+    "width": 919
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -219,32 +219,32 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.UE.UWidgetComponent1.md",
+    "01 - Snippet/Snippet.UE.UAIPerceptionComponent.md",
+    "01 - Snippet/Snippet.UE.UAIPerceptionComponent1.md",
+    "01 - Snippet/Snippet.UE.UBlueprintAsyncActionBase.md",
+    "01 - Snippet/Snippet.UE.UBlueprintAsyncActionBase1.md",
+    "01 - Snippet/Snippet.UE.UBTTask_BlueprintBase.md",
+    "01 - Snippet/Snippet.UE.UBTTask_BlueprintBase1.md",
+    "01 - Snippet/Snippet.UE.UCLASS.md",
+    "01 - Snippet/Snippet.UE.UClass1.md",
+    "01 - Snippet/Snippet.UE.UKismetMathLibrary.FindLookAtRotation.md",
+    "01 - Snippet/Snippet.UE.UKismetMathLibrary.FindLookAtRotation1.md",
+    "01 - Snippet/Snippet.UE.UKismetMathLibrary.DegAcos.md",
+    "01 - Snippet/Snippet.UE.UNavigationSystemV1.md",
+    "01 - Snippet/Snippet.UE.UObject.CreateDefaultSubObject.md",
+    "01 - Snippet/Snippet.UE.Untitled.md",
+    "01 - Snippet/Snippet.UE.UObject.CreateDefaultSubobject1.md",
+    "01 - Snippet/Snippet.UE.UObject.DoesObjectImplementInterface.md",
+    "01 - Snippet/Snippet.UE.UObject.GetLifetimeReplicatedProps.md",
+    "01 - Snippet/Snippet.UE.UObject.GetLifetimeReplicatedProps1.md",
+    "01 - Snippet/Snippet.UE.UObject.GetWorld.md",
+    "01 - Snippet/Snippet.UE.UObject.GetWorld1.md",
+    "01 - Snippet/Snippet.UE.UObjectBaseUtility.md",
     "01 - Snippet/Snippet.UE.UWidgetComponent.md",
+    "01 - Snippet/Snippet.UE.UPrimitiveComponent.Untitled.md",
+    "01 - Snippet/Snippet.UE.UUserWidget1.md",
+    "01 - Snippet/Snippet.UE.UWidgetComponent1.md",
     "01 - Snippet/Snippet.Vue.click.md",
-    "01 - Snippet/Snippet.Vue.composition-api.md",
-    "01 - Snippet/Snippet.Vue.composition-api2.md",
-    "01 - Snippet/Snippet.Vue.composition-api1.md",
-    "01 - Snippet/Snippet.Vue.In-Component Guards.md",
-    "01 - Snippet/Snippet.Vue.In-Component Guards1.md",
-    "01 - Snippet/Snippet.Vue.mutation.md",
-    "01 - Snippet/Snippet.Vue.option-api.md",
-    "01 - Snippet/Snippet.Vue.router.md",
-    "01 - Snippet/Snippet.Vue.watch.md",
-    "01 - Snippet/Snippet.UE.Weapon.md",
-    "01 - Snippet/Snippet.CSS.Flexbox.md",
-    "align-self.md",
-    "01 - Snippet/Snippet.CSS.flex1.md",
-    "01 - Snippet/Snippet.CPP.SmartPointers.Weak Pointers.md",
-    "01 - Snippet/Snippet.CPP.SmartPointers.Unique Pointers.md",
-    "01 - Snippet/Snippet.CPP.SmartPointers.Smart Pointer.md",
-    "01 - Snippet/Snippet.CPP.SmartPointers.Shared Pointers.md",
-    "01 - Snippet/Snippet.CPP.reinterpret_cast.md",
-    "01 - Snippet/Snippet.CPP.reinterpret_cast1.md",
-    "01 - Snippet/Snippet.CPP.Loop.while.md",
-    "01 - Snippet/Snippet.CPP.char.isalnum.md",
-    "01 - Snippet/Snippet.CPP.bool.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strcat.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",

@@ -7,7 +7,7 @@ Return Type:
 ## **Declaration**
 
 ```cpp
-
+const FRotator LookAtRot = UKismetMathLibrary::FindLookAtRotation(OwningPawn->GetActorLocation(), TargetActor->GetActorLocation());
 ```
 
 ## **Example**
