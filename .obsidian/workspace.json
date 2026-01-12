@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.Typescript.function1.md",
+                "file": "01 - Snippet/Snippet.Python.append.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.Typescript.function1"
+              "title": "Snippet.Python.append"
             }
           }
         ]
@@ -217,10 +217,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.Python.append (2).md",
+    "01 - Snippet/Snippet.Python.append.md",
+    "01 - Snippet/Snippet.Typescript.!.md",
+    "01 - Snippet/Snippet.Typescript.array.md",
+    "01 - Snippet/Snippet.Typescript.class.md",
+    "01 - Snippet/Snippet.Typescript.boolean.md",
+    "01 - Snippet/Snippet.Typescript.Class.array.md",
+    "01 - Snippet/Snippet.Typescript.config.md",
     "01 - Snippet/Snippet.Typescript.function.md",
-    "01 - Snippet/Snippet.Typescript.function1.md",
+    "01 - Snippet/Snippet.Typescript.function.md",
     "01 - Snippet/Snippet.Typescript.function2.md",
     "01 - Snippet/Snippet.Typescript.string.md",
     "01 - Snippet/Snippet.Typescript.tsconfig.md",
@@ -237,14 +245,6 @@
     "01 - Snippet/Snippet.UE.AActor.Destroyed-.md",
     "01 - Snippet/Snippet.UE.AActor.FindComponentByClass.md",
     "01 - Snippet/Snippet.UE.AActor.FindComponentByClass-.md",
-    "01 - Snippet/Snippet.UE.AActor.FinishSpawning.md",
-    "01 - Snippet/Snippet.UE.AActor.FinishSpawning-.md",
-    "01 - Snippet/Snippet.UE.AActor.InputComponent.md",
-    "01 - Snippet/Snippet.UE.AActor.InputComponent1.md",
-    "01 - Snippet/Snippet.UE.AActor.PrimaryActorTick.md",
-    "01 - Snippet/Snippet.UE.AActor.PrimaryActorTick1.md",
-    "01 - Snippet/Snippet.UE.AActor.SetActorLocation.md",
-    "01 - Snippet/Snippet.UE.AActor.Tags.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
