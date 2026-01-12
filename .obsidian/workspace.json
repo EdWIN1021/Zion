@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.array.array.md",
+                "file": "01 - Snippet/Snippet.CPP.C-Style-String.strchr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.array.array"
+              "title": "Snippet.CPP.C-Style-String.strchr"
             }
           }
         ]
@@ -217,10 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.CPP.bool.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strcmp.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strchr.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strcat.md",
     "01 - Snippet/Snippet.CPP.array.array.md",
+    "01 - Snippet/Snippet.CPP.bool.md",
     "01 - Snippet/Snippet.CPP.array.swap.md",
     "01 - Snippet/Snippet.CPP.array.sort.md",
     "01 - Snippet/Snippet.CPP.array.size.md",
@@ -242,9 +245,6 @@
     "01 - Snippet/Snippet.CPP.Algorithm.reverse.md",
     "01 - Snippet/Snippet.CPP.Algorithm.max.md",
     "01 - Snippet/Snippet.CPP.Algorithm.for_each.md",
-    "01 - Snippet/Snippet.CPP.Algorithm.find.md",
-    "01 - Snippet/Snippet.CPP.Accessing Class Members.md",
-    "01 - Snippet/Snippet.CPP.Abstract Class.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
