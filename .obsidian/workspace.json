@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CSS.Flex.justify-content.md",
+                "file": "01 - Snippet/Snippet.CPP.Unions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CSS.Flex.justify-content"
+              "title": "Snippet.CPP.Unions"
             }
           }
         ]
@@ -217,8 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.CSS.@keyframe.md",
+    "01 - Snippet/Snippet.CSS.7-folders.md",
+    "01 - Snippet/Snippet.CSS.Flex.justify-content.md",
     "01 - Snippet/Snippet.CSS.Flexbox.md",
     "01 - Snippet/Snippet.CSS.grid.md",
     "01 - Snippet/Snippet.CSS.flex1.md",
@@ -242,9 +245,6 @@
     "01 - Snippet/Snippet.Javascript.array_string.md",
     "01 - Snippet/Snippet.Javascript.array.md",
     "01 - Snippet/Snippet.Javascript.async.md",
-    "01 - Snippet/Snippet.Javascript.async 1829234e37b34324b72d4a6f07144cf5.md",
-    "01 - Snippet/Snippet.Javascript.callback.md",
-    "01 - Snippet/Snippet.Javascript.callback bffc9d5a0bfb48f6b3780a21b26ab77e.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
