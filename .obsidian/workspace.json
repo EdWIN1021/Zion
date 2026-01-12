@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.HTML.script.md",
+                "file": "01 - Snippet/Snippet.CSS.Flex.justify-content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.HTML.script"
+              "title": "Snippet.CSS.Flex.justify-content"
             }
           }
         ]
@@ -219,6 +219,13 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.CSS.Flexbox.md",
+    "01 - Snippet/Snippet.CSS.grid.md",
+    "01 - Snippet/Snippet.CSS.flex1.md",
+    "01 - Snippet/Snippet.CSS.Grid1.md",
+    "01 - Snippet/Snippet.CSS.order.md",
+    "01 - Snippet/Snippet.CSS.order.md",
+    "01 - Snippet/Snippet.HTML.script.md",
     "01 - Snippet/Snippet.Go.The Zero Value.md",
     "01 - Snippet/Snippet.Java.Abstract Class.md",
     "01 - Snippet/Snippet.Java.Access Control.md",
@@ -238,13 +245,6 @@
     "01 - Snippet/Snippet.Javascript.async 1829234e37b34324b72d4a6f07144cf5.md",
     "01 - Snippet/Snippet.Javascript.callback.md",
     "01 - Snippet/Snippet.Javascript.callback bffc9d5a0bfb48f6b3780a21b26ab77e.md",
-    "01 - Snippet/Snippet.Javascript.close.md",
-    "01 - Snippet/Snippet.Javascript.constructor.md",
-    "01 - Snippet/Snippet.Javascript.constructor e737539a314f41b6a0a933a05f032b0a.md",
-    "01 - Snippet/Snippet.Javascript.Date.md",
-    "01 - Snippet/Snippet.Javascript.deep copy.md",
-    "01 - Snippet/Snippet.Javascript.deep copy b731cfae4f844aefa1d9522529f6921e.md",
-    "01 - Snippet/Snippet.Javascript.delete.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
