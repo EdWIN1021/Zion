@@ -1,6 +1,4 @@
-# deep copy
 
-Owner: Edwin
 
 - A deep copy of an object creates a completely new copy of the entire object structure, including all nested objects. It does not share references with the original object.
 - Changes made to the copied structure will not affect the original, and vice versa. Deep copies are often used when you need to create independent copies of complex data structures.
