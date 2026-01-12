@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.list.list.md",
+                "file": "01 - Snippet/Snippet.CPP.Loop.for.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.list.list"
+              "title": "Snippet.CPP.Loop.for"
             }
           }
         ]
@@ -217,10 +217,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.CPP.list.pop_front.md",
+    "01 - Snippet/Snippet.CPP.Loop.do while.md",
+    "01 - Snippet/Snippet.CPP.Loop.for.md",
+    "01 - Snippet/Snippet.CPP.long.md",
     "01 - Snippet/Snippet.CPP.list.list.md",
+    "01 - Snippet/Snippet.CPP.list.size.md",
+    "01 - Snippet/Snippet.CPP.list.resize.md",
+    "01 - Snippet/Snippet.CPP.list.push_front.md",
+    "01 - Snippet/Snippet.CPP.list.push_back.md",
+    "01 - Snippet/Snippet.CPP.list.pop_front.md",
     "01 - Snippet/Snippet.CPP.list.pop_back.md",
     "01 - Snippet/Snippet.CPP.list.max_size.md",
     "01 - Snippet/Snippet.CPP.List initialization.md",
@@ -238,13 +245,6 @@
     "01 - Snippet/Snippet.CPP.Iterators.dereference and member access.md",
     "01 - Snippet/Snippet.CPP.Iterators.const _iterator.md",
     "01 - Snippet/Snippet.CPP.Iterators.begin.md",
-    "01 - Snippet/Snippet.CPP.Interface.md",
-    "01 - Snippet/Snippet.CPP.int.md",
-    "01 - Snippet/Snippet.CPP.Inline Function.md",
-    "01 - Snippet/Snippet.CPP.Header File.md",
-    "01 - Snippet/Snippet.CPP.Function Templates.md",
-    "01 - Snippet/Snippet.CPP.Friend.Member Function.md",
-    "01 - Snippet/Snippet.CPP.Friend.Function.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",

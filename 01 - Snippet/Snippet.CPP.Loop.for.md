@@ -1,4 +1,3 @@
-## [[iterator]]
 
 ```cpp
 string str = "Hello World!";  
