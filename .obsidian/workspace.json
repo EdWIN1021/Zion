@@ -217,10 +217,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.CPP.list.max_size.md",
+    "01 - Snippet/Snippet.CPP.list.pop_front.md",
     "01 - Snippet/Snippet.CPP.list.list.md",
+    "01 - Snippet/Snippet.CPP.list.pop_back.md",
+    "01 - Snippet/Snippet.CPP.list.max_size.md",
     "01 - Snippet/Snippet.CPP.List initialization.md",
     "01 - Snippet/Snippet.CPP.list.insert.md",
     "01 - Snippet/Snippet.CPP.list.front.md",
@@ -243,8 +245,6 @@
     "01 - Snippet/Snippet.CPP.Function Templates.md",
     "01 - Snippet/Snippet.CPP.Friend.Member Function.md",
     "01 - Snippet/Snippet.CPP.Friend.Function.md",
-    "01 - Snippet/Snippet.CPP.Friend.Class.md",
-    "01 - Snippet/Snippet.CPP.ForwardDeclaration.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
