@@ -1,9 +1,8 @@
-# In-Component Guards
+## import
 
-# In-Component Guards
-
----
-
+```
+import { onBeforeRouteLeave, onBeforeRouteUpdate } from 'vue-router'
+```
 ## onBeforeRouteLeave
 
 ```
