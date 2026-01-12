@@ -1,0 +1,5 @@
+# system user
+
+```
+su - postgres
+```

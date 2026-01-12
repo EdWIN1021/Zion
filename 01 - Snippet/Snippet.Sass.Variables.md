@@ -1,0 +1,9 @@
+# Variables
+
+Owner: Edwin
+
+```sass
+$color-primary: #55c57a; 
+$color-primary-light:#7ed56f; 
+$color-primary-dark:#28b485;
+```

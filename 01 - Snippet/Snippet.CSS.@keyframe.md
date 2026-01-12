@@ -1,0 +1,23 @@
+# @keyframe
+
+Owner: Edwin
+
+```css
+.heading-primary-main {
+  animation: moveInLeft 1s ease-out;
+}
+
+@keyframes moveInLeft {
+  0% {
+    opacity: 0;
+    transform: translate(-10rem);
+  }
+  80% {
+    transform: translateX(1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translate(0);
+  }
+}
+```

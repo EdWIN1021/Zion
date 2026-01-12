@@ -33,7 +33,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 71.54531946508172,
+        "dimension": 37.16632443531827,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -63,7 +63,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 28.454680534918275,
+        "dimension": 62.83367556468173,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497
+    "width": 1453
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -217,34 +217,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.CPP.Copy Assignment.md",
-    "01 - Snippet/Snippet.CPP.Constructor.md",
-    "01 - Snippet/Snippet.CPP.const.md",
-    "01 - Snippet/Snippet.CPP.CMake.md",
-    "01 - Snippet/Snippet.CPP.ClassMemberAccessModifires.md",
-    "01 - Snippet/Snippet.CPP.char.toupper.md",
-    "01 - Snippet/Snippet.CPP.char.isgraph.md",
-    "01 - Snippet/Snippet.CPP.char.isdigit.md",
-    "01 - Snippet/Snippet.CPP.char.iscntrl.md",
-    "01 - Snippet/Snippet.CPP.char.isalpha.md",
-    "01 - Snippet/Snippet.CPP.char.isalnum.md",
-    "01 - Snippet/Snippet.CPP.char.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strncpy.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strncat.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strlen.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strcpy.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strcmp.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strchr.md",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strcat.md",
-    "01 - Snippet/Snippet.CPP.Pointer.md",
-    "01 - Snippet/Snippet.CPP.Reference.md",
-    "01 - Snippet/Snippet.CPP.R-Value Reference.md",
-    "01 - Snippet/Snippet.CPP.multidimensional array.md",
-    "01 - Snippet/Snippet.CPP.L-Value Reference.md",
-    "01 - Snippet/Snippet.CPP.Deferencing.md",
-    "01 - Snippet/Snippet.CPP.Array.md",
+    "01 - Snippet/Snippet.Vue.watch.md",
+    "01 - Snippet/Snippet.Vue.vuex.md",
+    "01 - Snippet/Snippet.Vue.vue.md",
+    "01 - Snippet/Snippet.Vue.v-slot.md",
+    "01 - Snippet/Snippet.Vue.v-show.md",
+    "01 - Snippet/Snippet.Vue.v-on.md",
+    "01 - Snippet/Snippet.Vue.v-model.md",
+    "01 - Snippet/Snippet.Vue.v-if.md",
+    "01 - Snippet/Snippet.Vue.v-html.md",
+    "01 - Snippet/Snippet.Vue.v-for.md",
+    "01 - Snippet/Snippet.Vue.v-bind.md",
+    "01 - Snippet/Snippet.Vue.types.md",
+    "01 - Snippet/Snippet.Vue.Transitions.md",
+    "01 - Snippet/Snippet.Vue.submit.md",
+    "01 - Snippet/Snippet.Vue.state.md",
+    "01 - Snippet/Snippet.Vue.route.md",
+    "01 - Snippet/Snippet.Vue.ref.md",
+    "01 - Snippet/Snippet.Vue.reactive.md",
+    "01 - Snippet/Snippet.Vue.option-api1.md",
+    "01 - Snippet/Snippet.Vue.option-api.md",
+    "01 - Snippet/Snippet.Vue.mutation.md",
+    "01 - Snippet/Snippet.Vue.module.md",
+    "01 - Snippet/Snippet.Vue.lifecycle methods.md",
+    "01 - Snippet/Snippet.Vue.Lifecycle Hooks.md",
+    "01 - Snippet/Snippet.Vue.In-Component Guards1.md",
+    "01 - Snippet/Snippet.Vue.In-Component Guards.md",
     "01 - Snippet/c++",
     "01 - Snipet",
     "00 - Conecpt",

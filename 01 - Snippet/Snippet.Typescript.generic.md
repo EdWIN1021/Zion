@@ -1,0 +1,9 @@
+# generic
+
+Owner: Edwin
+
+[array](generic%20219031e6077e4cce869247192ff3b794/array%2094c4999f16e4484d80263be53f7d3f3b.md)
+
+[function](generic%20219031e6077e4cce869247192ff3b794/function%20a413e440f71043c1899ad348c6ad8320.md)
+
+[Class](generic%20219031e6077e4cce869247192ff3b794/Class%205782dc815e354ca79b017642bf223a9a.md)
