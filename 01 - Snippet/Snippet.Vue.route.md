@@ -1,13 +1,5 @@
 # route
 
-# route
-
-## 目录
-
-- 
-    
-    [route%2006d3acd38b744fb4b553745f66695292/Transitionsimageimage_KUqRdOuwqg.png](route%2006d3acd38b744fb4b553745f66695292/Transitionsimageimage_KUqRdOuwqg.png)
-    
 
 ## Install
 

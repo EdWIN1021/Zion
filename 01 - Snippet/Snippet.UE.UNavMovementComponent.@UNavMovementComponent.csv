@@ -1,3 +1,0 @@
-﻿Name,Access Specifier,Tags,Description
-IsFalling,public,function,"Returns true if currently falling (not flying, in a non-fluid volume, and not on the ground)"
-bUseFixedBrakingDistanceForPaths,Protected,Property,

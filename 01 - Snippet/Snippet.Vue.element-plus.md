@@ -1,7 +1,5 @@
 # element-plus
 
-# element-plus
-
 ## Install
 
 ---
