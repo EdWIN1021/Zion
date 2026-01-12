@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.Pointer.md",
+                "file": "01 - Snippet/Snippet.CPP.C-Style-String.strncpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.Pointer"
+              "title": "Snippet.CPP.C-Style-String.strncpy"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 622
+    "width": 497
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -219,9 +219,15 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.CPP.C-Style-String.strncat.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strlen.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strcpy.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strcmp.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strchr.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strcat.md",
+    "01 - Snippet/Snippet.CPP.Pointer.md",
     "01 - Snippet/Snippet.CPP.Reference.md",
     "01 - Snippet/Snippet.CPP.R-Value Reference.md",
-    "01 - Snippet/Snippet.CPP.Pointer.md",
     "01 - Snippet/Snippet.CPP.multidimensional array.md",
     "01 - Snippet/Snippet.CPP.L-Value Reference.md",
     "01 - Snippet/Snippet.CPP.Deferencing.md",
@@ -239,12 +245,6 @@
     "01 - Snippet/Snippet.CPP.char.isgraph.md",
     "01 - Snippet/Snippet.CPP.char.isdigit.md",
     "01 - Snippet/Snippet.CPP.char.iscntrl.md",
-    "01 - Snippet/Snippet.CPP.char.isalpha.md",
-    "01 - Snippet/Snippet.CPP.char.isalnum.md",
-    "01 - Snippet/Snippet.CPP.c_str.md",
-    "01 - Snippet/Snippet.CPP.CMake.md",
-    "01 - Snippet/Snippet.CPP.bool.md",
-    "01 - Snippet/Snippet.CPP.using.md",
     "01 - Snippet/c++",
     "01 - Snipet",
     "00 - Conecpt",
