@@ -1,3 +1,0 @@
-# AGameStateBase
-
-Type: Class
