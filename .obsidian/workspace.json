@@ -202,8 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +216,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c158b8494370e8d0",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
+    "align-self.md",
+    "01 - Snippet/Snippet.CPP.PriorityQueue.pop.md",
+    "2026-01-12.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strlen.md~",
+    "01 - Snippet/Snippet.CPP.PassingByPointer.md",
     "01 - Snippet/Snippet.CPP.Preprocessor Directive.md",
     "01 - Snippet/Snippet.CPP.PriorityQueue.empty.md",
     "01 - Snippet/Snippet.CPP.pragma once.md",
@@ -241,10 +245,6 @@
     "01 - Snippet/Snippet.CPP.map.count.md",
     "01 - Snippet/Snippet.CPP.map.clear.md",
     "01 - Snippet/Snippet.CPP.Macros.md",
-    "01 - Snippet/Snippet.CPP.Loop.Range-Base for.md",
-    "01 - Snippet/Snippet.CPP.Loop.while.md",
-    "01 - Snippet/Snippet.CPP.Loop.for.md",
-    "01 - Snippet/Snippet.CPP.Loop.do while.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
@@ -264,7 +264,6 @@
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UObjectBaseUtility 1768d590ff3880449056cd1d0445ddcd_all.csv",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UObjectBaseUtility 1768d590ff3880449056cd1d0445ddcd.csv",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UGameplayStatics 17b8d590ff388004bf81d9473e0e0312_all.csv",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UGameplayStatics 17b8d590ff388004bf81d9473e0e0312.csv",
     "00 - Concept/Concept.D3D11.Canvas.canvas",
     "Untitled.canvas",
     "_temp_/Material.canvas",

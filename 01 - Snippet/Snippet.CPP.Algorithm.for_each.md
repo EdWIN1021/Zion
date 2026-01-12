@@ -1,3 +1,9 @@
+---
+id: Snippet.CPP.Algorithm.for_each
+aliases: []
+tags: []
+---
+
 
 ## function pointer
 

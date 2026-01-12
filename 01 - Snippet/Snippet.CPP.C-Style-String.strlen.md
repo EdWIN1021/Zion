@@ -1,6 +1,8 @@
 ```cpp
 #include <cstring>
+```
 
-char name[] {"Edwin"}; 
-strlen(name); // 5
+```cpp
+char name[] { "Edwin" }; 
+strlen( name ); // 5
 ```

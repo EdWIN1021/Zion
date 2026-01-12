@@ -1,14 +1,12 @@
-```ad-important
 - Always initialize pointer
 - It is an error to copy or otherwise try to access the value of an invalid pointer.
-```
+
 ## nullptr
-
 ```cpp
-int *p {nullptr} // int *p = 0;
+int *p { nullptr } // int *p = 0;
+
 ```
 
----
 
 ## int 
 ```cpp
@@ -16,7 +14,6 @@ int ival = 42;
 int *p = &ival;
 ```
 
----
 
 ## array
 ```cpp
@@ -24,7 +21,6 @@ int scores[] {100, 95, 89};
 int* scores_ptr { scores };
 ```
 
----
 
 ## void
 
