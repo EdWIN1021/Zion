@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1453
+    "width": 1188
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -217,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
     "01 - Snippet/Snippet.CPP.Constructor.md",
     "01 - Snippet/Snippet.Next.NextAuth 1.md",
