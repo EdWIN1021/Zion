@@ -11,14 +11,14 @@
             "id": "c158b8494370e8d0",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "01 - Snippet/Snippet.Next.NextAuth 1.md",
-                "bFile": "01 - Snippet/Snippet.Next.NextAuth 1.md",
-                "aRef": ""
+                "file": "01 - Snippet/Snippet.UE.UNavMovementComponent.IsFalling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Snippet.Next.NextAuth 1"
+              "icon": "lucide-file",
+              "title": "Snippet.UE.UNavMovementComponent.IsFalling"
             }
           }
         ]
@@ -217,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.UE.UNavMovementComponent.bUseFixedBrakingDistanceForPaths.md",
+    "01 - Snippet/Snippet.UE.UNavMovementComponent.IsFalling.md",
     "01 - Snippet/Snippet.UE.UWidgetComponent1.md",
     "01 - Snippet/Snippet.UE.UUserWidget1.md",
     "01 - Snippet/Snippet.UE.UObject.GetWorld1.md",
@@ -243,8 +245,6 @@
     "01 - Snippet/Snippet.UE.AController.GetPlayerState1.md",
     "01 - Snippet/Snippet.UE.ACharacter1.md",
     "01 - Snippet/Snippet.UE.AAIController.RunBehaviorTree1.md",
-    "01 - Snippet/Snippet.UE.AAIController.GetBlackboardComponent1.md",
-    "01 - Snippet/Snippet.UE.AActor.Tags1.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
