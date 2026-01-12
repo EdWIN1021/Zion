@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.Python.append.md",
+                "file": "01 - Snippet/Snippet.Next.useSearchParams1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.Python.append"
+              "title": "Snippet.Next.useSearchParams1"
             }
           }
         ]
@@ -217,10 +217,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.Python.append (2).md",
+    "01 - Snippet/Snippet.Next.useSearchParams.md",
+    "01 - Snippet/Snippet.Next.useSearchParams1.md",
     "01 - Snippet/Snippet.Python.append.md",
+    "01 - Snippet/Snippet.Python.append (2).md",
     "01 - Snippet/Snippet.Typescript.!.md",
     "01 - Snippet/Snippet.Typescript.array.md",
     "01 - Snippet/Snippet.Typescript.class.md",
@@ -243,8 +245,6 @@
     "01 - Snippet/Snippet.UE.AActor.Destroy1.md",
     "01 - Snippet/Snippet.UE.AActor.Destroyed.md",
     "01 - Snippet/Snippet.UE.AActor.Destroyed-.md",
-    "01 - Snippet/Snippet.UE.AActor.FindComponentByClass.md",
-    "01 - Snippet/Snippet.UE.AActor.FindComponentByClass-.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
