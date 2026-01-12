@@ -1,6 +1,4 @@
-# history.go
 
-Owner: Edwin
 
 ```jsx
 history.go(3)    //向前跳转三个记录

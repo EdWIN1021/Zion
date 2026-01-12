@@ -1,5 +1,0 @@
-# navigator
-
-Owner: Edwin
-
-/

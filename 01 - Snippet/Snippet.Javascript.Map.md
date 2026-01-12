@@ -1,6 +1,4 @@
-# Map
 
-Owner: Edwin
 
 ```jsx
 var collection = new Map();
