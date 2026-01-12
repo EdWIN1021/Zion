@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.Vue.In-Component Guards.md",
-                "mode": "preview",
+                "file": "01 - Snippet/Snippet.UE.UWidgetComponent1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.Vue.In-Component Guards"
+              "title": "Snippet.UE.UWidgetComponent1"
             }
           }
         ]
@@ -217,8 +217,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.Vue.click.md",
+    "01 - Snippet/Snippet.Vue.composition-api.md",
+    "01 - Snippet/Snippet.Vue.composition-api2.md",
+    "01 - Snippet/Snippet.Vue.composition-api1.md",
     "01 - Snippet/Snippet.Vue.In-Component Guards.md",
     "01 - Snippet/Snippet.Vue.In-Component Guards1.md",
     "01 - Snippet/Snippet.Vue.mutation.md",
@@ -241,10 +245,6 @@
     "01 - Snippet/Snippet.CPP.C-Style-String.strcat.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.IsFalling.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.bUseFixedBrakingDistanceForPaths.md",
-    "01 - Snippet/Snippet.UE.UWidgetComponent1.md",
-    "01 - Snippet/Snippet.UE.UUserWidget1.md",
-    "01 - Snippet/Snippet.UE.UObject.GetWorld1.md",
-    "01 - Snippet/Snippet.UE.UObject.GetLifetimeReplicatedProps1.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
