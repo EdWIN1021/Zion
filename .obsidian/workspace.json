@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.List initialization.md",
+                "file": "01 - Snippet/Snippet.CPP.list.list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.List initialization"
+              "title": "Snippet.CPP.list.list"
             }
           }
         ]
@@ -219,8 +219,14 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.CPP.list.emplace_front.md",
+    "01 - Snippet/Snippet.CPP.list.max_size.md",
+    "01 - Snippet/Snippet.CPP.list.list.md",
     "01 - Snippet/Snippet.CPP.List initialization.md",
+    "01 - Snippet/Snippet.CPP.list.insert.md",
+    "01 - Snippet/Snippet.CPP.list.front.md",
+    "01 - Snippet/Snippet.CPP.list.find.md",
+    "01 - Snippet/Snippet.CPP.list.erase.md",
+    "01 - Snippet/Snippet.CPP.list.emplace_front.md",
     "01 - Snippet/Snippet.CPP.list.emplace_back.md",
     "01 - Snippet/Snippet.CPP.list.back.md",
     "01 - Snippet/Snippet.CPP.list.advance.md",
@@ -239,12 +245,6 @@
     "01 - Snippet/Snippet.CPP.Friend.Function.md",
     "01 - Snippet/Snippet.CPP.Friend.Class.md",
     "01 - Snippet/Snippet.CPP.ForwardDeclaration.md",
-    "01 - Snippet/Snippet.CPP.float.md",
-    "01 - Snippet/Snippet.CPP.extern.md",
-    "01 - Snippet/Snippet.CPP.ExceptionHandling.try-catch-finally.md",
-    "01 - Snippet/Snippet.CPP.ExceptionHandling.throw.md",
-    "01 - Snippet/Snippet.CPP.EnumClass.md",
-    "01 - Snippet/Snippet.CPP.enum.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
