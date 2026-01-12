@@ -14,3 +14,15 @@ import pic from '../assets/pic.png'
     // priority => LCP
 />
 ```
+
+
+```jsx
+import Image from 'next/image'
+
+<Image
+    src={""}
+    alt={""}
+    fill
+    style={{ objectFit: "cover" }}
+/>
+```

@@ -7,3 +7,10 @@ export async function GET(request: Request) {
   redirect('https://nextjs.org/');
 }
 ```
+
+
+
+```tsx
+import { redirect } from "next/navigation";
+redirect("/");
+```
