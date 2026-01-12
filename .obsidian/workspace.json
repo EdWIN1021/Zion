@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.CPP.C-Style-String.strncpy.md",
+                "file": "01 - Snippet/Snippet.CPP.Constructor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.C-Style-String.strncpy"
+              "title": "Snippet.CPP.Constructor"
             }
           }
         ]
@@ -219,6 +219,19 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
+    "01 - Snippet/Snippet.CPP.Copy Assignment.md",
+    "01 - Snippet/Snippet.CPP.Constructor.md",
+    "01 - Snippet/Snippet.CPP.const.md",
+    "01 - Snippet/Snippet.CPP.CMake.md",
+    "01 - Snippet/Snippet.CPP.ClassMemberAccessModifires.md",
+    "01 - Snippet/Snippet.CPP.char.toupper.md",
+    "01 - Snippet/Snippet.CPP.char.isgraph.md",
+    "01 - Snippet/Snippet.CPP.char.isdigit.md",
+    "01 - Snippet/Snippet.CPP.char.iscntrl.md",
+    "01 - Snippet/Snippet.CPP.char.isalpha.md",
+    "01 - Snippet/Snippet.CPP.char.isalnum.md",
+    "01 - Snippet/Snippet.CPP.char.md",
+    "01 - Snippet/Snippet.CPP.C-Style-String.strncpy.md",
     "01 - Snippet/Snippet.CPP.C-Style-String.strncat.md",
     "01 - Snippet/Snippet.CPP.C-Style-String.strlen.md",
     "01 - Snippet/Snippet.CPP.C-Style-String.strcpy.md",
@@ -232,19 +245,6 @@
     "01 - Snippet/Snippet.CPP.L-Value Reference.md",
     "01 - Snippet/Snippet.CPP.Deferencing.md",
     "01 - Snippet/Snippet.CPP.Array.md",
-    "01 - Snippet/Snippet.CPP.().md",
-    "01 - Snippet/Snippet.CPP.char.toupper.md",
-    "01 - Snippet/Snippet.CPP.char.tolower.md",
-    "01 - Snippet/Snippet.CPP.char.isupper.md",
-    "01 - Snippet/Snippet.CPP.char.isspace.md",
-    "01 - Snippet/Snippet.CPP.char.md",
-    "01 - Snippet/Snippet.CPP.char.isxdigit.md",
-    "01 - Snippet/Snippet.CPP.char.ispunct.md",
-    "01 - Snippet/Snippet.CPP.char.isprint.md",
-    "01 - Snippet/Snippet.CPP.char.islower.md",
-    "01 - Snippet/Snippet.CPP.char.isgraph.md",
-    "01 - Snippet/Snippet.CPP.char.isdigit.md",
-    "01 - Snippet/Snippet.CPP.char.iscntrl.md",
     "01 - Snippet/c++",
     "01 - Snipet",
     "00 - Conecpt",
