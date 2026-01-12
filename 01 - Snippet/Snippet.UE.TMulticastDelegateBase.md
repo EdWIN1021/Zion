@@ -1,0 +1,3 @@
+# TMulticastDelegateBase
+
+Type: Class

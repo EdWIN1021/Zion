@@ -1,0 +1,3 @@
+# UMaterialInstance
+
+Type: Class

@@ -1,0 +1,3 @@
+# UGameplayTagsManager
+
+Type: Class

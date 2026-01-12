@@ -1,0 +1,3 @@
+# ULocalPlayerSubsystem
+
+Type: Class

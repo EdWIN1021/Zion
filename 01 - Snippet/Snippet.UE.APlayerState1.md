@@ -1,0 +1,3 @@
+# APlayerState
+
+Type: Class

@@ -1,0 +1,5 @@
+# FGameplayEffectModifierMagnitude
+
+Type: Struct
+
+[@FGameplayEffectModifierMagnitude ](FGameplayEffectModifierMagnitude/@FGameplayEffectModifierMagnitude%201a38d590ff388026a4c7e4b7bef046c6.csv)

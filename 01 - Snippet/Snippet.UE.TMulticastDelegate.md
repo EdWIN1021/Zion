@@ -1,0 +1,3 @@
+# TMulticastDelegate
+
+Type: Class

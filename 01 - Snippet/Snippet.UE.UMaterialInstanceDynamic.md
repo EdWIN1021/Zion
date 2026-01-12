@@ -1,0 +1,3 @@
+# UMaterialInstanceDynamic
+
+Type: Class

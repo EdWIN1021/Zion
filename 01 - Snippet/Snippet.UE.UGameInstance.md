@@ -1,0 +1,3 @@
+# UGameInstance
+
+Type: Class
