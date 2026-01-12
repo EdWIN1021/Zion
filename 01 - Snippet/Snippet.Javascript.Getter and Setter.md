@@ -1,10 +1,8 @@
-# Getter and Setter
 
-Owner: Edwin
 
----
 
-```
+
+```tsx
 var person = {
   firstName: "Yang",
   lastName : "Shi",

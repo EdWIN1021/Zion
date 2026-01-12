@@ -1,3 +1,0 @@
-# history.forward
-
-Owner: Edwin

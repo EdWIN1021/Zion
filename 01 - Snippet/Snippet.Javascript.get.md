@@ -1,10 +1,4 @@
-# get 8b25130c887a4f4aa9748d4e0de199c0
 
-Owner: Edwin
-
-# get
-
-Owner: edwin S
 
 ```jsx
 fetch("https://restcountries.eu/rest/v2/name/china")
