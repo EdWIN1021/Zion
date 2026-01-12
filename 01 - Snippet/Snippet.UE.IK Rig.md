@@ -1,1 +1,2 @@
-# IK Rig
+Animation → Retargeting → IK Rig
+

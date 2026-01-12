@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.UE.Material.md",
+                "file": "01 - Snippet/Snippet.UE.Gameplay Ability System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.UE.Material"
+              "title": "Snippet.UE.Gameplay Ability System"
             }
           }
         ]
@@ -219,8 +219,14 @@
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.UE.Material1.md",
+    "01 - Snippet/Snippet.UE.Gameplay Ability System1.md",
+    "01 - Snippet/Snippet.UE.Gameplay Ability System.md",
+    "01 - Snippet/Snippet.UE.IAbilitySystemInterface.GetAbilitySystemComponent.md",
+    "01 - Snippet/Snippet.UE.IK Rig.md",
+    "01 - Snippet/Snippet.UE.IK Rig.md",
+    "01 - Snippet/Snippet.UE.Macro.UCLASS.md",
     "01 - Snippet/Snippet.UE.Material.md",
+    "01 - Snippet/Snippet.UE.Material1.md",
     "01 - Snippet/Snippet.UE.Timer.md",
     "01 - Snippet/Snippet.UE.Timer1.md",
     "01 - Snippet/Snippet.UE.TMap.md",
@@ -239,12 +245,6 @@
     "01 - Snippet/Snippet.UE.UAbilitySystemComponent.Untitled.md",
     "01 - Snippet/Snippet.UE.UBlueprintAsyncActionBase.md",
     "01 - Snippet/Snippet.UE.UBlueprintAsyncActionBase1.md",
-    "01 - Snippet/Snippet.UE.UBTTask_BlueprintBase.md",
-    "01 - Snippet/Snippet.UE.UBTTask_BlueprintBase1.md",
-    "01 - Snippet/Snippet.UE.UCLASS.md",
-    "01 - Snippet/Snippet.UE.UClass1.md",
-    "01 - Snippet/Snippet.UE.UKismetMathLibrary.FindLookAtRotation.md",
-    "01 - Snippet/Snippet.UE.UKismetMathLibrary.FindLookAtRotation1.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
