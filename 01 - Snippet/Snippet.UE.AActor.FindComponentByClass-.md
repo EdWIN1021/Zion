@@ -1,3 +1,0 @@
-# FindComponentByClass-
-
-Category: Function
