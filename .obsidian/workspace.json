@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Snippet/Snippet.Javascript.Proxy.md",
+                "file": "01 - Snippet/Snippet.Javascript.nullish coalescing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.Javascript.Proxy"
+              "title": "Snippet.Javascript.nullish coalescing"
             }
           }
         ]
@@ -219,8 +219,24 @@
   },
   "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
-    "01 - Snippet/Snippet.Javascript.Proxy ed0034c99ff44fc395c56881cdf3a483.md",
+    "01 - Snippet/Snippet.Javascript.nullish coalescing 77f878bdd2034432a39f10653b9278d.md",
+    "01 - Snippet/Snippet.Javascript.nullish coalescing.md",
+    "01 - Snippet/Snippet.Javascript.Number parseFloat.md",
+    "01 - Snippet/Snippet.Javascript.Number parseInt.md",
+    "01 - Snippet/Snippet.Javascript.Object.md",
+    "01 - Snippet/Snippet.Javascript.open.md",
+    "01 - Snippet/Snippet.Javascript.optional chaining.md",
+    "01 - Snippet/Snippet.Javascript.optional chaining1.md",
+    "01 - Snippet/Snippet.Javascript.pathname.md",
+    "01 - Snippet/Snippet.Javascript.port.md",
+    "01 - Snippet/Snippet.Javascript.post.md",
+    "01 - Snippet/Snippet.Javascript.Promise.md",
+    "01 - Snippet/Snippet.Javascript.Promise ae89a37a26d849b0a30977396e083f31.md",
+    "01 - Snippet/Snippet.Javascript.protocol.md",
+    "01 - Snippet/Snippet.Javascript.Prototype.md",
+    "01 - Snippet/Snippet.Javascript.prototype1.md",
     "01 - Snippet/Snippet.Javascript.Proxy.md",
+    "01 - Snippet/Snippet.Javascript.Proxy ed0034c99ff44fc395c56881cdf3a483.md",
     "01 - Snippet/Snippet.Javascript.repeat.md",
     "01 - Snippet/Snippet.Javascript.resizeBy.md",
     "01 - Snippet/Snippet.Javascript.resizeTo.md",
@@ -229,22 +245,6 @@
     "01 - Snippet/Snippet.Javascript.screen.md",
     "01 - Snippet/Snippet.Javascript.screen c8862901fee848c7984ddddd5d1f58ae.md",
     "01 - Snippet/Snippet.Javascript.scrollBy.md",
-    "01 - Snippet/Snippet.Javascript.Set.clear.md",
-    "01 - Snippet/Snippet.Javascript.search.md",
-    "01 - Snippet/Snippet.Javascript.sessionStorage.md",
-    "01 - Snippet/Snippet.Javascript.Set.md",
-    "01 - Snippet/Snippet.Javascript.Set 365379b1b9c24200ac9c270aca61f42a.md",
-    "01 - Snippet/Snippet.Javascript.shallow copy.md",
-    "01 - Snippet/Snippet.Javascript.shallow copy e3f6df3dd783417296a47e050b1be042.md",
-    "01 - Snippet/Snippet.Javascript.short circuiting.md",
-    "01 - Snippet/Snippet.Javascript.short circuiting 3f78bfbe7583456e8afe230dbc76a4c7.md",
-    "01 - Snippet/Snippet.Javascript.spread operator.md",
-    "01 - Snippet/Snippet.Javascript.spread operator 684517c59eb74b4988c8e117d05daac5.md",
-    "01 - Snippet/Snippet.Javascript.Statements and Declarations.md",
-    "01 - Snippet/Snippet.Javascript.synchronous and asynchronous.md",
-    "01 - Snippet/Snippet.Javascript.synchronous and asynchronous 6743e26ba0784c4ba1ad0.md",
-    "01 - Snippet/Snippet.Javascript.typeof.md",
-    "01 - Snippet/Snippet.Javascript.typeof1.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
