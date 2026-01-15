@@ -11,20 +11,14 @@
             "id": "96f39475f21576d9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Perforce.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Kanban"
+              "icon": "lucide-file",
+              "title": "Perforce"
             }
           }
         ]
@@ -238,6 +232,8 @@
   },
   "active": "96f39475f21576d9",
   "lastOpenFiles": [
+    "Concept/Concept.CPP.Class.md",
+    "Kanban.md",
     "Snippet/Snippet.CPP.Abstract Class.md",
     "Snippet/Snippet.CPP.A reference to a.md",
     "Home.md",
@@ -246,7 +242,6 @@
     "01 - Snippet.md",
     "Snippet/Snippet.UE.AI.Navigation PathFinding.md",
     "Perforce.md",
-    "Kanban.md",
     "Templates/Type.md",
     "Templates/Function.md",
     "Templates/Property.md",
@@ -255,7 +250,6 @@
     "2026-01-14.md",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
-    "Concept/Concept.CPP.Class.md",
     "Cheatsheet/Cheatsheet.Markdown.md",
     "dailies/dailies.md",
     "Excalidraw",
