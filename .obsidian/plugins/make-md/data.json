@@ -44,8 +44,7 @@
     "//Templates",
     "//99 - Assets",
     "//98 - Cheatsheet",
-    "//00 - Concept",
-    "//Snippet"
+    "//00 - Concept"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
