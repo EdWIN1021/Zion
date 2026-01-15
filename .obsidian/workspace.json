@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5086125ac7a1d652",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "57f23dcfde7c09f0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "split-diff-view",
               "state": {
-                "path": "00 - Concept"
+                "aFile": "2026-01-14.md",
+                "bFile": "2026-01-14.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "00 - Concept"
+              "icon": "diff",
+              "title": "Diff: 2026-01-14"
             }
           }
         ]
@@ -229,8 +231,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "Untitled Kanban.md",
     "2026-01-14.md",
     "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
     "00 - Concept/Concept.CPP.Class.md",
@@ -260,8 +264,6 @@
     "01 - Snippet/Snippet.CPP.pragma once.md",
     "01 - Snippet/Snippet.CPP.Pointer.md",
     "01 - Snippet/Snippet.CPP.Passing by Reference.md",
-    "01 - Snippet/Snippet.CPP.Passing by Pointer.md",
-    "01 - Snippet/Snippet.CPP.new.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
