@@ -38,7 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//dailies"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

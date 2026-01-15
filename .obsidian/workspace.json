@@ -17,6 +17,8 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -239,6 +241,7 @@
   "lastOpenFiles": [
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
+    "dailies/dailies.md",
     "Excalidraw",
     "00 - Concept/Concept.D3D11.Tessellation.md",
     "Tags",
@@ -267,7 +270,6 @@
     "01 - Snippet/Snippet.CPP.Multiple Inheritance.md",
     "01 - Snippet/Snippet.CPP.multidimensional array.md",
     "01 - Snippet/Snippet.CPP.MoveConstructor.md",
-    "01 - Snippet/Snippet.CPP.MoveAssignment.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
