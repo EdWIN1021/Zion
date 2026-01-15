@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Note",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549
+    "width": 326,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
