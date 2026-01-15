@@ -35,7 +35,8 @@
     "Function": 23,
     "Virtual": 24,
     "AI": 25,
-    "Flexbox": 26
+    "Flexbox": 26,
+    "excalidraw": 27
   },
   "_version": 3
 }
