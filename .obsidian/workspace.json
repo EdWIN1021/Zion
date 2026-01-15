@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e76bcb344a03f235",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "96f39475f21576d9",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "kanban",
               "state": {
-                "path": "Excalidraw"
+                "file": "Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Excalidraw"
+              "icon": "lucide-trello",
+              "title": "Kanban"
             }
           }
         ]
@@ -57,7 +65,7 @@
             }
           },
           {
-            "id": "889c80adc682138d",
+            "id": "4a6c5625be7d3435",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 490
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -228,39 +236,39 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "96f39475f21576d9",
   "lastOpenFiles": [
+    "Snippet/Snippet.CPP.Abstract Class.md",
+    "Snippet/Snippet.CPP.A reference to a.md",
+    "Home.md",
+    "Tags",
+    "Snippet/Snippet.md",
+    "01 - Snippet.md",
+    "Snippet/Snippet.UE.AI.Navigation PathFinding.md",
     "Perforce.md",
     "Kanban.md",
-    "Home.md",
     "Templates/Type.md",
     "Templates/Function.md",
     "Templates/Property.md",
-    "00 - Concept/Concept.CPP.keywords.auto.md",
-    "00 - Concept/Concept.CPP.keywords.decltype.md",
+    "Concept/Concept.CPP.keywords.auto.md",
+    "Concept/Concept.CPP.keywords.decltype.md",
     "2026-01-14.md",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
-    "00 - Concept/Concept.CPP.Class.md",
-    "98 - Cheatsheet/Cheatsheet.Markdown.md",
+    "Concept/Concept.CPP.Class.md",
+    "Cheatsheet/Cheatsheet.Markdown.md",
     "dailies/dailies.md",
     "Excalidraw",
-    "00 - Concept/Concept.D3D11.Tessellation.md",
-    "Tags",
-    "00 - Concept/Concept.D3D11.HullShader.md",
+    "Concept/Concept.D3D11.Tessellation.md",
+    "Concept/Concept.D3D11.HullShader.md",
     "conceptd3d11domainshader.md",
     "conceptd3d11tessellator.md",
     "conceptd3d11hullshader.md",
-    "00 - Concept/Concept.D3D11.DomainShader.md",
-    "00 - Concept/Concept.D3D11.Tessellator.md",
+    "Concept/Concept.D3D11.DomainShader.md",
+    "Concept/Concept.D3D11.Tessellator.md",
     "00 - Concept/Concept.D3D11.HullShader",
     "00 - Concept/Concept.D3D11.Tessellation.md~",
-    "01 - Snippet/Snippet.CPP.PriorityQueue.pop.md",
-    "align-self.md",
-    "2026-01-12.md",
     "01 - Snippet/Snippet.CPP.C-Style-String.strlen.md~",
-    "01 - Snippet/Snippet.CPP.PassingByPointer.md",
-    "01 - Snippet/Snippet.CPP.Preprocessor Directive.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
@@ -276,7 +284,7 @@
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-06_022840.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-06_000933.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UPawnExtensionComponentBase 1768d590ff388038bef8e8caeb41b46b_all.csv",
-    "00 - Concept/Concept.D3D11.Canvas.canvas",
+    "Concept/Concept.D3D11.Canvas.canvas",
     "Untitled.canvas",
     "_temp_/Material.canvas",
     "_temp_/AI.canvas",
