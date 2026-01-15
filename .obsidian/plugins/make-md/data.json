@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "//dailies",
     "/",
-    "//Tags"
+    "//Tags",
+    "//00 - Concept"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

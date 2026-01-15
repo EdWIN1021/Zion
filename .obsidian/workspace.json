@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "2026-01-14.md",
-                "bFile": "2026-01-14.md",
-                "aRef": ""
+                "file": "00 - Concept/Concept.CPP.keywords.decltype.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-01-14"
+              "icon": "lucide-file",
+              "title": "Concept.CPP.keywords.decltype"
             }
           }
         ]
@@ -231,17 +231,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2026-01-14.md",
+    "Kanban.md",
     "Home.md",
+    "2026-01-14.md",
     "Untitled Kanban.md",
     "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
     "00 - Concept/Concept.CPP.Class.md",
     "98 - Cheatsheet/Cheatsheet.Markdown.md",
     "Templates/Type.md",
     "Perforce.md",
-    "Kanban.md",
     "dailies/dailies.md",
     "Excalidraw",
     "00 - Concept/Concept.D3D11.Tessellation.md",

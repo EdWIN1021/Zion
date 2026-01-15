@@ -1,8 +1,5 @@
-
-
 > [!NOTE] Title
 > decltype is a compile-time keywords in C++ (introduced in C ++ 11) that inspects the type of an expression without evaluating it.
-
 
 ```cpp
 const int ci = 0, &cj = ci;
@@ -18,8 +15,7 @@ decltype (r + 0) b;              // b is an uninitialized int
 ```
 
 if the expression is an lvalue decltype returns an lvalue reference to the type.
-
-Since p can appear on the left-hand side of an assignement (*p = 50), it is an lvaue.
+Since p can appear on the left-hand side of an assignment (*p = 50), it is an lvalue.
 
 ```cpp
 decltype (*p) c;      // error: c is int& and must be initialized
