@@ -57,8 +57,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "889c80adc682138d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "765e103309fe3fb0",
@@ -214,13 +225,17 @@
       "graph:Open graph view": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "c158b8494370e8d0",
   "lastOpenFiles": [
-    "00 - Concept/Concept.D3D11.HullShader.md",
+    "Tags",
     "00 - Concept/Concept.D3D11.Tessellation.md",
+    "00 - Concept/Concept.D3D11.HullShader.md",
     "conceptd3d11domainshader.md",
     "conceptd3d11tessellator.md",
     "conceptd3d11hullshader.md",
@@ -247,7 +262,6 @@
     "01 - Snippet/Snippet.CPP.MoveConstructor.md",
     "01 - Snippet/Snippet.CPP.MoveAssignment.md",
     "01 - Snippet/Snippet.CPP.MemberInitializerList.md",
-    "01 - Snippet/Snippet.CPP.map.size.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
