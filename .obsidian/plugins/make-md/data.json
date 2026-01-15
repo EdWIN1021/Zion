@@ -38,8 +38,13 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+    "//dailies",
     "/",
-    "//dailies"
+    "//Tags",
+    "//Excalidraw",
+    "//Templates",
+    "//98 - Cheatsheet",
+    "//00 - Concept"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
