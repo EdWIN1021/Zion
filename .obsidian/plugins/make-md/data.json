@@ -40,11 +40,7 @@
   "expandedSpaces": [
     "//dailies",
     "/",
-    "//Tags",
-    "//Excalidraw",
-    "//Templates",
-    "//98 - Cheatsheet",
-    "//00 - Concept"
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

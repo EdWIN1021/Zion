@@ -11,14 +11,12 @@
             "id": "57f23dcfde7c09f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "00 - Concept/Concept.CPP.Class.md",
-                "mode": "source",
-                "source": false
+                "path": "00 - Concept"
               },
               "icon": "lucide-file",
-              "title": "Concept.CPP.Class"
+              "title": "00 - Concept"
             }
           }
         ]
@@ -231,12 +229,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "57f23dcfde7c09f0",
+  "active": "889c80adc682138d",
   "lastOpenFiles": [
+    "2026-01-14.md",
+    "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
+    "00 - Concept/Concept.CPP.Class.md",
     "98 - Cheatsheet/Cheatsheet.Markdown.md",
     "Templates/Type.md",
     "Perforce.md",
-    "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
     "Kanban.md",
     "dailies/dailies.md",
     "Excalidraw",
@@ -246,7 +246,6 @@
     "conceptd3d11domainshader.md",
     "conceptd3d11tessellator.md",
     "conceptd3d11hullshader.md",
-    "00 - Concept/Concept.CPP.Class.md",
     "00 - Concept/Concept.D3D11.DomainShader.md",
     "00 - Concept/Concept.D3D11.Tessellator.md",
     "00 - Concept/Concept.D3D11.HullShader",
@@ -263,7 +262,6 @@
     "01 - Snippet/Snippet.CPP.Passing by Reference.md",
     "01 - Snippet/Snippet.CPP.Passing by Pointer.md",
     "01 - Snippet/Snippet.CPP.new.md",
-    "01 - Snippet/Snippet.CPP.Multiple Inheritance.md",
     "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
     "01 - Snippet/c++",
     "01 - Snipet",
