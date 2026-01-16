@@ -5,7 +5,7 @@
 class Shape {
 
 public:
-  virtual draw() = 0;
+  virtual draw()   = 0;
   virtual rotate() = 0;
   virtual ~Shape(){}  
 };
