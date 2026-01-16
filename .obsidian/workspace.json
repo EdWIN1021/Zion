@@ -222,7 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247
+    "width": 430
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,7 +239,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8429eb866f7f4a91",
+  "active": "b695828163473881",
   "lastOpenFiles": [
     "Perforce.md",
     "Home.md",
