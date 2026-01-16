@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippet/Snippet.CPP.Algorithm.sort.md",
+                "file": "Snippet/Snippet.CPP.C-Style-String.strcat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.Algorithm.sort"
+              "title": "Snippet.CPP.C-Style-String.strcat"
             }
           }
         ]
@@ -229,17 +229,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "3b3aabfb736154fd",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
-    "Snippet/Snippet.CPP.Algorithm.for_each.md",
+    "Snippet/Snippet.CPP.Array.md",
+    "Snippet/Snippet.CPP.array.array.md",
+    "Snippet/Snippet.CPP.Algorithm.sort.md",
+    "Snippet/Snippet.CPP.C-Style-String.strcat.md",
     "Snippet/Snippet.CPP.Algorithm.max.md",
-    "Snippet/Snippet.CPP.Algorithm.find.md",
-    "Snippet/Snippet.CPP.Accessing Class Members.md",
-    "Snippet/Snippet.CPP.A reference to a.md",
+    "Snippet/Snippet.CPP.Algorithm.for_each.md",
+    "Snippet/Snippet.CPP.AccessingClassMembers.md",
     "Snippet/Snippet.CPP.Abstract Class.md",
+    "Snippet/Snippet.CPP.Algorithm.find.md",
+    "Snippet/Snippet.CPP.A reference to a.md",
     "Snippet/Snippet.AWS.ec2.md",
     "Snippet/Snippet.md",
-    "Snippet/Snippet.CPP.array.array.md",
     "Home.md",
     "Snippet/Snippet.UE.UWidget.md",
     "Snippet/Snippet.UE.UUserWidget.UUserWidget.md",
@@ -254,9 +257,6 @@
     "Snippet/Snippet.UE.UUserWidget.CreateWidget.md",
     "Concept/Concept.UE.Socket.md",
     "Concept/Concept.UE.Pointer.TSoftClassPtr.md",
-    "Concept/Concept.UE.MetaSound.Stereo.md",
-    "Concept/Concept.UE.MetaSound.Mono.md",
-    "Concept/Concept.UE.MetaSound.md",
     "Concept/Concept.D3D11.Canvas.canvas",
     "Tags",
     "Excalidraw",
