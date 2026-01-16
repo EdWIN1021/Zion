@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/Concept.MP.AABB2.GetDimensions.md",
+                "file": "Concept/Concept.CPP.Pointer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept.MP.AABB2.GetDimensions"
+              "title": "Concept.CPP.Pointer"
             }
           }
         ]
@@ -231,15 +231,19 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Concept/Concept.D3D11.Tessellation.md",
-    "Concept/Concept.D3D11.IndexBuffer.md",
-    "Concept/Concept.CPP.TypeAliases.md",
+    "Concept/Concept.CPP.decltype.md",
     "Concept/Concept.CPP.Class.md",
-    "Concept/Concept.CPP.keywords.auto.md",
+    "Concept/Concept.D3D11.Canvas.canvas",
+    "Concept/Concept.CPP.Friends.md",
+    "Concept/Concept.CPP.auto.md",
+    "Concept/Concept.CPP.Purefunction.md",
+    "Concept/Concept.D3D11.IndexBuffer.md",
+    "Concept/Concept.MP.AABB2.GetDimensions.md",
+    "Concept/Concept.D3D11.Tessellation.md",
+    "Concept/Concept.CPP.TypeAliases.md",
     "Concept/Concept.D3D11.InputLayout.md",
     "Concept/Concept.UE.Multiplayer.NetworkRole.md",
     "Concept/Concept.UE.Multiplayer.Replication.md",
-    "Concept/Concept.D3D11.Canvas.canvas",
     "Create RenderTargetView.md",
     "Snippet/Snippet.md",
     "Snippet/Snippet.AWS.ec2.md",
@@ -254,11 +258,6 @@
     "Snippet/Snippet.CPP.Abstract Class.md",
     "Tags",
     "01 - Snippet.md",
-    "Snippet/Snippet.UE.AI.Navigation PathFinding.md",
-    "Templates/Type.md",
-    "Templates/Function.md",
-    "Templates/Property.md",
-    "Concept/Concept.CPP.keywords.decltype.md",
     "Excalidraw",
     "00 - Concept/Concept.D3D11.HullShader",
     "00 - Concept/Concept.D3D11.Tessellation.md~",
