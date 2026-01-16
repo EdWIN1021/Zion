@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "b8b154cab3b68c87",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "eef61a1c987665ed",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -17,6 +17,9 @@
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
+                    false,
                     false,
                     false,
                     false
@@ -65,7 +68,7 @@
             }
           },
           {
-            "id": "f8f3c6847bdadc4c",
+            "id": "997d9e796fa7aad0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -236,8 +239,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f8f3c6847bdadc4c",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
+    "Perforce.md",
     "Home.md",
     "Home.md",
     "Snippet/Snippet.CPP.Algorithm.find.md",
@@ -245,7 +249,6 @@
     "Snippet/Snippet.md",
     "Snippet/Snippet.CPP.C-Style-String.strcpy.md",
     "Snippet/Snippet.CPP.A reference to a.md",
-    "Perforce.md",
     "Concept/Concept.CPP.Class.md",
     "Snippet/Snippet.CPP.Abstract Class.md",
     "Tags",
