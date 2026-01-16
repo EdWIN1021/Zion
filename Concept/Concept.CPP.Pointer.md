@@ -1,8 +1,3 @@
----
-id: Pointers
-aliases: []
-tags: []
----
 
 
 > [!NOTE]
