@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippet/Snippet.CPP.Algorithm.for_each.md",
+                "file": "Snippet/Snippet.CPP.Algorithm.sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.Algorithm.for_each"
+              "title": "Snippet.CPP.Algorithm.sort"
             }
           }
         ]
@@ -231,8 +231,8 @@
   },
   "active": "3b3aabfb736154fd",
   "lastOpenFiles": [
-    "Snippet/Snippet.CPP.Algorithm.max.md",
     "Snippet/Snippet.CPP.Algorithm.for_each.md",
+    "Snippet/Snippet.CPP.Algorithm.max.md",
     "Snippet/Snippet.CPP.Algorithm.find.md",
     "Snippet/Snippet.CPP.Accessing Class Members.md",
     "Snippet/Snippet.CPP.A reference to a.md",
