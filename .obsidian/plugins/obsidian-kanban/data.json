@@ -1,3 +1,5 @@
 {
-  "show-checkboxes": false
+  "show-checkboxes": false,
+  "tag-sort": [],
+  "tag-colors": []
 }
