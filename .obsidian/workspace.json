@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kanban.md",
+                "file": "Home.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -24,7 +24,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Kanban"
+              "title": "Home"
             }
           }
         ]
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "373a976da09bafba",
+            "id": "f8f3c6847bdadc4c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -233,12 +233,12 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
-      "obsidian-kanban:Create new board": false,
-      "workspaces:Manage workspace layouts": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "f8f3c6847bdadc4c",
   "lastOpenFiles": [
+    "Home.md",
     "Home.md",
     "Snippet/Snippet.CPP.Algorithm.find.md",
     "Snippet/Snippet.AWS.ec2.md",
@@ -247,7 +247,6 @@
     "Snippet/Snippet.CPP.A reference to a.md",
     "Perforce.md",
     "Concept/Concept.CPP.Class.md",
-    "Kanban.md",
     "Snippet/Snippet.CPP.Abstract Class.md",
     "Tags",
     "01 - Snippet.md",
