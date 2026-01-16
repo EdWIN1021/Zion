@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippet/Snippet.Vue.watch.md",
+                "file": "Snippet/Snippet.UE.UWorld.SpawnActorDeferred.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.Vue.watch"
+              "title": "Snippet.UE.UWorld.SpawnActorDeferred"
             }
           }
         ]
@@ -231,6 +231,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Snippet/Snippet.Vue.composition-api.md",
+    "Snippet/Snippet.Vue.watch.md",
     "Snippet/Snippet.Vue.v-html.md",
     "Snippet/Snippet.Vue.v-if.md",
     "Snippet/Snippet.UE.UUserWidget.CreateWidget.md",
@@ -256,8 +258,6 @@
     "Concept/Concept.D3D11.Canvas.canvas",
     "Concept/Concept.CPP.Friends.md",
     "Concept/Concept.D3D11.IndexBuffer.md",
-    "Concept/Concept.MP.AABB2.GetDimensions.md",
-    "Concept/Concept.UE.Multiplayer.NetworkRole.md",
     "Tags",
     "Excalidraw",
     "00 - Concept/Concept.D3D11.HullShader",

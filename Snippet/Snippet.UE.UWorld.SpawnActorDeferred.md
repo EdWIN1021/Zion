@@ -1,7 +1,4 @@
-# SpawnActorDeferred
-
-Access Specifier: public
-Description: Allowing you to modify properties or set up the actor before it's fully initialized and added to the level
+> Allowing you to modify properties or set up the actor before it's fully initialized and added to the level
 
 ## **Declaration**
 
