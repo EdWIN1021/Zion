@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GetSoc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,8 +220,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Concept/Snippet.UE.GetSocket.md",
+    "Snippet/Snippet.UE.AttachMeshToSocket.md",
     "Concept/Concept.UE.Socket.md",
+    "Snippet/Snippet.UE.GetSocket.md",
+    "Concept/Concept.md",
+    "Snippet/Snippet.md",
     "Concept/Concept.UE.Pointer.TSoftClassPtr.md",
     "Concept/Concept.UE.Plugins.md",
     "Concept/Concept.UE.Multiplayer.Replication.RPC.Server.md",
@@ -231,7 +234,6 @@
     "Concept/Concept.UE.AActor.md",
     "Concept/Concept.CPP.Pointer.md",
     "Concept/Concept.CPP.Class.md",
-    "Concept/Concept.md",
     "Home.md",
     "Snippet/Snippet.CSS.align-self.md",
     "Snippet/Snippet.CPP.vector.insert.md",
@@ -244,8 +246,6 @@
     "Snippet/Snippet.CPP.C-Style-String.strcat.md",
     "Snippet/Snippet.CPP.Array.md",
     "Snippet/Snippet.CPP.array.array.md",
-    "Snippet/Snippet.CPP.Algorithm.sort.md",
-    "Snippet/Snippet.CPP.Algorithm.max.md",
     "Concept/Concept.D3D11.Canvas.canvas",
     "Tags",
     "Excalidraw",
