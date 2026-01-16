@@ -39,14 +39,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//dailies",
-    "/",
     "//Tags",
     "//Templates",
     "//99 - Assets",
     "//98 - Cheatsheet",
     "//00 - Concept",
     "//Excalidraw",
-    "//Concept"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
