@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippet/Snippet.UE.UWorld.SpawnActorDeferred.md",
+                "file": "Snippet/Snippet.UE.UWidgetComponent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.UE.UWorld.SpawnActorDeferred"
+              "title": "Snippet.UE.UWidgetComponent"
             }
           }
         ]
@@ -231,6 +231,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Snippet/Snippet.UE.UWorld.ServerTravel.md",
+    "Snippet/Snippet.UE.UWorld.SpawnActor.md",
+    "Snippet/Snippet.UE.UWorld.SpawnActorDeferred.md",
     "Snippet/Snippet.Vue.composition-api.md",
     "Snippet/Snippet.Vue.watch.md",
     "Snippet/Snippet.Vue.v-html.md",
@@ -254,10 +257,7 @@
     "Concept/Concept.D3D11.HullShader.md",
     "Concept/Concept.CPP.Pointer.md",
     "Concept/Concept.CPP.decltype.md",
-    "Concept/Concept.CPP.Class.md",
     "Concept/Concept.D3D11.Canvas.canvas",
-    "Concept/Concept.CPP.Friends.md",
-    "Concept/Concept.D3D11.IndexBuffer.md",
     "Tags",
     "Excalidraw",
     "00 - Concept/Concept.D3D11.HullShader",

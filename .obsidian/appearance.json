@@ -1,5 +1,7 @@
 {
   "cssTheme": "Maple",
-  "enabledCssSnippets": [],
+  "enabledCssSnippets": [
+    "styles"
+  ],
   "theme": "obsidian"
 }
