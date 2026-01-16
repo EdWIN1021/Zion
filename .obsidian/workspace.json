@@ -11,14 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Snippet/Snippet.UE.UUserWidget.UUserWidget.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".makemd/fileCache.mdc",
+                "bFile": ".makemd/fileCache.mdc",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Snippet.UE.UUserWidget.UUserWidget"
+              "icon": "diff",
+              "title": "Diff: fileCache.mdc"
             }
           }
         ]
@@ -59,7 +59,7 @@
             }
           },
           {
-            "id": "867fc00deef5abf3",
+            "id": "4e4fc377d55e7ecc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -231,6 +231,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.md",
+    "Snippet/Snippet.UE.UWidget.md",
+    "Snippet/Snippet.UE.UUserWidget.UUserWidget.md",
     "Snippet/Snippet.UE.UWidgetComponent.md",
     "Snippet/Snippet.UE.UWorld.ServerTravel.md",
     "Snippet/Snippet.UE.UWorld.SpawnActor.md",
@@ -254,9 +257,6 @@
     "Concept/Concept.CPP.LambdaExpressions.md",
     "Concept/Concept.CPP.Purefunction.md",
     "Concept/Concept.D3D11.Tessellation.md",
-    "Concept/Concept.D3D11.InputLayout.md",
-    "Concept/Concept.D3D11.HullShader.md",
-    "Concept/Concept.CPP.Pointer.md",
     "Concept/Concept.D3D11.Canvas.canvas",
     "Tags",
     "Excalidraw",
