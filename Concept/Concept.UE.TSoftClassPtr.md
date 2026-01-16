@@ -1,3 +1,5 @@
+[[Snippet.UE.TSoftClassPtr]]
+
 - 它是一种不会立即加载资源、只在需要时才加载的智能引用，适合延迟加载类（比如蓝图类）
 - `UClass*` / `TSubclassOf` 是 **强引用**，一旦使用，就会强制把资源加载进内存
 - `TSoftClassPtr` 只是保存了一个 **路径 (asset path)**，不会立刻加载
@@ -16,22 +18,3 @@
 - UI 界面蓝图
 - 大型关卡资源引用
 - 角色职业类、怪物类（在游戏中根据配置才生成）
-
-
-# IsNull
-```cpp
-CachedSoftEnemyClassToSpawn.IsNull();
-```
-
-## Get
-```cpp
-UClass* LoadedClass = CachedSoftEnemyClassToSpawn.Get();
-```
-
-## ToSoftObjectPath
-```cpp
-UAssetManager::Get().GetStreamableManager().RequestAsyncLoad(  
-    CachedSoftEnemyClassToSpawn.ToSoftObjectPath(),  
-    FStreamableDelegate::CreateUObject(this, &ThisClass::OnEnemyClassLoaded)  
-);
-```
