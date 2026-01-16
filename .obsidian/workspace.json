@@ -11,23 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Concept/Concept.UE.Pointer.TSoftClassPtr.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "Concept.UE.Pointer.TSoftClassPtr"
             }
           }
         ]
@@ -98,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344
+    "width": 477
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -229,6 +220,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Concept/Concept.UE.Plugins.md",
+    "Concept/Concept.UE.Multiplayer.Replication.RPC.Server.md",
+    "Concept/Concept.UE.Multiplayer.Replication.RPC.Multicast.md",
+    "Concept/Concept.UE.Multiplayer.Replication.RPC.Client.md",
+    "Concept/Concept.UE.Interface.md",
+    "Concept/Concept.UE.AActor.md",
+    "Concept/Concept.CPP.Pointer.md",
+    "Concept/Concept.CPP.Class.md",
+    "Concept/Concept.md",
     "Home.md",
     "Snippet/Snippet.CSS.align-self.md",
     "Snippet/Snippet.CPP.vector.insert.md",
@@ -246,15 +246,6 @@
     "Snippet/Snippet.CPP.Algorithm.for_each.md",
     "Snippet/Snippet.CPP.AccessingClassMembers.md",
     "Snippet/Snippet.CPP.Abstract Class.md",
-    "Snippet/Snippet.CPP.Algorithm.find.md",
-    "Snippet/Snippet.CPP.A reference to a.md",
-    "Snippet/Snippet.AWS.ec2.md",
-    "Snippet/Snippet.md",
-    "Snippet/Snippet.UE.UWidget.md",
-    "Snippet/Snippet.UE.UUserWidget.UUserWidget.md",
-    "Snippet/Snippet.UE.UWidgetComponent.md",
-    "Snippet/Snippet.UE.UWorld.ServerTravel.md",
-    "Snippet/Snippet.UE.UWorld.SpawnActor.md",
     "Concept/Concept.D3D11.Canvas.canvas",
     "Tags",
     "Excalidraw",
