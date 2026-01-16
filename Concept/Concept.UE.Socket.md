@@ -5,11 +5,8 @@
 
 ![[Screenshot 2025-12-19 191509.png | center]]
 
-
 ## Get Socket By Name
-```cpp
-const USkeletalMeshSocket* HandSocket = Character->GetMesh()->GetSocketByName(FName("RightHandSocket"));
-```
+![[Snippet.UE.GetSocket]]
 
 ## Attach the Weapon to the Character
 
