@@ -97,8 +97,8 @@ term
 ### Task List
 
 - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [ ] Update the website 🆔 vltuke
+- [ ] Contact the media ⛔ 0sjycz
 
 ### Emoji
 
