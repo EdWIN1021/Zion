@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8b154cab3b68c87",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "eef61a1c987665ed",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "997d9e796fa7aad0",
+            "id": "867fc00deef5abf3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -234,16 +234,16 @@
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "homepage:Open homepage": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "eef61a1c987665ed",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
-    "Perforce.md",
     "Home.md",
+    "Concept/Concept.CPP.keywords.auto.md",
+    "Perforce.md",
+    "Excalidraw/Drawing 2026-01-14 22.44.54.excalidraw.md",
     "Snippet/Snippet.CPP.Algorithm.find.md",
     "Snippet/Snippet.AWS.ec2.md",
     "Snippet/Snippet.md",
@@ -257,7 +257,6 @@
     "Templates/Type.md",
     "Templates/Function.md",
     "Templates/Property.md",
-    "Concept/Concept.CPP.keywords.auto.md",
     "Concept/Concept.CPP.keywords.decltype.md",
     "2026-01-14.md",
     "Untitled Kanban.md",
