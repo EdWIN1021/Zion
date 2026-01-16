@@ -1,11 +1,5 @@
----
-id: Snippet.CPP.Abstract Class
-aliases: []
-tags: []
----
-
-## An abstract class typically contains at least one pure virtual function
-## Cannot be instantiated
+- An abstract class typically contains at least one pure virtual function
+- Cannot be instantiated
 
 ```cpp
 class Shape {

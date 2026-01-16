@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "925678ebb2f37877",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "3b3aabfb736154fd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".makemd/fileCache.mdc",
-                "bFile": ".makemd/fileCache.mdc",
-                "aRef": ""
+                "file": "Snippet/Snippet.CPP.Abstract Class.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: fileCache.mdc"
+              "icon": "lucide-file",
+              "title": "Snippet.CPP.Abstract Class"
             }
           }
         ]
@@ -229,8 +229,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3b3aabfb736154fd",
   "lastOpenFiles": [
+    "Snippet/Snippet.AWS.ec2.md",
+    "Snippet/Snippet.md",
+    "Snippet/Snippet.CPP.array.array.md",
     "Home.md",
     "Snippet/Snippet.UE.UWidget.md",
     "Snippet/Snippet.UE.UUserWidget.UUserWidget.md",
@@ -254,9 +257,6 @@
     "Concept/Concept.md",
     "Concept/Concept.CPP.TypeAliases.md",
     "Concept/Concept.CPP.auto.md",
-    "Concept/Concept.CPP.LambdaExpressions.md",
-    "Concept/Concept.CPP.Purefunction.md",
-    "Concept/Concept.D3D11.Tessellation.md",
     "Concept/Concept.D3D11.Canvas.canvas",
     "Tags",
     "Excalidraw",
