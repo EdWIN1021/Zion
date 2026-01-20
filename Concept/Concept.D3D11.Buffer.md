@@ -1,0 +1,1 @@
+A buffer is a generic term for a contiguous block of memory used to store data that the GPU rendering pipeline needs to access or write to.
