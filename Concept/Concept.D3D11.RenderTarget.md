@@ -1,0 +1,1 @@
+A Render Target is typically a 2D Texture. While it is stored in memory, the GPU treats it as a 2D grid (matrix) of data elements (pixels or texels).
