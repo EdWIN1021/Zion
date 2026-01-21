@@ -220,16 +220,6 @@
 			"height":212
 		},
 		{
-			"id":"290aa09bcc053528",
-			"type":"text",
-			"text":"[[Set Viewport]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-6440,
-			"y":245,
-			"width":440,
-			"height":120
-		},
-		{
 			"id":"382d85be3e587dba",
 			"type":"text",
 			"text":"[[ID3D11Device]]",
@@ -282,7 +272,7 @@
 		{
 			"id":"e6b4996122651bdb",
 			"type":"text",
-			"text":"[[OMSetRenderTargets]]",
+			"text":"[[Set Render Targets]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-6440,
 			"y":32,
@@ -338,6 +328,16 @@
 			"y":-560,
 			"width":440,
 			"height":105
+		},
+		{
+			"id":"290aa09bcc053528",
+			"type":"text",
+			"text":"[[Set Viewport]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-6440,
+			"y":245,
+			"width":440,
+			"height":120
 		}
 	],
 	"edges":[
