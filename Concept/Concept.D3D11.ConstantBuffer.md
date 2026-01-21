@@ -1,0 +1,1 @@
+> A **Constant Buffer** is a specialized buffer used to pass global variables from the C++ application to the shader programs (HLSL).
