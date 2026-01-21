@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"88809e3b2ec678a0","type":"group","x":-4480,"y":-1040,"width":9820,"height":1480,"label":"Render Loop"},
+		{"id":"88809e3b2ec678a0","type":"group","x":-4500,"y":-1040,"width":10480,"height":1480,"label":"Render Loop"},
 		{"id":"228a5d49f4cd07ab","type":"group","x":-7080,"y":-1130,"width":2200,"height":1658,"label":"Initialization "},
-		{"id":"1bd98f8c86f2012c","type":"group","x":-5760,"y":-760,"width":680,"height":847,"label":"Shaders"},
 		{"id":"f6a36ba1f0f3e7fb","type":"group","x":-400,"y":-661,"width":2060,"height":740,"label":"Tessellation"},
 		{"id":"0848f49a08af0c56","type":"group","x":-2980,"y":-842,"width":1100,"height":1102,"label":"Resource Manipulation"},
+		{"id":"1bd98f8c86f2012c","type":"group","x":-5760,"y":-760,"width":680,"height":847,"label":"Shaders"},
 		{
 			"id":"f253908ac7b7457b",
 			"type":"text",
@@ -24,179 +24,6 @@
 			"y":-2360,
 			"width":300,
 			"height":123
-		},
-		{
-			"id":"d5721ef012dd50b2",
-			"type":"text",
-			"text":"[[Draw]]",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":null
-			},
-			"x":-2860,
-			"y":70,
-			"width":272,
-			"height":80
-		},
-		{
-			"id":"d0cda8bacb54d928",
-			"type":"text",
-			"text":"[[Snippet.D3D11.BindShaders]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2609,
-			"y":-781,
-			"width":334,
-			"height":81
-		},
-		{
-			"id":"8a7c52f7090acf4e",
-			"type":"text",
-			"text":"[[Concept.D3D11.StreamOutput|Stream Output]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":2820,
-			"y":59,
-			"width":500,
-			"height":212
-		},
-		{
-			"id":"0c3b62f11172f348",
-			"type":"text",
-			"text":"[[Concept.D3D11.OutputMerger|Output Merger]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":4540,
-			"y":-397,
-			"width":500,
-			"height":212
-		},
-		{
-			"id":"cd1fc589537092db",
-			"type":"text",
-			"text":"[[IASetPrimitiveTopology]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2575,
-			"y":-622,
-			"width":267,
-			"height":102
-		},
-		{
-			"id":"f00b6368f55c7219",
-			"type":"text",
-			"text":"[[DrawIndexed]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2306,
-			"y":70,
-			"width":300,
-			"height":80
-		},
-		{
-			"id":"03dfa92114e3391e",
-			"type":"text",
-			"text":"[[Concept.D3D11.InputAssembler|Input Assembler]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1680,
-			"y":-381,
-			"width":440,
-			"height":179
-		},
-		{
-			"id":"af6f3bd410761cc8",
-			"type":"text",
-			"text":"[[Concept.D3D11.VertexShader|VertexShader]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1020,
-			"y":-381,
-			"width":440,
-			"height":179
-		},
-		{
-			"id":"a132e3b494ab218a",
-			"type":"text",
-			"text":"[[Concept.D3D11.IndexBuffer]] ?",
-			"styleAttributes":{"textAlign":"center","shape":"diamond"},
-			"x":-2586,
-			"y":-133,
-			"width":288,
-			"height":117
-		},
-		{
-			"id":"54d5c7eac21cd3d2",
-			"type":"text",
-			"text":"[[IASetVertexBuffers]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2580,
-			"y":-294,
-			"width":276,
-			"height":90
-		},
-		{
-			"id":"725bb56ea13bb116",
-			"type":"text",
-			"text":"[[IASetInputLayout]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2577,
-			"y":-459,
-			"width":271,
-			"height":82
-		},
-		{
-			"id":"0dd1cbb883561d9d",
-			"type":"text",
-			"text":"[[Concept.D3D11.HullShader|Hull Shader]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-240,
-			"y":-381,
-			"width":440,
-			"height":179
-		},
-		{
-			"id":"d8ff1028443a9e29",
-			"type":"text",
-			"text":"[[Concept.D3D11.Tessellator|Tessellator]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":400,
-			"y":-381,
-			"width":440,
-			"height":179
-		},
-		{
-			"id":"7acf608d61f0169e",
-			"type":"text",
-			"text":"[[Concept.D3D11.DomainShader|Domain Shader]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1060,
-			"y":-381,
-			"width":440,
-			"height":179
-		},
-		{
-			"id":"abdc7d8c3aa8441d",
-			"type":"text",
-			"text":"[[Concept.D3D11.GeometryShader|Geometry Shader]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1880,
-			"y":-397,
-			"width":500,
-			"height":212
-		},
-		{
-			"id":"85ae7841fb347928",
-			"type":"text",
-			"text":"[[Concept.D3D11.Rasterizer|Rasterizer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":2820,
-			"y":-397,
-			"width":500,
-			"height":212
-		},
-		{
-			"id":"6591022d373aa6c1",
-			"type":"text",
-			"text":"[[Concept.D3D11.PixelShader|Pixel Shader]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":3680,
-			"y":-397,
-			"width":500,
-			"height":212
 		},
 		{
 			"id":"382d85be3e587dba",
@@ -338,6 +165,189 @@
 			"y":-154,
 			"width":420,
 			"height":141
+		},
+		{
+			"id":"d5721ef012dd50b2",
+			"type":"text",
+			"text":"[[Draw]]",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":null
+			},
+			"x":-2860,
+			"y":70,
+			"width":272,
+			"height":80
+		},
+		{
+			"id":"d0cda8bacb54d928",
+			"type":"text",
+			"text":"[[Snippet.D3D11.BindShaders]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2609,
+			"y":-781,
+			"width":334,
+			"height":81
+		},
+		{
+			"id":"cd1fc589537092db",
+			"type":"text",
+			"text":"[[IASetPrimitiveTopology]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2575,
+			"y":-622,
+			"width":267,
+			"height":102
+		},
+		{
+			"id":"a132e3b494ab218a",
+			"type":"text",
+			"text":"[[Concept.D3D11.IndexBuffer]] ?",
+			"styleAttributes":{"textAlign":"center","shape":"diamond"},
+			"x":-2586,
+			"y":-133,
+			"width":288,
+			"height":117
+		},
+		{
+			"id":"54d5c7eac21cd3d2",
+			"type":"text",
+			"text":"[[IASetVertexBuffers]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2580,
+			"y":-294,
+			"width":276,
+			"height":90
+		},
+		{
+			"id":"725bb56ea13bb116",
+			"type":"text",
+			"text":"[[IASetInputLayout]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2577,
+			"y":-459,
+			"width":271,
+			"height":82
+		},
+		{
+			"id":"f00b6368f55c7219",
+			"type":"text",
+			"text":"[[DrawIndexed]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2306,
+			"y":70,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"03dfa92114e3391e",
+			"type":"text",
+			"text":"[[Concept.D3D11.InputAssembler|Input Assembler]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1680,
+			"y":-381,
+			"width":440,
+			"height":179
+		},
+		{
+			"id":"af6f3bd410761cc8",
+			"type":"text",
+			"text":"[[Concept.D3D11.VertexShader|VertexShader]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1020,
+			"y":-381,
+			"width":440,
+			"height":179
+		},
+		{
+			"id":"0dd1cbb883561d9d",
+			"type":"text",
+			"text":"[[Concept.D3D11.HullShader|Hull Shader]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-240,
+			"y":-381,
+			"width":440,
+			"height":179
+		},
+		{
+			"id":"d8ff1028443a9e29",
+			"type":"text",
+			"text":"[[Concept.D3D11.Tessellator|Tessellator]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":400,
+			"y":-381,
+			"width":440,
+			"height":179
+		},
+		{
+			"id":"7acf608d61f0169e",
+			"type":"text",
+			"text":"[[Concept.D3D11.DomainShader|Domain Shader]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1060,
+			"y":-381,
+			"width":440,
+			"height":179
+		},
+		{
+			"id":"abdc7d8c3aa8441d",
+			"type":"text",
+			"text":"[[Concept.D3D11.GeometryShader|Geometry Shader]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1880,
+			"y":-397,
+			"width":500,
+			"height":212
+		},
+		{
+			"id":"8a7c52f7090acf4e",
+			"type":"text",
+			"text":"[[Concept.D3D11.StreamOutput|Stream Output]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2820,
+			"y":59,
+			"width":500,
+			"height":212
+		},
+		{
+			"id":"85ae7841fb347928",
+			"type":"text",
+			"text":"[[Concept.D3D11.Rasterizer|Rasterizer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2820,
+			"y":-397,
+			"width":500,
+			"height":212
+		},
+		{
+			"id":"6591022d373aa6c1",
+			"type":"text",
+			"text":"[[Concept.D3D11.PixelShader|Pixel Shader]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3680,
+			"y":-397,
+			"width":500,
+			"height":212
+		},
+		{
+			"id":"131a3a6f88592098",
+			"type":"text",
+			"text":"Present",
+			"styleAttributes":{"textAlign":"center"},
+			"x":5300,
+			"y":-397,
+			"width":480,
+			"height":212
+		},
+		{
+			"id":"0c3b62f11172f348",
+			"type":"text",
+			"text":"[[Concept.D3D11.OutputMerger|Output Merger]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":4500,
+			"y":-397,
+			"width":500,
+			"height":212
 		}
 	],
 	"edges":[
@@ -602,6 +612,15 @@
 			"fromNode":"6591022d373aa6c1",
 			"fromSide":"right",
 			"toNode":"0c3b62f11172f348",
+			"toSide":"left"
+		},
+		{
+			"id":"c857774b4bce2222",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"0c3b62f11172f348",
+			"fromSide":"right",
+			"toNode":"131a3a6f88592098",
 			"toSide":"left"
 		}
 	],
