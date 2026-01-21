@@ -167,16 +167,6 @@
 			"height":102
 		},
 		{
-			"id":"03dfa92114e3391e",
-			"type":"text",
-			"text":"[[Concept.D3D11.InputAssembler|Input Assembler]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1680,
-			"y":-381,
-			"width":440,
-			"height":179
-		},
-		{
 			"id":"af6f3bd410761cc8",
 			"type":"text",
 			"text":"[[Concept.D3D11.VertexShader|VertexShader]]",
@@ -277,6 +267,26 @@
 			"height":212
 		},
 		{
+			"id":"725bb56ea13bb116",
+			"type":"text",
+			"text":"[[IASetInputLayout]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2577,
+			"y":-459,
+			"width":271,
+			"height":82
+		},
+		{
+			"id":"03dfa92114e3391e",
+			"type":"text",
+			"text":"[[Concept.D3D11.InputAssembler|Input Assembler]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1680,
+			"y":-381,
+			"width":440,
+			"height":179
+		},
+		{
 			"id":"d5721ef012dd50b2",
 			"type":"text",
 			"text":"[[Draw]]",
@@ -310,19 +320,9 @@
 			"height":90
 		},
 		{
-			"id":"725bb56ea13bb116",
-			"type":"text",
-			"text":"[[IASetInputLayout]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2577,
-			"y":-459,
-			"width":271,
-			"height":82
-		},
-		{
 			"id":"f00b6368f55c7219",
 			"type":"text",
-			"text":"[[DrawIndexed]]",
+			"text":"[[DrawIndexed | Draw Indexed]]",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-2306,
 			"y":70,
