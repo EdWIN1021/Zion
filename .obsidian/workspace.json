@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/Concept.D3D11.Buffer.md",
+                "file": "Concept/Concept.D3D11.Texture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept.D3D11.Buffer"
+              "title": "Concept.D3D11.Texture"
             }
           }
         ]
@@ -218,8 +218,17 @@
   },
   "active": "b8a07e105c3fa26c",
   "lastOpenFiles": [
-    "Concept/Concept.D3D11.BackBuffer.md",
+    "Concept/Concept.D3D11.DepthBuffer.md",
+    "Concept/Concept.D3D11.Texture.md",
     "Concept/Concept.D3D11.Buffer.md",
+    "Concept/Concept.D3D11.DomainShader.md",
+    "Concept/Concept.D3D11.HullShader.md",
+    "Concept/Concept.D3D11.IndexBuffer.md",
+    "Concept/Concept.D3D11.InputLayout.md",
+    "Concept/Concept.D3D11.VertexBuffer.md",
+    "Concept/Concept.CPP.Purefunction.md",
+    "Concept/Concept.CPP.TypeAliases.md",
+    "Concept/Concept.D3D11.BackBuffer.md",
     "Concept/Concept.D3D11.Rasterizer.md",
     "Concept/Concept.D3D11.Tessellation.md",
     "Concept/Concept.D3D11.RenderTarget.md",
@@ -231,22 +240,13 @@
     "Concept/Concept.UE.ProjectSettings.Packaging.md",
     "Concept/Concept.MP.AABB2.IsPointInside.md",
     "Concept/Concept.MP.AABB2.GetDimensions.md",
-    "Concept/Concept.CPP.Purefunction.md",
-    "Concept/Concept.CPP.TypeAliases.md",
     "Concept/Concept.D3D11.Canvas.canvas",
-    "Concept/Concept.D3D11.InputLayout.md",
-    "Concept/Concept.D3D11.DomainShader.md",
-    "Concept/Concept.D3D11.IndexBuffer.md",
-    "Concept/Concept.D3D11.HullShader.md",
     "Concept/Concept.CPP.Class.md",
     "Concept/Concept.CPP.auto.md",
     "Screenshot 2026-01-20 165950.png",
     "Assets/Screenshot 2026-01-20 165618.png",
     "Snippet/Snippet.CPP.Abstract Class.md",
     "Home.md",
-    "Snippet/Snippet.UE.TSoftClassPtr.md",
-    "Snippet/Snippet.UE.AbilityTask.md",
-    "Snippet/Snippet.UE.Pointer.TSoftClassPtr.md",
     "Tags",
     "Excalidraw",
     "00 - Concept/Concept.D3D11.HullShader",
