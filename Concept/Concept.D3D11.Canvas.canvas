@@ -6,26 +6,6 @@
 		{"id":"0848f49a08af0c56","type":"group","x":-2980,"y":-842,"width":1100,"height":1102,"label":"Resource Manipulation"},
 		{"id":"1bd98f8c86f2012c","type":"group","x":-5760,"y":-760,"width":680,"height":847,"label":"Shaders"},
 		{
-			"id":"f253908ac7b7457b",
-			"type":"text",
-			"text":"programmable stages",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-2140,
-			"width":300,
-			"height":117
-		},
-		{
-			"id":"7e9a520ba7cd2f29",
-			"type":"text",
-			"text":"fixed function stages",
-			"styleAttributes":{},
-			"x":-2340,
-			"y":-2360,
-			"width":300,
-			"height":123
-		},
-		{
 			"id":"382d85be3e587dba",
 			"type":"text",
 			"text":"[[ID3D11Device]]",
