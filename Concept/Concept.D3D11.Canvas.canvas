@@ -6,36 +6,6 @@
 		{"id":"f6a36ba1f0f3e7fb","type":"group","x":-400,"y":-661,"width":2060,"height":740,"label":"Tessellation"},
 		{"id":"0848f49a08af0c56","type":"group","x":-2980,"y":-842,"width":1100,"height":1102,"label":"Resource Manipulation"},
 		{
-			"id":"382d85be3e587dba",
-			"type":"text",
-			"text":"[[ID3D11Device]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6880,
-			"y":-1015,
-			"width":280,
-			"height":147
-		},
-		{
-			"id":"a3d38f9d82557fab",
-			"type":"text",
-			"text":"[[ID3D11DeviceContext]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6880,
-			"y":-782,
-			"width":280,
-			"height":168
-		},
-		{
-			"id":"6c194de50ef42627",
-			"type":"text",
-			"text":"[[IDXGISwapChain]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":-6880,
-			"y":-543,
-			"width":280,
-			"height":175
-		},
-		{
 			"id":"f253908ac7b7457b",
 			"type":"text",
 			"text":"programmable stages",
@@ -260,6 +230,26 @@
 			"height":120
 		},
 		{
+			"id":"382d85be3e587dba",
+			"type":"text",
+			"text":"[[ID3D11Device]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-6880,
+			"y":-1015,
+			"width":280,
+			"height":147
+		},
+		{
+			"id":"a3d38f9d82557fab",
+			"type":"text",
+			"text":"[[ID3D11DeviceContext]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-6880,
+			"y":-782,
+			"width":280,
+			"height":168
+		},
+		{
 			"id":"d92ede1fcfc2b51c",
 			"type":"text",
 			"text":"[[Compile & Create Shaders]]",
@@ -290,26 +280,6 @@
 			"height":141
 		},
 		{
-			"id":"e55ac864f2034167",
-			"type":"text",
-			"text":"[[D3D11CreateDeviceAndSwapChain]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-6440,
-			"y":-758,
-			"width":440,
-			"height":120
-		},
-		{
-			"id":"13336ecc50f70f75",
-			"type":"text",
-			"text":"[[Snippet.D3D11.CreateBuffer]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-6440,
-			"y":-560,
-			"width":440,
-			"height":105
-		},
-		{
 			"id":"e6b4996122651bdb",
 			"type":"text",
 			"text":"[[OMSetRenderTargets]]",
@@ -338,6 +308,36 @@
 			"y":-169,
 			"width":440,
 			"height":120
+		},
+		{
+			"id":"6c194de50ef42627",
+			"type":"text",
+			"text":"[[IDXGISwapChain]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":-6880,
+			"y":-543,
+			"width":280,
+			"height":175
+		},
+		{
+			"id":"e55ac864f2034167",
+			"type":"text",
+			"text":"[[D3D11CreateDeviceAndSwapChain]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-6440,
+			"y":-758,
+			"width":440,
+			"height":120
+		},
+		{
+			"id":"13336ecc50f70f75",
+			"type":"text",
+			"text":"[[Snippet.D3D11.CreateBuffer | Create Buffer]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-6440,
+			"y":-560,
+			"width":440,
+			"height":105
 		}
 	],
 	"edges":[

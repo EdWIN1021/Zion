@@ -15,8 +15,8 @@
               "state": {
                 "file": "Concept/Concept.D3D11.Canvas.canvas",
                 "viewState": {
-                  "x": -5553.6670834805,
-                  "y": -402.4947388773308,
+                  "x": -6042.600838075142,
+                  "y": -467.63481590012776,
                   "zoom": 0.38391741564699017
                 }
               },
@@ -221,8 +221,9 @@
   },
   "active": "b8a07e105c3fa26c",
   "lastOpenFiles": [
-    "Snippet/Snippet.D3D11.CreateInputLayout.md",
+    "Snippet/Snippet.D3D11.CreateBuffer.md",
     "Concept/Concept.D3D11.Canvas.canvas",
+    "Snippet/Snippet.D3D11.CreateInputLayout.md",
     "Concept/Concept.D3D11.GeometryShader.md",
     "Concept/Concept.D3D11.VertexShader.md",
     "Concept/Concept.D3D11.Tessellation.md",
@@ -247,7 +248,6 @@
     "Concept/Concept.D3D11.BackBuffer.md",
     "Concept/Concept.D3D11.RenderTarget.md",
     "Concept/Concept.MP.AABB2.md",
-    "Concept/Concept.UE.TSoftClassPtr.md",
     "Screenshot 2026-01-20 165950.png",
     "Assets/Screenshot 2026-01-20 165618.png",
     "Tags",
