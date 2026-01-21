@@ -15,9 +15,9 @@
               "state": {
                 "file": "Concept/Concept.D3D11.Canvas.canvas",
                 "viewState": {
-                  "x": 1018.3993251056165,
-                  "y": -170.60277151907047,
-                  "zoom": -0.949415917686343
+                  "x": -5553.6670834805,
+                  "y": -402.4947388773308,
+                  "zoom": 0.38391741564699017
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -221,8 +221,9 @@
   },
   "active": "b8a07e105c3fa26c",
   "lastOpenFiles": [
-    "Concept/Concept.D3D11.GeometryShader.md",
+    "Snippet/Snippet.D3D11.CreateInputLayout.md",
     "Concept/Concept.D3D11.Canvas.canvas",
+    "Concept/Concept.D3D11.GeometryShader.md",
     "Concept/Concept.D3D11.VertexShader.md",
     "Concept/Concept.D3D11.Tessellation.md",
     "Concept/Concept.D3D11.PixelShader.md",
