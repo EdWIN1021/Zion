@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"88809e3b2ec678a0","type":"group","x":-4480,"y":-1040,"width":9820,"height":1480,"label":"Render Loop"},
-		{"id":"228a5d49f4cd07ab","type":"group","x":-7080,"y":-1130,"width":2200,"height":1658,"color":"4","label":"Initialization "},
-		{"id":"1bd98f8c86f2012c","type":"group","x":-5760,"y":-748,"width":680,"height":847,"color":"6","label":"Shaders"},
+		{"id":"228a5d49f4cd07ab","type":"group","x":-7080,"y":-1130,"width":2200,"height":1658,"label":"Initialization "},
+		{"id":"1bd98f8c86f2012c","type":"group","x":-5760,"y":-760,"width":680,"height":847,"label":"Shaders"},
 		{"id":"f6a36ba1f0f3e7fb","type":"group","x":-400,"y":-661,"width":2060,"height":740,"label":"Tessellation"},
 		{"id":"0848f49a08af0c56","type":"group","x":-2980,"y":-842,"width":1100,"height":1102,"label":"Resource Manipulation"},
 		{
@@ -24,27 +24,6 @@
 			"y":-2360,
 			"width":300,
 			"height":123
-		},
-		{
-			"id":"3de0e82348455e1e",
-			"type":"text",
-			"text":"[[ClearScreen]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-4340,
-			"y":-365,
-			"width":400,
-			"height":140
-		},
-		{
-			"id":"ac409397fb272db5",
-			"type":"text",
-			"text":"[[CPU to GPU]]\n",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":-3740,
-			"y":-415,
-			"width":540,
-			"height":240,
-			"color":"2"
 		},
 		{
 			"id":"d5721ef012dd50b2",
@@ -240,36 +219,6 @@
 			"height":168
 		},
 		{
-			"id":"d92ede1fcfc2b51c",
-			"type":"text",
-			"text":"[[Compile & Create Shaders]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-5640,
-			"y":-634,
-			"width":420,
-			"height":125
-		},
-		{
-			"id":"35b65c8c2bbfebfa",
-			"type":"text",
-			"text":"[[Snippet.D3D11.CreateInputLayout|Create Input Layout]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-5640,
-			"y":-395,
-			"width":420,
-			"height":123
-		},
-		{
-			"id":"1c5978fbd0572c3d",
-			"type":"text",
-			"text":"[[Clean up Intermediate Data]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-5640,
-			"y":-142,
-			"width":420,
-			"height":141
-		},
-		{
 			"id":"e6b4996122651bdb",
 			"type":"text",
 			"text":"[[Set Render Targets]]",
@@ -338,6 +287,57 @@
 			"y":245,
 			"width":440,
 			"height":120
+		},
+		{
+			"id":"3de0e82348455e1e",
+			"type":"text",
+			"text":"[[ClearScreen]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-4340,
+			"y":-365,
+			"width":400,
+			"height":140
+		},
+		{
+			"id":"ac409397fb272db5",
+			"type":"text",
+			"text":"[[CPU to GPU]]\n",
+			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
+			"x":-3740,
+			"y":-415,
+			"width":540,
+			"height":240,
+			"color":"2"
+		},
+		{
+			"id":"d92ede1fcfc2b51c",
+			"type":"text",
+			"text":"[[Compile & Create Shaders]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5640,
+			"y":-646,
+			"width":420,
+			"height":125
+		},
+		{
+			"id":"35b65c8c2bbfebfa",
+			"type":"text",
+			"text":"[[Snippet.D3D11.CreateInputLayout|Create Input Layout]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5640,
+			"y":-407,
+			"width":420,
+			"height":123
+		},
+		{
+			"id":"1c5978fbd0572c3d",
+			"type":"text",
+			"text":"[[Clean up Intermediate Data]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-5640,
+			"y":-154,
+			"width":420,
+			"height":141
 		}
 	],
 	"edges":[
