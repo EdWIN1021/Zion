@@ -11,17 +11,14 @@
             "id": "b8a07e105c3fa26c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Concept/Concept.D3D11.Canvas.canvas",
-                "viewState": {
-                  "x": -6033.721470291338,
-                  "y": -427.8710375681404,
-                  "zoom": -0.28274925101967646
-                }
+                "file": "Concept/Concept.CPP.Pointer.Indexing.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Concept.D3D11.Canvas"
+              "icon": "lucide-file",
+              "title": "Concept.CPP.Pointer.Indexing"
             }
           }
         ]
@@ -221,13 +218,16 @@
   },
   "active": "b8a07e105c3fa26c",
   "lastOpenFiles": [
-    "DrawIndexed.md",
-    "Concept/Concept.D3D11.Canvas.canvas",
+    "Concept/Concept.D3D11.InputLayout.md",
+    "Concept/Concept.CPP.Pointer.Indexing.md",
+    "Concept/Concept.D3D11.InputAssembler.md",
     "Concept/Concept.D3D11.IndexBuffer.md",
+    "Concept/Concept.D3D11.VertexShader.md",
+    "Concept/Concept.D3D11.Canvas.canvas",
+    "DrawIndexed.md",
     "Snippet/Snippet.D3D11.CreateBuffer.md",
     "Snippet/Snippet.D3D11.CreateInputLayout.md",
     "Concept/Concept.D3D11.GeometryShader.md",
-    "Concept/Concept.D3D11.VertexShader.md",
     "Concept/Concept.D3D11.Tessellation.md",
     "Concept/Concept.D3D11.PixelShader.md",
     "Concept/Concept.D3D11.DomainShader.md",
@@ -236,14 +236,12 @@
     "Concept/Concept.D3D11.Tessellator.md",
     "Concept/Concept.D3D11.HullShader.md",
     "Concept/Concept.D3D11.VertexBuffer.md",
-    "Concept/Concept.D3D11.InputAssembler.md",
     "Concept/Concept.D3D11.OutputMerger.md",
     "Concept/Concept.D3D11.FixedFunctionStage.md",
     "Concept/Concept.D3D11.DepthBuffer.md",
     "Concept/Concept.D3D11.ConstantBuffer.md",
     "Concept/Concept.D3D11.Texture.md",
     "Concept/Concept.D3D11.Buffer.md",
-    "Concept/Concept.D3D11.InputLayout.md",
     "Concept/Concept.CPP.Purefunction.md",
     "Concept/Concept.CPP.TypeAliases.md",
     "Concept/Concept.D3D11.BackBuffer.md",
