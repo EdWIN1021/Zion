@@ -8,7 +8,6 @@ X -> Y -> Z ->X -> Y -> Z
 
 $$R_{z} = \begin{bmatrix} CY & -SY & 0 & 0 \\ SY & CY & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}$$
 
-
 ## Pitch
 $$R_{y} = \begin{bmatrix} CP & 0 & SP & 0 \\ 0 & 1 & 0 & 0 \\ -SP & 0 & CP & 0 \\ 0 & 0 & 0 & 1 \end{bmatrix}$$
 ## Roll
