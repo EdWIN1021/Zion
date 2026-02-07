@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concept/Concept.MP.MathUtils.CrossProduct.md",
+                "file": "Concept/Concept.D3D11.RenderTargetView.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept.MP.MathUtils.CrossProduct"
+              "title": "Concept.D3D11.RenderTargetView"
+            }
+          },
+          {
+            "id": "d17ec7d7694b9d5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept/Concept.D3D11.BackBuffer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concept.D3D11.BackBuffer"
             }
           }
         ]
@@ -169,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cross",
+                "query": "renderTArget",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,6 +232,14 @@
   },
   "active": "fe4fc0fbbbfe05c9",
   "lastOpenFiles": [
+    "Concept/Concept.CPP.LambdaExpressions.md",
+    "Concept/Concept.D3D11.BackBuffer.md",
+    "Concept/Concept.D3D11.RenderTargetView.md",
+    "Snippet/Snippet.D311.Create.md",
+    "Concept/Concept.D3D11.RenderTarget.md",
+    "Concept/Concept.D3D11.Canvas.canvas",
+    "Concept/Concept.CPP.Pointer.md",
+    "Concept/Concept.MP.MathUtils.CrossProduct.md",
     "Snippet/Snippet.MP.3DRotation.md",
     "Concept/Concept.D3D11.IndexBuffer.md",
     "Concept/Concept.CPP.Pointer.Indexing.md",
@@ -233,19 +255,11 @@
     "Snippet/Snippet.MP.MathUtils.Interpolate.md",
     "Snippet/Snippet.MP.Disc.GetNearestPointOnDisc2D.md",
     "Concept/Concept.MP.AABB2.md",
-    "Concept/Concept.MP.MathUtils.CrossProduct.md",
     "Concept/Concept.CPP.decltype.md",
     "Perforce.md",
     "Concept/Concept.MP.AABB2.IsPointInside.md",
     "Concept/Concept.MP.AABB2.GetNearestPoint.md",
-    "Concept/Concept.MP.AABB2.GetDimensions.md",
     "Screenshot 2026-01-20 165950.png",
-    "Cheatsheet/Cheatsheet.UE.Shortcuts.md",
-    "Cheatsheet/Cheatsheet.Markdown.md",
-    "Concept/Concept.UE.Multiplayer.Replication.Actor.md",
-    "Snippet/Snippet.D311.Draw.md",
-    "Snippet/Snippet.D311.DrawIndexed.md",
-    "Concept/Concept.D3D11.Canvas.canvas",
     "Assets/Screenshot 2026-01-20 165618.png",
     "Tags",
     "Excalidraw",

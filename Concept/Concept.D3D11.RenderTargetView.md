@@ -1,0 +1,1 @@
+ Render Target View often points to the backbuffer, acting as a descriptor for the backbuffer texture (a 2D texture) so the GPU knows how to write rendering data (colors, depth, etc.) to it before it's presented to the screen.
