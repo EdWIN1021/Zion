@@ -11,12 +11,14 @@
             "id": "fe4fc0fbbbfe05c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Screenshot 2025-12-19 201929.png"
+                "file": "04 - Math/MP.AABB3.Raycast.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-12-19 201929"
+              "icon": "lucide-file",
+              "title": "MP.AABB3.Raycast"
             }
           }
         ]
@@ -87,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 725.5
+    "width": 518.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -217,6 +219,8 @@
   },
   "active": "fe4fc0fbbbfe05c9",
   "lastOpenFiles": [
+    "temp.md",
+    "04 - Math/MP.AABB3.Raycast.md",
     "Assets/Screenshot 2025-12-19 201929.png",
     "Assets/Screenshot 2025-12-19 201845.png",
     "Assets/Screenshot 2025-07-26 150515.png",
@@ -228,7 +232,6 @@
     "Assets/UnrealEngine/UE.ProjectSettings.Packaging_01.png",
     "Assets/UnrealEngine/UE.APlayerController.SetInputModeGameOnly_01.png",
     "Assets/UnrealEngine/UE.APlayerController.SetInputModeUIOnly_01.png",
-    "Assets/Math/MP.MathUtils.GetShortestAngularDispDegrees_01.png",
     "Assets/C++",
     "Assets/D3D11",
     "Assets/UnrealEngine",
@@ -258,7 +261,6 @@
     "Cheatsheet/Cheatsheet.Markdown.md",
     "02 - UnrealEngine/Multiplayer/UE.Multiplayer.md",
     "02 - UnrealEngine/Gameplay/UE.Weapon Trail.md",
-    "02 - UnrealEngine/GAS/UE.UAbilityTask_PlayMontageAndWait.md",
     "02 - UnrealEngine/Systems",
     "02 - UnrealEngine/Framework/Player",
     "02 - UnrealEngine/Framework/Core",
