@@ -1,3 +1,0 @@
-# relative
-
-Owner: Edwin

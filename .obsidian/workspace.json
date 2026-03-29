@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "ff282e9649794de7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippet/Snippet.AWS.ec2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snippet.AWS.ec2"
-            }
-          },
-          {
             "id": "59e7cbf9f942c818",
             "type": "leaf",
             "state": {
@@ -62,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +60,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 16.344725111441306,
+        "dimension": 71.31208302446257,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -104,7 +90,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 83.6552748885587,
+        "dimension": 28.687916975537437,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -130,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 822
+    "width": 620.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -257,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
     "Snippet/Snippet.CPP.A reference to a.md",
     "Perforce.md",

@@ -1,3 +1,0 @@
-# a
-
-Owner: Edwin

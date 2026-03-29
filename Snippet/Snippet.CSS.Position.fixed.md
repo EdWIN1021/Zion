@@ -1,3 +1,0 @@
-# fixed
-
-Owner: Edwin

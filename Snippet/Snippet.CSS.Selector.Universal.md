@@ -1,9 +1,0 @@
-# Universal
-
-Owner: Edwin
-
-```css
-* {
-
-}
-```

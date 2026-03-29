@@ -1,3 +1,0 @@
-# static
-
-Owner: Edwin

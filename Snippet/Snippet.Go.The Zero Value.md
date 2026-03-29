@@ -1,1 +1,0 @@
-Go, like most modern languages, assigns a default zero value to any variable that is declared but not assigned a value.

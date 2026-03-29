@@ -1,3 +1,0 @@
-# Pseudo-Classes
-
-Owner: Edwin

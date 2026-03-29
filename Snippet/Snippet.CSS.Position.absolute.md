@@ -1,3 +1,0 @@
-# absolute
-
-Owner: Edwin
