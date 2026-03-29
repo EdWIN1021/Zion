@@ -25,12 +25,12 @@
             "id": "59e7cbf9f942c818",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "image",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Assets/Screenshot 2025-12-19 201845.png"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-image",
+              "title": "Screenshot 2025-12-19 201845"
             }
           },
           {
@@ -60,7 +60,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 17.64269829503336,
+        "dimension": 51.51964418087472,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -90,7 +90,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 82.35730170496664,
+        "dimension": 48.48035581912528,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 620.5
+    "width": 1023.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -245,34 +245,34 @@
   },
   "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
-    "Snippet/Snippet.CPP.A reference to a.md",
+    "Snippet/Snippet.D3D11.Set.md",
+    "Snippet/Snippet.D3D11.Rendering.md",
+    "Snippet/Snippet.D3D11.OMSetRenderTargets.md",
+    "Snippet/Snippet.D3D11.Initializing.md",
+    "Snippet/Snippet.D3D11.IDXGISwapChain.md",
+    "Snippet/Snippet.D3D11.ID3D11InputLayout.md",
+    "Snippet/Snippet.D3D11.ID3D11DeviceContext.md",
+    "Snippet/Snippet.D3D11.ID3D11Device.md",
+    "Snippet/Snippet.D3D11.IASetVertexBuffers.md",
+    "Snippet/Snippet.D3D11.IASetPrimitiveTopology.md",
+    "Snippet/Snippet.D3D11.IASetInputLayout.md",
+    "Snippet/Snippet.D3D11.Get Back.md",
+    "Snippet/Snippet.D3D11.DrawIndexed.md",
+    "Snippet/Snippet.D3D11.Draw.md",
+    "Snippet/Snippet.D3D11.D3D11CreateDeviceAndSwapChain.md",
+    "Snippet/Snippet.D3D11.Create.md",
+    "Snippet/Snippet.D3D11.CPU to.md",
+    "Snippet/Snippet.D3D11.Compile & Create.md",
+    "Snippet/Snippet.D3D11.ClearScreen.md",
+    "Snippet/Snippet.D3D11.Clean up Intermediate.md",
+    "Cheatsheet/Cheatsheet.UE.Shortcuts.md",
+    "Cheatsheet/Cheatsheet.Markdown.md",
     "Perforce.md",
+    "Home.md",
+    "Snippet/Snippet.CPP.A reference to a.md",
     "Screenshot 2026-01-20 165950.png",
     "Snippet/Snippet.MP.MathUtils.DotProduct.md",
-    "Snippet/Snippet.UE.Hit React.md",
-    "Snippet/Snippet.UE.HitReact.md",
-    "Snippet/Snippet.UE.UKismetMathLibrary.DegAcos.md",
-    "Snippet/Snippet.UE.FVector.DotProduct.md",
-    "Snippet/Snippet.MP.OBB2.IsPointInsideOBB2D.md",
-    "Snippet/Snippet.MP.OBB2.GetNearestPointOnOBB2.md",
-    "Snippet/Snippet.MP.MathUtils.GetNearestPointOnTriangle2D_v2.md",
-    "Concept/Concept.MP.MathUtils.CrossProduct.md",
-    "Concept/Concept.D3D11.RenderTargetView.md",
-    "Concept/Concept.CPP.LambdaExpressions.md",
-    "Concept/Concept.D3D11.BackBuffer.md",
-    "Snippet/Snippet.D311.Create.md",
-    "Concept/Concept.D3D11.RenderTarget.md",
     "Concept/Concept.D3D11.Canvas.canvas",
-    "Concept/Concept.CPP.Pointer.md",
-    "Snippet/Snippet.MP.3DRotation.md",
-    "Concept/Concept.D3D11.IndexBuffer.md",
-    "Concept/Concept.CPP.Pointer.Indexing.md",
-    "Concept/Concept.D3D11.ConstantBuffer.md",
-    "Snippet/Snippet.MP.MathUtils.GetFractionWithinRange.md",
-    "Snippet/Snippet.MP.MathUtils.GetShortestAngularDispDegrees.md",
-    "Snippet/Snippet.MP.MathUtils.RangeMap.md",
-    "Snippet/Snippet.MP.MathUtils.RangeMapClamped.md",
-    "Snippet/Snippet.MP.MathUtils.RoundDownToInt.md",
     "Assets/Screenshot 2026-01-20 165618.png",
     "Tags",
     "Excalidraw",
