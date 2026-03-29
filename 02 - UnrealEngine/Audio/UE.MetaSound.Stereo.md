@@ -1,3 +1,3 @@
-![[Screenshot 2025-12-20 131154.png | center]]
+![[Assets/UnrealEngine/UE.MetaSound.Stereo_01.png | center]]
 
-![[Screenshot 2025-12-20 131203.png | center]]
+![[Assets/UnrealEngine/UE.MetaSound.Stereo_02.png | center]]

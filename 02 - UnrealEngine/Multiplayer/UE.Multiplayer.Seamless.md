@@ -1,1 +1,1 @@
-![[Screenshot 2025-12-22 213423.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.Seamless_01.png | center]]

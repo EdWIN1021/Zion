@@ -1,1 +1,1 @@
-![[Screenshot 2025-12-22 125818.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.Replication.RPC.Multicast_01.png | center]]

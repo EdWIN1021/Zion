@@ -1,3 +1,3 @@
-![[Screenshot 2025-12-21 211648.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.Ownership_01.png | center]]
 
-![[Screenshot 2025-12-21 212023.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.Ownership_02.png | center]]

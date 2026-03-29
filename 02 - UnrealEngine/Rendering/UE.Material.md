@@ -15,7 +15,7 @@
 ## ORM 
 - ORM (Occlusion, Roughness, Metallic)
 - Texture Sample
-![[Screenshot 2025-12-17 121453.png | center]]
+![[Assets/UnrealEngine/UE.Material_01.png | center]]
 
 
 

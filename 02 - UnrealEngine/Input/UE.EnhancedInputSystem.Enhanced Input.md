@@ -1,6 +1,6 @@
 ## IA_Move
 
-![[Screenshot 2025-12-29 125648.png | center]]
+![[Assets/UnrealEngine/UE.EnhancedInputSystem.Enhanced Input_01.png | center]]
 
 
 ### Create the Callback Functions

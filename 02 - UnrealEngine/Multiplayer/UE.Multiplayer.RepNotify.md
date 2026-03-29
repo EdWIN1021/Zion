@@ -1,3 +1,3 @@
-![[Screenshot 2025-12-21 203319.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.RepNotify_01.png | center]]
 
-![[Screenshot 2025-12-21 203615.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.RepNotify_02.png | center]]

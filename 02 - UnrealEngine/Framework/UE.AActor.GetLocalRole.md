@@ -24,4 +24,4 @@ Return Type:
 
 ```
 
-![[Screenshot 2025-12-21 104825.png | center]]
+![[Assets/UnrealEngine/UE.AActor.GetLocalRole_01.png | center]]

@@ -1,16 +1,16 @@
 ## Create Socket on Skeletal Mesh
-![[Screenshot 2025-02-02 164904.png | center | 550]]
+![[Assets/UnrealEngine/UE.Socket_01.png | center | 550]]
 
 ## Create Socket on Static Mesh
 
-![[Screenshot 2025-12-19 191509.png | center]]
+![[Assets/UnrealEngine/UE.Socket_03.png | center]]
 
 ## Get Socket By Name
 ![[Snippet.UE.GetSocket]]
 
 ## Attach the Weapon to the Character
 
-![[Screenshot 2025-04-12 054828.png | center]]
+![[Assets/UnrealEngine/UE.Socket_02.png | center]]
 
 
 ![[Snippet.UE.AttachMeshToSocket]]

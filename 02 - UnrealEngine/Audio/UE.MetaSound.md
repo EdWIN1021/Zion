@@ -1,5 +1,5 @@
 ## Sound Attenuation
 
-![[Screenshot 2025-12-20 131907.png | center]]
+![[Assets/UnrealEngine/UE.MetaSound_01.png | center]]
 
-![[Screenshot 2025-12-20 132032.png | center]]
+![[Assets/UnrealEngine/UE.MetaSound_02.png | center]]

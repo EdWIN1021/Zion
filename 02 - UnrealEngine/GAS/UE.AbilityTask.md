@@ -6,7 +6,7 @@
 - 等待特定事件（比如命中事件、碰撞事件）
 - 播放特效、发出射线等
 
-![[Screenshot 2025-06-24 164000.png]]
+![[Assets/UnrealEngine/UE.AbilityTask_01.png]]
 
 
 ```cpp

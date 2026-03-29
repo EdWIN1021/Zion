@@ -3,13 +3,13 @@
 
 ### Recevied_Notify
 
-![[Screenshot 2025-06-24 205824.png]]
+![[Assets/UnrealEngine/UE.Send Gameplay Event To_01.png]]
 
 ---
 
 ## AnimMontage
 
-![[Screenshot 2025-06-24 210156.png]]
+![[Assets/UnrealEngine/UE.Send Gameplay Event To_02.png]]
 
 ---
 
@@ -17,4 +17,4 @@
 
 ### WaitGameplayEvent
 
-![[Screenshot 2025-06-24 210608.png]]
+![[Assets/UnrealEngine/UE.Send Gameplay Event To_03.png]]

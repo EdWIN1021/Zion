@@ -15,4 +15,4 @@ Description: A game instance provide a handy central hub for managing persistent
 
 ```
 
-![[Screenshot 2026-01-01 132719.png | center]]
+![[Assets/UnrealEngine/UE.UGameInstance.UGameInstance_01.png | center]]

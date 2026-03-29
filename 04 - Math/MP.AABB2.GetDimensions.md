@@ -2,7 +2,7 @@
 > [!NOTE]
 > Returns the width and height of the AABB2
 
-![[GetDimensions.png | center | 800]]
+![[Assets/Math/MP.AABB2.GetDimensions_01.png | center | 800]]
 
 ```cpp
 //-----------------------------------------------------------------------------------------------

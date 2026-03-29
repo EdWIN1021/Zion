@@ -1,8 +1,8 @@
-![[Screenshot 2025-12-21 142541.png | center]]
+![[Assets/UnrealEngine/UE.Interface_01.png | center]]
 
-![[Screenshot 2025-12-21 143146.png | center]]
+![[Assets/UnrealEngine/UE.Interface_02.png | center]]
 
-![[Screenshot 2025-12-21 143202.png | center]]
+![[Assets/UnrealEngine/UE.Interface_03.png | center]]
 
 - If an interface function has **no return value**, it can be invoked as an **Event**
 - [[DoesObjectImplementInterface]]

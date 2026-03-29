@@ -1,7 +1,7 @@
 > Project Settings -> Collision
 
 
-![[Screenshot 2025-07-26 171303.png]]
+![[Assets/UnrealEngine/UE.Custom Trace_01.png]]
 
 
-![[Screenshot 2025-07-26 171629.png]]
+![[Assets/UnrealEngine/UE.Custom Trace_02.png]]

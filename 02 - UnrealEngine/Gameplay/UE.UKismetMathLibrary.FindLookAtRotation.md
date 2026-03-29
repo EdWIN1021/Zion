@@ -16,4 +16,4 @@ const FRotator LookAtRot = UKismetMathLibrary::FindLookAtRotation(OwningPawn->Ge
 
 ```
 
-![[Screenshot 2025-12-19 161706.png | center]]
+![[Assets/UnrealEngine/UE.UKismetMathLibrary.FindLookAtRotation_01.png | center]]

@@ -1,5 +1,5 @@
 
-![[IsPointInside.png| center | 800]]
+![[Assets/Math/MP.AABB2.IsPointInside_01.png| center | 800]]
 
 
 ```cpp

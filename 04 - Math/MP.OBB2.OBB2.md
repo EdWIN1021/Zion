@@ -4,7 +4,7 @@
 > Unlike an Axis-Aligned Bounding Box (AABB), which is always aligned with the world's X and Y axes, an OBB can be **freely rotated**.
 
 
-![[OBB2.png| center | 500]]
+![[Assets/Math/MP.OBB2.OBB2_01.png| center | 500]]
 
 ```c++
 struct OBB2 

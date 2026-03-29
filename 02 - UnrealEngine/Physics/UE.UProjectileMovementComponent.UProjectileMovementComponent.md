@@ -5,4 +5,4 @@ Hierarchy:
   - "[[_temp_/UActorComponent/UActorComponent]]"
   - "[[_temp_/UObject/UObject]]"
 ---
-![[Screenshot 2025-12-19 200734.png | center | 600]]
+![[Assets/UnrealEngine/UE.UProjectileMovementComponent.UProjectileMovementComponent_01.png | center | 600]]

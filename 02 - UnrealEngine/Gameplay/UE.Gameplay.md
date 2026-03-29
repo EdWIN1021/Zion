@@ -1,7 +1,7 @@
 ### Modifiers
 
 #### Curve Table
-![[Screenshot 2025-06-18 202621.png]]
+![[Assets/UnrealEngine/UE.Gameplay_01.png]]
 
 #### Attribute Based
-![[Screenshot 2025-06-18 203036.png]]
+![[Assets/UnrealEngine/UE.Gameplay_02.png]]

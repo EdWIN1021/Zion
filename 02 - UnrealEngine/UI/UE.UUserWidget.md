@@ -5,7 +5,7 @@ Used to **define UI elements** (buttons, panels, progress bars, HUD, etc.).
 
 ## Add widget to viewport
 
-![[Screenshot 2025-12-16 181555.png | center]]
+![[Assets/UnrealEngine/UE.UUserWidget_01.png | center]]
 - Overlay
 - [[_temp_/UI/UButton]]
 - Text

@@ -1,4 +1,4 @@
-![[Screenshot 2025-06-24 142404.png]]
+![[Assets/UnrealEngine/UE.Toggle Weapon_01.png]]
 ## ANS_ToggleWeaponCollision (Anim Notify State)
 
 ### Received_NotifyBegin

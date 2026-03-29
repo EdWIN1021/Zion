@@ -1,6 +1,6 @@
-![[Screenshot 2025-12-16 184226.png | center]]
+![[Assets/UnrealEngine/UE.ProjectSettings.Packaging_01.png | center]]
 
 
 
 
-![[Screenshot 2025-12-16 185204.png | center]]
+![[Assets/UnrealEngine/UE.ProjectSettings.Packaging_02.png | center]]

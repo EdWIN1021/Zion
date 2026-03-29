@@ -1,3 +1,3 @@
 #DotProduct #ijbasis 
 
-![[GetNearestPointOnOBB2.png]]
+![[Assets/Math/MP.OBB2.GetNearestPointOnOBB2_01.png]]

@@ -1,9 +1,9 @@
 ## Plugins
 
 
-![[Screenshot 2025-12-16 201508.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.Steam Online_01.png | center]]
 
-![[Screenshot 2025-12-16 201539.png | center]]
+![[Assets/UnrealEngine/UE.Multiplayer.Steam Online_02.png | center]]
 
 ## DefaultEngine.ini
 

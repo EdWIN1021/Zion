@@ -15,4 +15,4 @@ Return Type:
 ```cpp
 
 ```
-![[Screenshot 2025-12-16 184817.png | center]]
+![[Assets/UnrealEngine/UE.UKismetSystemLibrary.Quit_01.png | center]]

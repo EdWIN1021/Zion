@@ -1,6 +1,6 @@
-![[IMG_0021.png | center | 600]]
+![[Assets/Math/MP.MathUtils.GetShortestAngularDispDegrees_01.png | center | 600]]
 
-![[IMG_0022.png | center | 700]]
+![[Assets/Math/MP.MathUtils.GetShortestAngularDispDegrees_02.png | center | 700]]
 
 
 ```cpp

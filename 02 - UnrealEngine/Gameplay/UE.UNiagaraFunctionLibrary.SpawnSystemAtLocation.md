@@ -16,4 +16,4 @@ Return Type:
 
 ```
 
-![[Screenshot 2025-12-20 104517.png | centert]]
+![[Assets/UnrealEngine/UE.UNiagaraFunctionLibrary.SpawnSystemAtLocation_01.png | centert]]

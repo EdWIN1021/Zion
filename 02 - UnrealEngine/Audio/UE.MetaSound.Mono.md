@@ -5,13 +5,13 @@
 2. Create a MetaSound Source
     - In the Content Browser, click **Add → Audio → MetaSound Source** and name it.
 
-![[Screenshot 2025-12-20 124144.png | center]]
+![[Assets/UnrealEngine/UE.MetaSound.Mono_02.png | center]]
 
-![[Screenshot 2025-12-20 124830.png | center]]
+![[Assets/UnrealEngine/UE.MetaSound.Mono_03.png | center]]
 ## Playing MetaSounds in C++
 
 ```cpp
 UGameplayStatics::PlaySoundAtLocation( this, EquipSound, GetActorLocation() );
 ```
 
-![[Screenshot  2025-04-14 190251.png]]
+![[Assets/UnrealEngine/UE.MetaSound.Mono_01.png]]
