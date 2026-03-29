@@ -13,44 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snippet/Snippet.CPP.A reference to a.md",
+                "file": "02 - UnrealEngine/Multiplayer/UE.Multiplayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Snippet.CPP.A reference to a"
-            }
-          },
-          {
-            "id": "59e7cbf9f942c818",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snippet/Snippet.CPP.ReferenceToPointer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Snippet.CPP.ReferenceToPointer"
-            }
-          },
-          {
-            "id": "d17ec7d7694b9d5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concept/Concept.D3D11.BackBuffer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Concept.D3D11.BackBuffer"
+              "title": "UE.Multiplayer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +33,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 69.53298739807265,
+        "dimension": 14.825796886582655,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -92,7 +63,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 30.46701260192735,
+        "dimension": 85.17420311341735,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -118,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 700.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -245,55 +216,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59e7cbf9f942c818",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
-    "Concept/Concept.CPP.auto.md",
-    "Snippet/Snippet.CPP.AccessingClassMembers.md",
-    "Snippet/Snippet.CPP.Abstract Class.md",
-    "Assets/Screenshot 2025-12-19 201845.png",
-    "Snippet/Snippet.CPP.A reference to a.md",
-    "Snippet/Snippet.CPP.ReferenceToPointer.md",
-    "Snippet/Snippet.D3D11.Set.md",
-    "Snippet/Snippet.D3D11.Rendering.md",
-    "Snippet/Snippet.D3D11.OMSetRenderTargets.md",
-    "Snippet/Snippet.D3D11.Initializing.md",
-    "Snippet/Snippet.D3D11.IDXGISwapChain.md",
-    "Snippet/Snippet.D3D11.ID3D11InputLayout.md",
-    "Snippet/Snippet.D3D11.ID3D11DeviceContext.md",
-    "Snippet/Snippet.D3D11.ID3D11Device.md",
-    "Snippet/Snippet.D3D11.IASetVertexBuffers.md",
-    "Snippet/Snippet.D3D11.IASetPrimitiveTopology.md",
-    "Snippet/Snippet.D3D11.IASetInputLayout.md",
-    "Snippet/Snippet.D3D11.Get Back.md",
-    "Snippet/Snippet.D3D11.DrawIndexed.md",
-    "Snippet/Snippet.D3D11.Draw.md",
-    "Snippet/Snippet.D3D11.D3D11CreateDeviceAndSwapChain.md",
-    "Snippet/Snippet.D3D11.Create.md",
-    "Snippet/Snippet.D3D11.CPU to.md",
-    "Snippet/Snippet.D3D11.Compile & Create.md",
-    "Snippet/Snippet.D3D11.ClearScreen.md",
-    "Snippet/Snippet.D3D11.Clean up Intermediate.md",
-    "Cheatsheet/Cheatsheet.UE.Shortcuts.md",
-    "Screenshot 2026-01-20 165950.png",
+    "02 - UnrealEngine/Gameplay/UE.Weapon Trail.md",
+    "02 - UnrealEngine/GAS/UE.UAbilityTask_PlayMontageAndWait.md",
+    "02 - UnrealEngine/Framework/Actor/UE.AActor.SetRootComponent.md",
+    "02 - UnrealEngine/Framework/Actor/UE.AActor.GetRootComponent.md",
+    "02 - UnrealEngine/Systems",
+    "02 - UnrealEngine/Framework/Player",
+    "02 - UnrealEngine/Framework/Core",
+    "02 - UnrealEngine/Framework/Actor",
+    "02 - UnrealEngine/Memory/UE.TSoftClassPtr.md",
+    "02 - UnrealEngine/Memory/UE.TObjectPtr.md",
+    "02 - UnrealEngine/Framework/UE.Plugins.md",
+    "02 - UnrealEngine/Gameplay/UE.SetFocus.md",
+    "02 - UnrealEngine/Gameplay/UE.Gameplay.md",
+    "02 - UnrealEngine/Physics/UE.UFieldNodeFloat.md",
+    "02 - UnrealEngine/Physics/UE.Field System Actors.md",
+    "02 - UnrealEngine/Math/UE.UNavigationSystemV1.md",
+    "02 - UnrealEngine/Math/UE.Navigation PathFinding System.md",
+    "02 - UnrealEngine/Physics/UE.UPrimitiveComponent.UPrimitiveComponent.md",
+    "02 - UnrealEngine/Physics/UE.UPrimitiveComponent.md",
+    "02 - UnrealEngine/Physics/UE.UPrimitiveComponent.bReceivesDecals.md",
+    "02 - UnrealEngine/Physics/UE.UPrimitiveComponent.AddImpulse.md",
+    "02 - UnrealEngine/Framework/UE.Handle Property Changes in.md",
+    "02 - UnrealEngine/Framework/UE.UGameplayTasksComponent.md",
+    "02 - UnrealEngine/Framework/UE.UGameplayStatics.UGameplayStatics.md",
+    "02 - UnrealEngine/Rendering/UE.USplineComponent.md",
+    "02 - UnrealEngine/Rendering/UE.GEngine.AddOnScreenDebugMessage.md",
+    "02 - UnrealEngine/Rendering/UE.DrawDebugSphere.md",
+    "02 - UnrealEngine/Rendering/UE.DrawDebugPoint.md",
+    "02 - UnrealEngine/Rendering/UE.DrawDebugLine.md",
+    "02 - UnrealEngine/Rendering/UE.DrawDebugHelpers.md",
+    "02 - UnrealEngine/Math",
+    "02 - UnrealEngine/Gameplay",
+    "02 - UnrealEngine/Physics",
+    "02 - UnrealEngine/Memory",
+    "02 - UnrealEngine/Audio",
+    "02 - UnrealEngine/Rendering",
+    "03 - D3D11/D3D11.Canvas.canvas",
+    "SMU/Software Dev for Games II/DebugRenderSystem/BillboardDemo/BillboardDemo/Data/Images/TestUV.png",
+    "SMU/Software Dev for Games II/Protogame3D/MathVisualizer/MathVisualizer/Data/Images/TestUV.png",
+    "SMU/Software Dev for Games II/Protogame3D/MathVisualizer/MathVisualizer/Data/Fonts/SquirrelFixedFont.png",
+    "SMU/Math and Physics II/Assignment#4/C35_MP2-A04_Demo/Run/Data/Images/Test_StbiFlippedAndOpenGL.png",
+    "SMU/Software Dev for Games II/DebugRenderSystem/BillboardDemo/BillboardDemo/Data/Fonts/SquirrelFixedFont.png",
+    "SMU/Math and Physics II/Assignment#4/C35_MP2-A04_Demo/Run/Data/Fonts/SquirrelFixedFont.png",
+    "SMU/Math and Physics II/Assignment#4/C35_MP2-A04_Demo/Run/Data/Fonts/SquirrelBlurryFont.png",
+    "SMU/Software Dev for Games II/Doomenstein Map/DoomensteinMap/Data/Maps/TestMap.png",
+    "SMU/Software Dev for Games II/Doomenstein Map/DoomensteinMap/Data/Maps/PortalMap.png",
+    "SMU/Software Dev for Games II/Doomenstein Map/DoomensteinMap/Data/Maps/MPMap.png",
     "Concept/Concept.D3D11.Canvas.canvas",
-    "Assets/Screenshot 2026-01-20 165618.png",
-    "Tags",
-    "Excalidraw",
-    "00 - Concept/Concept.D3D11.HullShader",
-    "00 - Concept/Concept.D3D11.Tessellation.md~",
-    "01 - Snippet/Snippet.CPP.C-Style-String.strlen.md~",
-    "01 - Snippet/Snippet.UE.UNavMovementComponent.@UNavMovementComponent.csv",
-    "01 - Snippet/c++",
-    "01 - Snipet",
-    "00 - Conecpt",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/Screenshot_2025-01-09_173337.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_194821.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_185336.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-10_185315.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-09_180353.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-06_182929.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-06_023612.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UPawnExtensionComponentBase 1768d590ff388038bef8e8caeb41b46b_all.csv",
     "Untitled.canvas",
     "_temp_/Material.canvas",
     "_temp_/AI.canvas",
