@@ -22,3 +22,6 @@ m_device->CreateVertexShader( vsByteCode->GetBufferPointer(), vsByteCode->GetBuf
 ```
 
 
+
+### Concept
+[[Concept.D3D11.VertexShader]]

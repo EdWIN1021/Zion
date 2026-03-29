@@ -18,3 +18,5 @@
 - UI 界面蓝图
 - 大型关卡资源引用
 - 角色职业类、怪物类（在游戏中根据配置才生成）
+### Implementation
+[[Snippet.UE.TSoftClassPtr]]

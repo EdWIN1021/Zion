@@ -60,7 +60,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 51.51964418087472,
+        "dimension": 36.54558932542624,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -90,7 +90,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 48.48035581912528,
+        "dimension": 63.45441067457376,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1023.5
+    "width": 731.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -196,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "&",
+                "query": "home",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 673
+    "width": 528.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7d7b430a8371fe4",
+  "active": "b695828163473881",
   "lastOpenFiles": [
     "Snippet/Snippet.D3D11.Set.md",
     "Snippet/Snippet.D3D11.Rendering.md",

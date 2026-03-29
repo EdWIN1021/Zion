@@ -28,3 +28,5 @@ If we wrap the variable’ name in one or more sets of parentheses, the compiler
 ```cpp
 decltype ((i)) d; // error:: d is int& and must be initialized
 ```
+### Implementation
+[[Snippet.CPP.decltype]]

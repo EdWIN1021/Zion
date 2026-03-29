@@ -5,3 +5,6 @@
 
 
 void*
+
+### Implementation
+[[Snippet.CPP.Pointer]]

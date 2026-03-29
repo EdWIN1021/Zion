@@ -47,3 +47,6 @@ int (*p)[4] = ia;       // p is a pointer to an array of 4 integers, initialized
 p = &ia[2];             // p is now pointing to the third row of ia
 
 ```
+
+### Concept
+[[Concept.CPP.Pointer]]

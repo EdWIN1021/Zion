@@ -21,3 +21,5 @@ UAssetManager::Get().GetStreamableManager().RequestAsyncLoad(
     FStreamableDelegate::CreateUObject(this, &ThisClass::OnEnemyClassLoaded)  
 );
 ```
+### Concept
+[[Concept.UE.TSoftClassPtr]]

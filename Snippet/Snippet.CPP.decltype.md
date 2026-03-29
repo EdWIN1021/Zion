@@ -12,3 +12,5 @@ decltype(*p)c; // error:cisint&andmustbeinitialized
 
 decltype((i)) d; // error: d is int& and must be initialized
 ```
+### Concept
+[[Concept.CPP.decltype]]
