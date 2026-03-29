@@ -1,5 +1,0 @@
-# listing tables
-
-```
-\dt
-```

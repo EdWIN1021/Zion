@@ -1,3 +1,0 @@
-# MAX
-
-Owner: Edwin

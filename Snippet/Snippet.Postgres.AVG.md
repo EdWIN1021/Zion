@@ -1,3 +1,0 @@
-# AVG
-
-Owner: Edwin

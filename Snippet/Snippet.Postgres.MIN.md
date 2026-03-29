@@ -1,3 +1,0 @@
-# MIN
-
-Owner: Edwin

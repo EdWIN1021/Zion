@@ -1,3 +1,0 @@
-# COUNT
-
-Owner: Edwin

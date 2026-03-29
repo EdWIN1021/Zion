@@ -1,5 +1,0 @@
-# system user
-
-```
-su - postgres
-```

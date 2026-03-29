@@ -1,3 +1,0 @@
-# GROUP BY
-
-Owner: Edwin

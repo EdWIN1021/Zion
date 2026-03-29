@@ -1,3 +1,0 @@
-# SUM
-
-Owner: Edwin
