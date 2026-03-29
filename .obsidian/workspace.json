@@ -25,12 +25,14 @@
             "id": "59e7cbf9f942c818",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Screenshot 2025-12-19 201845.png"
+                "file": "Snippet/Snippet.CPP.ReferenceToPointer.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Screenshot 2025-12-19 201845"
+              "icon": "lucide-file",
+              "title": "Snippet.CPP.ReferenceToPointer"
             }
           },
           {
@@ -60,7 +62,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 36.54558932542624,
+        "dimension": 69.53298739807265,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -90,7 +92,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 63.45441067457376,
+        "dimension": 30.46701260192735,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -116,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 731.5
+    "width": 397.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -196,7 +198,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home",
+                "query": "pointer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,8 +245,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b695828163473881",
+  "active": "59e7cbf9f942c818",
   "lastOpenFiles": [
+    "Concept/Concept.CPP.auto.md",
+    "Snippet/Snippet.CPP.AccessingClassMembers.md",
+    "Snippet/Snippet.CPP.Abstract Class.md",
+    "Assets/Screenshot 2025-12-19 201845.png",
+    "Snippet/Snippet.CPP.A reference to a.md",
+    "Snippet/Snippet.CPP.ReferenceToPointer.md",
     "Snippet/Snippet.D3D11.Set.md",
     "Snippet/Snippet.D3D11.Rendering.md",
     "Snippet/Snippet.D3D11.OMSetRenderTargets.md",
@@ -266,12 +274,7 @@
     "Snippet/Snippet.D3D11.ClearScreen.md",
     "Snippet/Snippet.D3D11.Clean up Intermediate.md",
     "Cheatsheet/Cheatsheet.UE.Shortcuts.md",
-    "Cheatsheet/Cheatsheet.Markdown.md",
-    "Perforce.md",
-    "Home.md",
-    "Snippet/Snippet.CPP.A reference to a.md",
     "Screenshot 2026-01-20 165950.png",
-    "Snippet/Snippet.MP.MathUtils.DotProduct.md",
     "Concept/Concept.D3D11.Canvas.canvas",
     "Assets/Screenshot 2026-01-20 165618.png",
     "Tags",
@@ -290,7 +293,6 @@
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-09_180353.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-06_182929.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-06_023612.png",
-    "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/屏幕截图_2025-05-06_023444.png",
     "_temp_/ExportBlock-ff412e43-f4c2-4444-ad5c-bacb86c78b11-Part-1/UPawnExtensionComponentBase 1768d590ff388038bef8e8caeb41b46b_all.csv",
     "Untitled.canvas",
     "_temp_/Material.canvas",
