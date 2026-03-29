@@ -1,5 +1,0 @@
-# production
-
-```
-npm run start
-```

@@ -1,3 +1,0 @@
-# pathname
-
-Owner: Edwin

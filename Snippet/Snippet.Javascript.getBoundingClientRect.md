@@ -1,5 +1,0 @@
-]]
-
-```jsx
-e.target.getBoundingClientRect()
-```

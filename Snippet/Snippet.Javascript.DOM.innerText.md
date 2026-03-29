@@ -1,3 +1,0 @@
-# innerText
-
-Owner: Edwin

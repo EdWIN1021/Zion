@@ -1,3 +1,0 @@
-# document.createTextNode
-
-Owner: Edwin

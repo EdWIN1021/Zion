@@ -1,3 +1,0 @@
-# innerHTML
-
-Owner: Edwin

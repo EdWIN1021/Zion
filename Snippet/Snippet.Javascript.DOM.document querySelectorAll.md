@@ -1,3 +1,0 @@
-# document.querySelectorAll
-
-Owner: Edwin

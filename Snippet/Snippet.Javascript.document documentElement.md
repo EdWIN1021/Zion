@@ -1,3 +1,0 @@
-# document.documentElement
-
-Owner: Edwin

@@ -1,3 +1,0 @@
-# textContent
-
-Owner: Edwin

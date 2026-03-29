@@ -1,3 +1,0 @@
-# classList.remove
-
-Owner: Edwin

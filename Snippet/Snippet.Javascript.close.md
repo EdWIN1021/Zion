@@ -1,4 +1,0 @@
-
-```jsx
-window.close()
-```

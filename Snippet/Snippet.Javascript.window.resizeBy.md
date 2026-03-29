@@ -1,3 +1,0 @@
-# resizeBy
-
-Owner: Edwin

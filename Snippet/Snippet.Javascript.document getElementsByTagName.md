@@ -1,3 +1,0 @@
-# document.getElementsByTagName
-
-Owner: Edwin

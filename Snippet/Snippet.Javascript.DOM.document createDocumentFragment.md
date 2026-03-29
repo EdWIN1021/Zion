@@ -1,3 +1,0 @@
-# document.createDocumentFragment
-
-Owner: Edwin

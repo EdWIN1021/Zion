@@ -1,3 +1,0 @@
-# document.createAttribute
-
-Owner: Edwin

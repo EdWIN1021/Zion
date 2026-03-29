@@ -1,3 +1,0 @@
-# React.cloneElement
-
-Owner: Edwin

@@ -1,3 +1,0 @@
-# document.head
-
-Owner: Edwin

@@ -1,3 +1,0 @@
-# scrollBy
-
-Owner: Edwin

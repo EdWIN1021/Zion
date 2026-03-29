@@ -1,3 +1,0 @@
-# classList.toggle
-
-Owner: Edwin

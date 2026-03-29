@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Perforce.md",
+                "file": "Snippet/Snippet.AWS.ec2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perforce"
+              "title": "Snippet.AWS.ec2"
+            }
+          },
+          {
+            "id": "59e7cbf9f942c818",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           },
           {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +74,7 @@
       {
         "id": "fccd44e440ada242",
         "type": "tabs",
-        "dimension": 64.98973305954826,
+        "dimension": 16.344725111441306,
         "children": [
           {
             "id": "b7d7b430a8371fe4",
@@ -92,7 +104,7 @@
       {
         "id": "765e103309fe3fb0",
         "type": "tabs",
-        "dimension": 35.01026694045175,
+        "dimension": 83.6552748885587,
         "children": [
           {
             "id": "8429eb866f7f4a91",
@@ -118,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 822
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -245,10 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff282e9649794de7",
+  "active": "b7d7b430a8371fe4",
   "lastOpenFiles": [
-    "Screenshot 2026-01-20 165950.png",
+    "Snippet/Snippet.CPP.A reference to a.md",
     "Perforce.md",
+    "Screenshot 2026-01-20 165950.png",
     "Snippet/Snippet.MP.MathUtils.DotProduct.md",
     "Snippet/Snippet.UE.Hit React.md",
     "Snippet/Snippet.UE.HitReact.md",

@@ -1,3 +1,0 @@
-# React.Fragment
-
-Owner: Edwin

@@ -1,5 +1,0 @@
-# sessionStorage
-
-Owner: Edwin
-
-/
