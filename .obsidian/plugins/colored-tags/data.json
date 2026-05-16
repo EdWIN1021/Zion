@@ -36,7 +36,10 @@
     "Virtual": 24,
     "AI": 25,
     "Flexbox": 26,
-    "excalidraw": 27
+    "excalidraw": 27,
+    "animation": 28,
+    "graphics": 29,
+    "gltf": 30
   },
   "_version": 3
 }

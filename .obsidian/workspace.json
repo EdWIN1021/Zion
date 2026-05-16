@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Math/MP.AABB3.Raycast.md",
+                "file": "animation/Skinning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MP.AABB3.Raycast"
+              "title": "Skinning"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 518.5
+    "width": 783.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pointer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 528.5
+    "width": 396.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,12 +220,35 @@
   },
   "active": "fe4fc0fbbbfe05c9",
   "lastOpenFiles": [
-    "temp.md",
+    "04 - Math/MP.3DRotation.md",
+    "animation/Skinning.md",
+    "04 - Math/MP.AABB2.md",
+    "04 - Math/MP.AABB2.GetDimensions.md",
+    "04 - Math/MP.AABB2.GetNearestPoint.md",
+    "04 - Math/MP.AABB2.IsPointInside.md",
+    "04 - Math/MP.AABB2.SetDimensions.md",
     "04 - Math/MP.AABB3.Raycast.md",
-    "Assets/Screenshot 2025-12-19 201929.png",
+    "04 - Math/MP.Disc.GetNearestPointOnDisc2D.md",
+    "04 - Math/MP.Disc.IsPointInsideDisc2D.md",
+    "04 - Math/MP.Disc.PushDiscOutOfFixedPoint2D.md",
+    "04 - Math/MP.MathUtils.CrossProduct.md",
+    "04 - Math/MP.MathUtils.DotProduct.md",
+    "04 - Math/MP.MathUtils.GetFractionWithinRange.md",
+    "04 - Math/MP.MathUtils.GetTurnedTowardDegrees.md",
+    "04 - Math/MP.MathUtils.GetShortestAngularDispDegrees.md",
+    "04 - Math/MP.MathUtils.GetNearestPointOnTriangle2D_v2.md",
+    "04 - Math/MP.MathUtils.PushDiscOutOfFixedAABB2D.md",
+    "04 - Math/MP.MathUtils.RangeMap.md",
+    "04 - Math/MP.MathUtils.RangeMapClamped.md",
+    "04 - Math/MP.MathUtils.RoundDownToInt.md",
+    "04 - Math/MP.MathUtils.Standard.md",
+    "04 - Math/MP.OBB2.GetNearestPointOnOBB2.md",
+    "04 - Math/MP.OBB2.IsPointInsideOBB2D.md",
+    "04 - Math/MP.OBB2.OBB2.md",
+    "04 - Math/MP.Vec2.GetClamped.md",
     "Assets/Screenshot 2025-12-19 201845.png",
+    "Assets/Screenshot 2025-12-19 201929.png",
     "Assets/Screenshot 2025-07-26 150515.png",
-    "01 - C++/CPP.dynamic_cast.md",
     "Assets/UnrealEngine/UE.UKismetSystemLibrary.FlipFlop_01.png",
     "Assets/UnrealEngine/UE.MetaSound_02.png",
     "Assets/UnrealEngine/UE.MetaSound_01.png",
@@ -238,29 +262,6 @@
     "Assets/Math",
     "execute_reorg.py",
     "analyze_images.py",
-    "01 - C++/CPP.Dynamic Binding.md",
-    "01 - C++/CPP.char.toupper.md",
-    "01 - C++/CPP.char.isxdigit.md",
-    "01 - C++/CPP.char.ispunct.md",
-    "01 - C++/CPP.char.isprint.md",
-    "01 - C++/CPP.char.isupper.md",
-    "01 - C++/CPP.Class Template.md",
-    "01 - C++/CPP.C-Style-String.strcpy.md",
-    "01 - C++/CPP.C-Style-String.strlen.md",
-    "01 - C++/CPP.char.md",
-    "01 - C++/CPP.AccessingClassMembers.md",
-    "04 - Math/MP.MathUtils.RangeMap.md",
-    "04 - Math/MP.Vec2.SetOrientationRadians.md",
-    "04 - Math/MP.VertexUtils.TransformVertexArrayXY3D.md",
-    "04 - Math/MP.Vec2.SetOrientationDegrees.md",
-    "04 - Math/MP.MathUtils.RangeMapClamped.md",
-    "04 - Math/MP.Disc.IsPointInsideDisc2D.md",
-    "04 - Math/MP.AABB2.IsPointInside.md",
-    "04 - Math/MP.AABB2.md",
-    "Cheatsheet/Cheatsheet.UE.Shortcuts.md",
-    "Cheatsheet/Cheatsheet.Markdown.md",
-    "02 - UnrealEngine/Multiplayer/UE.Multiplayer.md",
-    "02 - UnrealEngine/Gameplay/UE.Weapon Trail.md",
     "02 - UnrealEngine/Systems",
     "02 - UnrealEngine/Framework/Player",
     "02 - UnrealEngine/Framework/Core",
