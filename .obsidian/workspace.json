@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 783.5
+    "width": 445.5
   },
   "right": {
     "id": "4422b81e3b580ef0",
@@ -218,7 +218,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fe4fc0fbbbfe05c9",
+  "active": "8429eb866f7f4a91",
   "lastOpenFiles": [
     "04 - Math/MP.3DRotation.md",
     "animation/Skinning.md",
